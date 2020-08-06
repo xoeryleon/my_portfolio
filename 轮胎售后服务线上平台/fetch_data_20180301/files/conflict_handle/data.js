@@ -1,0 +1,2299 @@
+﻿$axure.loadCurrentPage({
+  "url":"conflict_handle.html",
+  "generationDate":new Date(1594096933250.94),
+  "isCanvasEnabled":false,
+  "variables":["show_data_updated_tip"],
+  "page":{
+    "packageId":"7a01c28be866413aa37a221cd509cc92",
+    "type":"Axure:Page",
+    "name":"conflict_handle",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"f1858b1caf68405a99fd62d946ecde82",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "size":{
+              "width":1348,
+              "height":60}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"4a6c5cc242cc4cbe9f815aa99af22f47",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "size":{
+                  "width":1348,
+                  "height":60}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/index/u0.png"}},
+{
+          "id":"d3e6f07814d74c5f9b127c58e8bd3ef2",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":0,
+              "y":60},
+            "size":{
+              "width":163,
+              "height":819}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e7822364394e4b3b8c71597318aab3a3",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":0,
+                  "y":60},
+                "size":{
+                  "width":163,
+                  "height":819}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/index/u2.png"}},
+{
+          "id":"5251a090d6f844ffa9e5f1456d2780ac",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":24,
+              "y":203},
+            "size":{
+              "width":126,
+              "height":31}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a3886503b87a47fb9fab83a543e0db96",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":24,
+                  "y":203},
+                "size":{
+                  "width":126,
+                  "height":31}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/index/u8.png"}},
+{
+          "id":"1a9d8b836aee43e2bf221b0e34015d7e",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"15px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF1DAFED,
+              "opacity":1},
+            "location":{
+              "x":37,
+              "y":210},
+            "size":{
+              "width":78,
+              "height":18}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"064fb0a1bf954d879704e1014fdfc99c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"15px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF1DAFED,
+                  "opacity":1},
+                "location":{
+                  "x":37,
+                  "y":210},
+                "size":{
+                  "width":78,
+                  "height":18}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"6dfb0d9a4dff4711be5af60b43ba7374",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"15px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "location":{
+              "x":37,
+              "y":177},
+            "size":{
+              "width":108,
+              "height":18}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f7cd0120ba8f40c8a1a894d93a85b63b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"15px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "location":{
+                  "x":37,
+                  "y":177},
+                "size":{
+                  "width":108,
+                  "height":18}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"69d57c6b43634e258bc5dee7bf8f63db",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":163,
+              "y":60},
+            "size":{
+              "width":18,
+              "height":819}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c80f022597da42f09725ebd672b9fdf3",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":163,
+                  "y":60},
+                "size":{
+                  "width":18,
+                  "height":819}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/index/u4.png"}},
+{
+          "id":"96244aef467b4b8aa92d008ee6aa70c8",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":181,
+              "y":60},
+            "size":{
+              "width":1165,
+              "height":818}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"60dc1fb2645b4bd4ad2a4ad4dc5067f3",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":181,
+                  "y":60},
+                "size":{
+                  "width":1165,
+                  "height":818}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/conflict_handle/u12.png"}},
+{
+          "id":"3de088108fea4354964dd61488fc65fb",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "opacity":"0.9",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFF000000},
+            "location":{
+              "x":181,
+              "y":60},
+            "size":{
+              "width":1167,
+              "height":818}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"3f308b21ce7d449e9ee546e7f04bea16",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "opacity":"0.9",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF000000},
+                "location":{
+                  "x":181,
+                  "y":60},
+                "size":{
+                  "width":1167,
+                  "height":818}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/conflict_handle/u14.png"}},
+{
+          "id":"2bbf43b36c8c47958cebaa75c4e25fb8",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":1250,
+              "y":90},
+            "size":{
+              "width":16,
+              "height":15}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ef67c3931fe9416b8a9fe775952f9386",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":1250,
+                  "y":90},
+                "size":{
+                  "width":16,
+                  "height":15}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 fundamental_data",
+                      "target":{
+                        "targetType":"page",
+                        "url":"fundamental_data.html",
+                        "includeVariables":true},
+                      "linkType":"current"},
+{
+                      "action":"setFunction",
+                      "description":"设置 值于 show_data_updated_tip = &quot;1&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"show_data_updated_tip"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"1",
+                                "stos":[]}]}]}}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/conflict_handle/u16.png"}},
+{
+          "id":"a8276b474da04273b512da92a82527ed",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":453,
+              "y":90},
+            "size":{
+              "width":623,
+              "height":656},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF666666}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b7343b2dddc049acbe4f5e81b67fe886",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":453,
+                  "y":90},
+                "size":{
+                  "width":623,
+                  "height":656},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF666666}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/conflict_handle/u18.png"}},
+{
+          "id":"e78cef25c10d4ecab52af8854365b539",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":690,
+              "y":669},
+            "size":{
+              "width":60,
+              "height":32}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b15b1f85433f4a21a1d56de261621ddd",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":690,
+                  "y":669},
+                "size":{
+                  "width":60,
+                  "height":32}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 2",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 fundamental_data",
+                      "target":{
+                        "targetType":"page",
+                        "url":"fundamental_data.html",
+                        "includeVariables":true},
+                      "linkType":"current"},
+{
+                      "action":"setFunction",
+                      "description":"设置 值于 show_data_updated_tip = &quot;1&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"show_data_updated_tip"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"1",
+                                "stos":[]}]}]}}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/index/u99.png"}},
+{
+          "id":"76dc15ae83924f87be59c99bd885a2ed",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":772,
+              "y":669},
+            "size":{
+              "width":60,
+              "height":32}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"1502d6687408417fbe7dc634a6d5addf",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":772,
+                  "y":669},
+                "size":{
+                  "width":60,
+                  "height":32}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 2",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 fundamental_data",
+                      "target":{
+                        "targetType":"page",
+                        "url":"fundamental_data.html",
+                        "includeVariables":true},
+                      "linkType":"current"},
+{
+                      "action":"setFunction",
+                      "description":"设置 值于 show_data_updated_tip = &quot;1&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetGlobalVariableValue",
+                            "arguments":[{
+                                "exprType":"globalVariableLiteral",
+                                "variableName":"show_data_updated_tip"},
+{
+                                "exprType":"stringLiteral",
+                                "value":"1",
+                                "stos":[]}]}]}}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/index/u101.png"}},
+{
+          "id":"a4c514fd21fb4e4a943326cdcb283d5d",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":484,
+              "y":164},
+            "size":{
+              "width":560,
+              "height":10},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF999999}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/conflict_handle/u24_line.png"}},
+{
+          "id":"109095b6de2e41c59686d59cd86abefe",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Bold', 'Applied Font'",
+            "fontSize":"14px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF666666,
+              "opacity":1},
+            "location":{
+              "x":484,
+              "y":184},
+            "size":{
+              "width":184,
+              "height":17}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"cde05391566449358c4c0cd95d9c2c99",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Bold', 'Applied Font'",
+                "fontSize":"14px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF666666,
+                  "opacity":1},
+                "location":{
+                  "x":484,
+                  "y":184},
+                "size":{
+                  "width":184,
+                  "height":17}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"1eea37052a014b17bbb11b81581bf0ac",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Bold', 'Applied Font'",
+            "fontSize":"14px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF666666,
+              "opacity":1},
+            "location":{
+              "x":678,
+              "y":184},
+            "size":{
+              "width":122,
+              "height":17}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"144004c681bd43b8b1b060ebc02255cd",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Bold', 'Applied Font'",
+                "fontSize":"14px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF666666,
+                  "opacity":1},
+                "location":{
+                  "x":678,
+                  "y":184},
+                "size":{
+                  "width":122,
+                  "height":17}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"8e15fd122705423286f4c39d7659b7c8",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Bold', 'Applied Font'",
+            "fontSize":"14px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF666666,
+              "opacity":1},
+            "location":{
+              "x":815,
+              "y":184},
+            "size":{
+              "width":185,
+              "height":17}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"0b85699f38a44bf3ab22c46c358867b6",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Bold', 'Applied Font'",
+                "fontSize":"14px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF666666,
+                  "opacity":1},
+                "location":{
+                  "x":815,
+                  "y":184},
+                "size":{
+                  "width":185,
+                  "height":17}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"a43f3e67a113429993aea2ab551779d2",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Bold', 'Applied Font'",
+            "fontSize":"14px",
+            "location":{
+              "x":484,
+              "y":214},
+            "size":{
+              "width":116,
+              "height":17}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"84bcbc2b28f543029f5895bba9e3cc71",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Bold', 'Applied Font'",
+                "fontSize":"14px",
+                "location":{
+                  "x":484,
+                  "y":214},
+                "size":{
+                  "width":116,
+                  "height":17}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"9dbc098146ba4c34a0449ee8690a9235",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Bold', 'Applied Font'",
+            "fontSize":"14px",
+            "fontWeight":"700",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF666666,
+              "opacity":1},
+            "location":{
+              "x":484,
+              "y":241},
+            "size":{
+              "width":83,
+              "height":17}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"3ed8c1ce34674f11a5f48a675742ba8b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Bold', 'Applied Font'",
+                "fontSize":"14px",
+                "fontWeight":"700",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF666666,
+                  "opacity":1},
+                "location":{
+                  "x":484,
+                  "y":241},
+                "size":{
+                  "width":83,
+                  "height":17}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"b21f7f9e48374644a863e4fce75d6f01",
+          "label":"tyre1_radio1",
+          "type":"radioButton",
+          "styleType":"radioButton",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"14px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF666666,
+              "opacity":1},
+            "location":{
+              "x":484,
+              "y":267},
+            "size":{
+              "width":206,
+              "height":17}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"14dbd11db6824885807f7072551c2702",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"14px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF666666,
+                  "opacity":1},
+                "location":{
+                  "x":484,
+                  "y":267},
+                "size":{
+                  "width":206,
+                  "height":17}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onCheckedChange":{
+              "description":"OnCheckedChange",
+              "cases":[{
+                  "description":"Case 1<br> (If 被选中的 tyre1_radio1 等于 真)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":"==",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetCheckState",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["b21f7f9e48374644a863e4fce75d6f01"]}]},
+                    "rightExpr":{
+                      "exprType":"booleanLiteral",
+                      "value":true}},
+                  "actions":[{
+                      "action":"enableDisableWidgets",
+                      "description":"禁用 tyre1_input3",
+                      "pathToInfo":[{
+                          "objectPath":["6c44549978e743639d9590bda3ee07fc"],
+                          "enableDisableInfo":{
+                            "enable":false}}]}]}]},
+            "onFocus":{
+              "description":"OnFocus",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"设置 被选中的 tyre1_radio2 = &quot;false&quot;, 与<br> 被选中的 tyre1_radio3 = &quot;false&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["f1bdb268d4144bc08d5e264f13cd73db"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"false",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["a64b2baba4a941a09a7a07f360fe2267"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"false",
+                                "stos":[]}]}]}},
+{
+                      "action":"enableDisableWidgets",
+                      "description":"禁用 tyre1_input3",
+                      "pathToInfo":[{
+                          "objectPath":["6c44549978e743639d9590bda3ee07fc"],
+                          "enableDisableInfo":{
+                            "enable":false}}]}]}]}}},
+{
+          "id":"f1bdb268d4144bc08d5e264f13cd73db",
+          "label":"tyre1_radio2",
+          "type":"radioButton",
+          "styleType":"radioButton",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"14px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF666666,
+              "opacity":1},
+            "location":{
+              "x":724,
+              "y":267},
+            "size":{
+              "width":206,
+              "height":17}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c10c9aab71d8450985d8c94576b7e198",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"14px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF666666,
+                  "opacity":1},
+                "location":{
+                  "x":724,
+                  "y":267},
+                "size":{
+                  "width":206,
+                  "height":17}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onCheckedChange":{
+              "description":"OnCheckedChange",
+              "cases":[{
+                  "description":"Case 1<br> (If 被选中的 tyre1_radio2 等于 真)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":"==",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetCheckState",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["f1bdb268d4144bc08d5e264f13cd73db"]}]},
+                    "rightExpr":{
+                      "exprType":"booleanLiteral",
+                      "value":true}},
+                  "actions":[{
+                      "action":"enableDisableWidgets",
+                      "description":"禁用 tyre1_input3",
+                      "pathToInfo":[{
+                          "objectPath":["6c44549978e743639d9590bda3ee07fc"],
+                          "enableDisableInfo":{
+                            "enable":false}}]}]}]},
+            "onFocus":{
+              "description":"OnFocus",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"设置 被选中的 tyre1_radio1 = &quot;false&quot;, 与<br> 被选中的 tyre1_radio3 = &quot;false&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["b21f7f9e48374644a863e4fce75d6f01"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"false",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["a64b2baba4a941a09a7a07f360fe2267"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"false",
+                                "stos":[]}]}]}},
+{
+                      "action":"enableDisableWidgets",
+                      "description":"禁用 tyre1_input3",
+                      "pathToInfo":[{
+                          "objectPath":["6c44549978e743639d9590bda3ee07fc"],
+                          "enableDisableInfo":{
+                            "enable":false}}]}]}]}}},
+{
+          "id":"a64b2baba4a941a09a7a07f360fe2267",
+          "label":"tyre1_radio3",
+          "type":"radioButton",
+          "styleType":"radioButton",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"14px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF666666,
+              "opacity":1},
+            "location":{
+              "x":484,
+              "y":298},
+            "size":{
+              "width":96,
+              "height":17}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ff56e84295a24337a790ffcdb07483e8",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"14px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF666666,
+                  "opacity":1},
+                "location":{
+                  "x":484,
+                  "y":298},
+                "size":{
+                  "width":96,
+                  "height":17}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onCheckedChange":{
+              "description":"OnCheckedChange",
+              "cases":[{
+                  "description":"Case 1<br> (If 被选中的 tyre1_radio3 等于 真)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":"==",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetCheckState",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["a64b2baba4a941a09a7a07f360fe2267"]}]},
+                    "rightExpr":{
+                      "exprType":"booleanLiteral",
+                      "value":true}},
+                  "actions":[{
+                      "action":"enableDisableWidgets",
+                      "description":"启用 tyre1_input3",
+                      "pathToInfo":[{
+                          "objectPath":["6c44549978e743639d9590bda3ee07fc"],
+                          "enableDisableInfo":{
+                            "enable":true}}]}]},
+{
+                  "description":"Case 2<br> (Else If 被选中的 tyre1_radio3 等于 假)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":"==",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetCheckState",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["a64b2baba4a941a09a7a07f360fe2267"]}]},
+                    "rightExpr":{
+                      "exprType":"booleanLiteral",
+                      "value":false}},
+                  "actions":[{
+                      "action":"enableDisableWidgets",
+                      "description":"禁用 tyre1_input3",
+                      "pathToInfo":[{
+                          "objectPath":["6c44549978e743639d9590bda3ee07fc"],
+                          "enableDisableInfo":{
+                            "enable":false}}]}]}]},
+            "onFocus":{
+              "description":"OnFocus",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"设置 被选中的 tyre1_radio1 = &quot;false&quot;, 与<br> 被选中的 tyre1_radio2 = &quot;false&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["b21f7f9e48374644a863e4fce75d6f01"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"false",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["f1bdb268d4144bc08d5e264f13cd73db"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"false",
+                                "stos":[]}]}]}},
+{
+                      "action":"enableDisableWidgets",
+                      "description":"启用 tyre1_input3",
+                      "pathToInfo":[{
+                          "objectPath":["6c44549978e743639d9590bda3ee07fc"],
+                          "enableDisableInfo":{
+                            "enable":true}}]}]}]}}},
+{
+          "id":"6c44549978e743639d9590bda3ee07fc",
+          "label":"tyre1_input3",
+          "type":"textBox",
+          "styleType":"textBox",
+          "disabled":true,
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":580,
+              "y":293},
+            "size":{
+              "width":200,
+              "height":25}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"034080ad9d934cc9a9d265b2042ee930",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Bold', 'Applied Font'",
+            "fontSize":"14px",
+            "fontWeight":"700",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF666666,
+              "opacity":1},
+            "location":{
+              "x":484,
+              "y":364},
+            "size":{
+              "width":83,
+              "height":17}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"91f32f065de14ec2a17ee667ef2f960a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Bold', 'Applied Font'",
+                "fontSize":"14px",
+                "fontWeight":"700",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF666666,
+                  "opacity":1},
+                "location":{
+                  "x":484,
+                  "y":364},
+                "size":{
+                  "width":83,
+                  "height":17}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"38180d3e9be74f4ba975574bc4a46e61",
+          "label":"tyre1_radio21",
+          "type":"radioButton",
+          "styleType":"radioButton",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"14px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF666666,
+              "opacity":1},
+            "location":{
+              "x":484,
+              "y":390},
+            "size":{
+              "width":206,
+              "height":17}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"169c17bf13104111bad346ab367465d1",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"14px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF666666,
+                  "opacity":1},
+                "location":{
+                  "x":484,
+                  "y":390},
+                "size":{
+                  "width":206,
+                  "height":17}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onFocus":{
+              "description":"OnFocus",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"设置 被选中的 tyre2_radio22 = &quot;false&quot;, 与<br> 被选中的 tyre2_radio23 = &quot;false&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["3621e715d5fd4cc1a01d7631434f9373"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"false",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["36a392a86e4b4df6aa801b4c4349748c"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"false",
+                                "stos":[]}]}]}},
+{
+                      "action":"enableDisableWidgets",
+                      "description":"禁用 tyre2_input23",
+                      "pathToInfo":[{
+                          "objectPath":["24ed815c22f64676bba940cdcb31c1e3"],
+                          "enableDisableInfo":{
+                            "enable":false}}]}]}]}}},
+{
+          "id":"3621e715d5fd4cc1a01d7631434f9373",
+          "label":"tyre2_radio22",
+          "type":"radioButton",
+          "styleType":"radioButton",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"14px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF666666,
+              "opacity":1},
+            "location":{
+              "x":724,
+              "y":390},
+            "size":{
+              "width":206,
+              "height":17}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"49d1dc59b84d46c2b120f825d72a6a9f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"14px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF666666,
+                  "opacity":1},
+                "location":{
+                  "x":724,
+                  "y":390},
+                "size":{
+                  "width":206,
+                  "height":17}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onFocus":{
+              "description":"OnFocus",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"设置 被选中的 tyre1_radio21 = &quot;false&quot;, 与<br> 被选中的 tyre2_radio23 = &quot;false&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["38180d3e9be74f4ba975574bc4a46e61"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"false",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["36a392a86e4b4df6aa801b4c4349748c"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"false",
+                                "stos":[]}]}]}},
+{
+                      "action":"enableDisableWidgets",
+                      "description":"禁用 tyre2_input23",
+                      "pathToInfo":[{
+                          "objectPath":["24ed815c22f64676bba940cdcb31c1e3"],
+                          "enableDisableInfo":{
+                            "enable":false}}]}]}]}}},
+{
+          "id":"36a392a86e4b4df6aa801b4c4349748c",
+          "label":"tyre2_radio23",
+          "type":"radioButton",
+          "styleType":"radioButton",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"14px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF666666,
+              "opacity":1},
+            "location":{
+              "x":484,
+              "y":421},
+            "size":{
+              "width":96,
+              "height":17}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"4190d64e2bfe4018a45bed340dccd1d9",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"14px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF666666,
+                  "opacity":1},
+                "location":{
+                  "x":484,
+                  "y":421},
+                "size":{
+                  "width":96,
+                  "height":17}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onCheckedChange":{
+              "description":"OnCheckedChange",
+              "cases":[{
+                  "description":"Case 1<br> (If 被选中的 tyre2_radio23 等于 真)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":"==",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetCheckState",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["36a392a86e4b4df6aa801b4c4349748c"]}]},
+                    "rightExpr":{
+                      "exprType":"booleanLiteral",
+                      "value":true}},
+                  "actions":[{
+                      "action":"enableDisableWidgets",
+                      "description":"启用 tyre2_input23",
+                      "pathToInfo":[{
+                          "objectPath":["24ed815c22f64676bba940cdcb31c1e3"],
+                          "enableDisableInfo":{
+                            "enable":true}}]}]},
+{
+                  "description":"Case 2<br> (Else If 被选中的 tyre2_radio23 等于 假)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":"==",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetCheckState",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["36a392a86e4b4df6aa801b4c4349748c"]}]},
+                    "rightExpr":{
+                      "exprType":"booleanLiteral",
+                      "value":false}},
+                  "actions":[{
+                      "action":"enableDisableWidgets",
+                      "description":"禁用 tyre2_input23",
+                      "pathToInfo":[{
+                          "objectPath":["24ed815c22f64676bba940cdcb31c1e3"],
+                          "enableDisableInfo":{
+                            "enable":false}}]}]}]},
+            "onFocus":{
+              "description":"OnFocus",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"设置 被选中的 tyre1_radio21 = &quot;false&quot;, 与<br> 被选中的 tyre2_radio22 = &quot;false&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["38180d3e9be74f4ba975574bc4a46e61"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"false",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["3621e715d5fd4cc1a01d7631434f9373"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"false",
+                                "stos":[]}]}]}},
+{
+                      "action":"enableDisableWidgets",
+                      "description":"启用 tyre2_input23",
+                      "pathToInfo":[{
+                          "objectPath":["24ed815c22f64676bba940cdcb31c1e3"],
+                          "enableDisableInfo":{
+                            "enable":true}}]}]}]}}},
+{
+          "id":"24ed815c22f64676bba940cdcb31c1e3",
+          "label":"tyre2_input23",
+          "type":"textBox",
+          "styleType":"textBox",
+          "disabled":true,
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":580,
+              "y":416},
+            "size":{
+              "width":200,
+              "height":25}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"3a184770788e451087b4ca068285d562",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Bold', 'Applied Font'",
+            "fontSize":"14px",
+            "location":{
+              "x":485,
+              "y":332},
+            "size":{
+              "width":195,
+              "height":17}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6d997b3a461348c9a52799906a588ed6",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Bold', 'Applied Font'",
+                "fontSize":"14px",
+                "location":{
+                  "x":485,
+                  "y":332},
+                "size":{
+                  "width":195,
+                  "height":17}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"daf6562039ae4d6fbdcf5c096a9b5733",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":484,
+              "y":454},
+            "size":{
+              "width":560,
+              "height":10},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF999999}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/conflict_handle/u24_line.png"}},
+{
+          "id":"f5e85b6544a54b51b3d6a69674db89c0",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Bold', 'Applied Font'",
+            "fontSize":"14px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF666666,
+              "opacity":1},
+            "location":{
+              "x":484,
+              "y":475},
+            "size":{
+              "width":195,
+              "height":17}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6830ebed1e814ddd8dcd1ad02377086d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Bold', 'Applied Font'",
+                "fontSize":"14px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF666666,
+                  "opacity":1},
+                "location":{
+                  "x":484,
+                  "y":475},
+                "size":{
+                  "width":195,
+                  "height":17}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"a6e8f4115eec4ff79e6963aea15e8440",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Bold', 'Applied Font'",
+            "fontSize":"14px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF666666,
+              "opacity":1},
+            "location":{
+              "x":679,
+              "y":475},
+            "size":{
+              "width":153,
+              "height":17}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"11a781db07a540099c588eb5fb57090f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Bold', 'Applied Font'",
+                "fontSize":"14px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF666666,
+                  "opacity":1},
+                "location":{
+                  "x":679,
+                  "y":475},
+                "size":{
+                  "width":153,
+                  "height":17}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"28a65db0b57e4e0b975af7c6e988a1f0",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Bold', 'Applied Font'",
+            "fontSize":"14px",
+            "location":{
+              "x":484,
+              "y":505},
+            "size":{
+              "width":116,
+              "height":17}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e1b4766bd72b4c17b07cbb979ac3e6e5",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Bold', 'Applied Font'",
+                "fontSize":"14px",
+                "location":{
+                  "x":484,
+                  "y":505},
+                "size":{
+                  "width":116,
+                  "height":17}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"a687b18052724272906d3a97cc8652df",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Bold', 'Applied Font'",
+            "fontSize":"14px",
+            "fontWeight":"700",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF666666,
+              "opacity":1},
+            "location":{
+              "x":484,
+              "y":532},
+            "size":{
+              "width":83,
+              "height":17}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"45c8fa6116c941e2bb05ae488cdc9250",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Bold', 'Applied Font'",
+                "fontSize":"14px",
+                "fontWeight":"700",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF666666,
+                  "opacity":1},
+                "location":{
+                  "x":484,
+                  "y":532},
+                "size":{
+                  "width":83,
+                  "height":17}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"de220b8166ba4ebf897cba4b233901f0",
+          "label":"tyre2_radio1",
+          "type":"radioButton",
+          "styleType":"radioButton",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"14px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF666666,
+              "opacity":1},
+            "location":{
+              "x":484,
+              "y":558},
+            "size":{
+              "width":206,
+              "height":17}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6adc0c2b7f4243798c5da570c60000f5",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"14px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF666666,
+                  "opacity":1},
+                "location":{
+                  "x":484,
+                  "y":558},
+                "size":{
+                  "width":206,
+                  "height":17}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onFocus":{
+              "description":"OnFocus",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"设置 被选中的 tyre2_radio2 = &quot;false&quot;, 与<br> 被选中的 tyre2_radio3 = &quot;false&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["3f3f4c033d554fd5ae49b68fb3e7d00d"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"false",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["4299cf416c6b4f07a5fe6c8ee850cc3c"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"false",
+                                "stos":[]}]}]}},
+{
+                      "action":"enableDisableWidgets",
+                      "description":"禁用 tyre2_input3",
+                      "pathToInfo":[{
+                          "objectPath":["8a07357eeebd474e82013ed084ad300b"],
+                          "enableDisableInfo":{
+                            "enable":false}}]}]}]}}},
+{
+          "id":"3f3f4c033d554fd5ae49b68fb3e7d00d",
+          "label":"tyre2_radio2",
+          "type":"radioButton",
+          "styleType":"radioButton",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"14px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF666666,
+              "opacity":1},
+            "location":{
+              "x":724,
+              "y":558},
+            "size":{
+              "width":206,
+              "height":17}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b81267c37fb64336b529e00e4e66da68",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"14px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF666666,
+                  "opacity":1},
+                "location":{
+                  "x":724,
+                  "y":558},
+                "size":{
+                  "width":206,
+                  "height":17}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onFocus":{
+              "description":"OnFocus",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"设置 被选中的 tyre2_radio1 = &quot;false&quot;, 与<br> 被选中的 tyre2_radio3 = &quot;false&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["de220b8166ba4ebf897cba4b233901f0"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"false",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["4299cf416c6b4f07a5fe6c8ee850cc3c"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"false",
+                                "stos":[]}]}]}},
+{
+                      "action":"enableDisableWidgets",
+                      "description":"禁用 tyre2_input3",
+                      "pathToInfo":[{
+                          "objectPath":["8a07357eeebd474e82013ed084ad300b"],
+                          "enableDisableInfo":{
+                            "enable":false}}]}]}]}}},
+{
+          "id":"4299cf416c6b4f07a5fe6c8ee850cc3c",
+          "label":"tyre2_radio3",
+          "type":"radioButton",
+          "styleType":"radioButton",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"14px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF666666,
+              "opacity":1},
+            "location":{
+              "x":484,
+              "y":589},
+            "size":{
+              "width":96,
+              "height":17}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ece2cd14ae5b4a62b14002dbbca0e8d7",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"14px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF666666,
+                  "opacity":1},
+                "location":{
+                  "x":484,
+                  "y":589},
+                "size":{
+                  "width":96,
+                  "height":17}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onCheckedChange":{
+              "description":"OnCheckedChange",
+              "cases":[{
+                  "description":"Case 1<br> (If 被选中的 tyre2_radio3 等于 真)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":"==",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetCheckState",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["4299cf416c6b4f07a5fe6c8ee850cc3c"]}]},
+                    "rightExpr":{
+                      "exprType":"booleanLiteral",
+                      "value":true}},
+                  "actions":[{
+                      "action":"enableDisableWidgets",
+                      "description":"启用 tyre2_input3",
+                      "pathToInfo":[{
+                          "objectPath":["8a07357eeebd474e82013ed084ad300b"],
+                          "enableDisableInfo":{
+                            "enable":true}}]}]},
+{
+                  "description":"Case 2<br> (Else If 被选中的 tyre2_radio3 等于 假)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":"==",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetCheckState",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["4299cf416c6b4f07a5fe6c8ee850cc3c"]}]},
+                    "rightExpr":{
+                      "exprType":"booleanLiteral",
+                      "value":false}},
+                  "actions":[{
+                      "action":"enableDisableWidgets",
+                      "description":"禁用 tyre2_input3",
+                      "pathToInfo":[{
+                          "objectPath":["8a07357eeebd474e82013ed084ad300b"],
+                          "enableDisableInfo":{
+                            "enable":false}}]}]}]},
+            "onFocus":{
+              "description":"OnFocus",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"设置 被选中的 tyre2_radio1 = &quot;false&quot;, 与<br> 被选中的 tyre2_radio2 = &quot;false&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["de220b8166ba4ebf897cba4b233901f0"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"false",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["3f3f4c033d554fd5ae49b68fb3e7d00d"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"false",
+                                "stos":[]}]}]}},
+{
+                      "action":"enableDisableWidgets",
+                      "description":"启用 tyre2_input3",
+                      "pathToInfo":[{
+                          "objectPath":["8a07357eeebd474e82013ed084ad300b"],
+                          "enableDisableInfo":{
+                            "enable":true}}]}]}]}}},
+{
+          "id":"8a07357eeebd474e82013ed084ad300b",
+          "label":"tyre2_input3",
+          "type":"textBox",
+          "styleType":"textBox",
+          "disabled":true,
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":580,
+              "y":584},
+            "size":{
+              "width":200,
+              "height":25}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"25f3a040f3fa44efb14ea21146636882",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":484,
+              "y":622},
+            "size":{
+              "width":560,
+              "height":10},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF999999}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/conflict_handle/u24_line.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "f1858b1caf68405a99fd62d946ecde82":{
+      "scriptId":"u0"},
+    "4a6c5cc242cc4cbe9f815aa99af22f47":{
+      "scriptId":"u1"},
+    "d3e6f07814d74c5f9b127c58e8bd3ef2":{
+      "scriptId":"u2"},
+    "e7822364394e4b3b8c71597318aab3a3":{
+      "scriptId":"u3"},
+    "5251a090d6f844ffa9e5f1456d2780ac":{
+      "scriptId":"u4"},
+    "a3886503b87a47fb9fab83a543e0db96":{
+      "scriptId":"u5"},
+    "1a9d8b836aee43e2bf221b0e34015d7e":{
+      "scriptId":"u6"},
+    "064fb0a1bf954d879704e1014fdfc99c":{
+      "scriptId":"u7"},
+    "6dfb0d9a4dff4711be5af60b43ba7374":{
+      "scriptId":"u8"},
+    "f7cd0120ba8f40c8a1a894d93a85b63b":{
+      "scriptId":"u9"},
+    "69d57c6b43634e258bc5dee7bf8f63db":{
+      "scriptId":"u10"},
+    "c80f022597da42f09725ebd672b9fdf3":{
+      "scriptId":"u11"},
+    "96244aef467b4b8aa92d008ee6aa70c8":{
+      "scriptId":"u12"},
+    "60dc1fb2645b4bd4ad2a4ad4dc5067f3":{
+      "scriptId":"u13"},
+    "3de088108fea4354964dd61488fc65fb":{
+      "scriptId":"u14"},
+    "3f308b21ce7d449e9ee546e7f04bea16":{
+      "scriptId":"u15"},
+    "2bbf43b36c8c47958cebaa75c4e25fb8":{
+      "scriptId":"u16"},
+    "ef67c3931fe9416b8a9fe775952f9386":{
+      "scriptId":"u17"},
+    "a8276b474da04273b512da92a82527ed":{
+      "scriptId":"u18"},
+    "b7343b2dddc049acbe4f5e81b67fe886":{
+      "scriptId":"u19"},
+    "e78cef25c10d4ecab52af8854365b539":{
+      "scriptId":"u20"},
+    "b15b1f85433f4a21a1d56de261621ddd":{
+      "scriptId":"u21"},
+    "76dc15ae83924f87be59c99bd885a2ed":{
+      "scriptId":"u22"},
+    "1502d6687408417fbe7dc634a6d5addf":{
+      "scriptId":"u23"},
+    "a4c514fd21fb4e4a943326cdcb283d5d":{
+      "scriptId":"u24"},
+    "109095b6de2e41c59686d59cd86abefe":{
+      "scriptId":"u25"},
+    "cde05391566449358c4c0cd95d9c2c99":{
+      "scriptId":"u26"},
+    "1eea37052a014b17bbb11b81581bf0ac":{
+      "scriptId":"u27"},
+    "144004c681bd43b8b1b060ebc02255cd":{
+      "scriptId":"u28"},
+    "8e15fd122705423286f4c39d7659b7c8":{
+      "scriptId":"u29"},
+    "0b85699f38a44bf3ab22c46c358867b6":{
+      "scriptId":"u30"},
+    "a43f3e67a113429993aea2ab551779d2":{
+      "scriptId":"u31"},
+    "84bcbc2b28f543029f5895bba9e3cc71":{
+      "scriptId":"u32"},
+    "9dbc098146ba4c34a0449ee8690a9235":{
+      "scriptId":"u33"},
+    "3ed8c1ce34674f11a5f48a675742ba8b":{
+      "scriptId":"u34"},
+    "b21f7f9e48374644a863e4fce75d6f01":{
+      "scriptId":"u35"},
+    "14dbd11db6824885807f7072551c2702":{
+      "scriptId":"u36"},
+    "f1bdb268d4144bc08d5e264f13cd73db":{
+      "scriptId":"u37"},
+    "c10c9aab71d8450985d8c94576b7e198":{
+      "scriptId":"u38"},
+    "a64b2baba4a941a09a7a07f360fe2267":{
+      "scriptId":"u39"},
+    "ff56e84295a24337a790ffcdb07483e8":{
+      "scriptId":"u40"},
+    "6c44549978e743639d9590bda3ee07fc":{
+      "scriptId":"u41"},
+    "034080ad9d934cc9a9d265b2042ee930":{
+      "scriptId":"u42"},
+    "91f32f065de14ec2a17ee667ef2f960a":{
+      "scriptId":"u43"},
+    "38180d3e9be74f4ba975574bc4a46e61":{
+      "scriptId":"u44"},
+    "169c17bf13104111bad346ab367465d1":{
+      "scriptId":"u45"},
+    "3621e715d5fd4cc1a01d7631434f9373":{
+      "scriptId":"u46"},
+    "49d1dc59b84d46c2b120f825d72a6a9f":{
+      "scriptId":"u47"},
+    "36a392a86e4b4df6aa801b4c4349748c":{
+      "scriptId":"u48"},
+    "4190d64e2bfe4018a45bed340dccd1d9":{
+      "scriptId":"u49"},
+    "24ed815c22f64676bba940cdcb31c1e3":{
+      "scriptId":"u50"},
+    "3a184770788e451087b4ca068285d562":{
+      "scriptId":"u51"},
+    "6d997b3a461348c9a52799906a588ed6":{
+      "scriptId":"u52"},
+    "daf6562039ae4d6fbdcf5c096a9b5733":{
+      "scriptId":"u53"},
+    "f5e85b6544a54b51b3d6a69674db89c0":{
+      "scriptId":"u54"},
+    "6830ebed1e814ddd8dcd1ad02377086d":{
+      "scriptId":"u55"},
+    "a6e8f4115eec4ff79e6963aea15e8440":{
+      "scriptId":"u56"},
+    "11a781db07a540099c588eb5fb57090f":{
+      "scriptId":"u57"},
+    "28a65db0b57e4e0b975af7c6e988a1f0":{
+      "scriptId":"u58"},
+    "e1b4766bd72b4c17b07cbb979ac3e6e5":{
+      "scriptId":"u59"},
+    "a687b18052724272906d3a97cc8652df":{
+      "scriptId":"u60"},
+    "45c8fa6116c941e2bb05ae488cdc9250":{
+      "scriptId":"u61"},
+    "de220b8166ba4ebf897cba4b233901f0":{
+      "scriptId":"u62"},
+    "6adc0c2b7f4243798c5da570c60000f5":{
+      "scriptId":"u63"},
+    "3f3f4c033d554fd5ae49b68fb3e7d00d":{
+      "scriptId":"u64"},
+    "b81267c37fb64336b529e00e4e66da68":{
+      "scriptId":"u65"},
+    "4299cf416c6b4f07a5fe6c8ee850cc3c":{
+      "scriptId":"u66"},
+    "ece2cd14ae5b4a62b14002dbbca0e8d7":{
+      "scriptId":"u67"},
+    "8a07357eeebd474e82013ed084ad300b":{
+      "scriptId":"u68"},
+    "25f3a040f3fa44efb14ea21146636882":{
+      "scriptId":"u69"}}});

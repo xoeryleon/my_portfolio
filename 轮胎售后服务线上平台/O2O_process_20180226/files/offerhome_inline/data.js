@@ -1,0 +1,1083 @@
+﻿$axure.loadCurrentPage({
+  "url":"offerhome_inline.html",
+  "generationDate":new Date(1594096576437.66),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"dbfe96b7b61d4dd38047860ee1e4d8f1",
+    "type":"Axure:Page",
+    "name":"offerhome_inline",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"3134f5e0752643a9abdca9611e695aa3",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "size":{
+              "width":364,
+              "height":1559}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"be6ed84099484875ba480eea21c4b2cb",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "size":{
+                  "width":364,
+                  "height":1559}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/offerhome_inline/u0.jpg"}},
+{
+          "id":"6c8231f72428467d9a265bd68b65ec5e",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":12,
+              "y":112},
+            "size":{
+              "width":340,
+              "height":85}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"0a73f17e411949fb9a0ae87e806d8d67",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":12,
+                  "y":112},
+                "size":{
+                  "width":340,
+                  "height":85}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/offerhome_inline/u2.png"}},
+{
+          "id":"19de39e2d1314a90a84b7552988be3c0",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":11,
+              "y":246},
+            "size":{
+              "width":341,
+              "height":51}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"73932a98be9d4606aecb39788c6204e5",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":11,
+                  "y":246},
+                "size":{
+                  "width":341,
+                  "height":51}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/offerhome_inline/u4.png"}},
+{
+          "id":"2f379a99fcdd45529f9decc04265065e",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":330,
+              "y":217},
+            "size":{
+              "width":19,
+              "height":19}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d1ca731e693d41cd9a1cc26e300c62db",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":330,
+                  "y":217},
+                "size":{
+                  "width":19,
+                  "height":19}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/offerhome_inline/u6.png"}},
+{
+          "id":"bc42e11c3bf74f6a9804f0eb4ff30910",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":12,
+              "y":343},
+            "size":{
+              "width":341,
+              "height":306}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"93f0985b496b4cf8ab83cf6017ff0897",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":12,
+                  "y":343},
+                "size":{
+                  "width":341,
+                  "height":306}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/offerhome_inline/u8.png"}},
+{
+          "id":"93cc2b0f7dff4e9db31b31fd675b8a13",
+          "label":"",
+          "type":"checkbox",
+          "styleType":"checkbox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":14,
+              "y":318},
+            "size":{
+              "width":23,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b680db7cdce94a269ea77b5ada892e48",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":14,
+                  "y":318},
+                "size":{
+                  "width":23,
+                  "height":16}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"a2520fbb144f4f51812169261c37b793",
+          "label":"",
+          "type":"checkbox",
+          "styleType":"checkbox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":21,
+              "y":356},
+            "size":{
+              "width":23,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d73752b6598347be9dfa11df4f21a329",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":21,
+                  "y":356},
+                "size":{
+                  "width":23,
+                  "height":16}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"3a8d53c1a21a45919a3117d86c3797fc",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":11,
+              "y":657},
+            "size":{
+              "width":342,
+              "height":182}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c39d435e1aca41f2b5809902d01afc21",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":11,
+                  "y":657},
+                "size":{
+                  "width":342,
+                  "height":182}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/offerhome_inline/u14.png"}},
+{
+          "id":"185918915a464c78a19b058e221081a3",
+          "label":"",
+          "type":"checkbox",
+          "styleType":"checkbox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":21,
+              "y":672},
+            "size":{
+              "width":23,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6dd5d0a044884e85b6fa8ca7370a57da",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":21,
+                  "y":672},
+                "size":{
+                  "width":23,
+                  "height":16}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"d5beb1de7d4e4223a073ee5f0018bfdf",
+          "label":"",
+          "type":"checkbox",
+          "styleType":"checkbox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":13,
+              "y":858},
+            "size":{
+              "width":23,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ca3af46951264c6db6fa2744c3e375f7",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":13,
+                  "y":858},
+                "size":{
+                  "width":23,
+                  "height":16}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"48ff9c93c9eb49a492f8014a43caee55",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":12,
+              "y":880},
+            "size":{
+              "width":341,
+              "height":160}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6bfc0d853f184ba19a9ef367b7f11d34",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":12,
+                  "y":880},
+                "size":{
+                  "width":341,
+                  "height":160}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/offerhome_inline/u20.png"}},
+{
+          "id":"1ca679fe680c4c2aa50cd15296c91a0a",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":12,
+              "y":1049},
+            "size":{
+              "width":341,
+              "height":176}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"1ad1a2c1dc34439ca2924c017f91330e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":12,
+                  "y":1049},
+                "size":{
+                  "width":341,
+                  "height":176}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/offerhome_inline/u22.png"}},
+{
+          "id":"60c5ddbe365c4fe19c08a7d56edcd5cf",
+          "label":"",
+          "type":"checkbox",
+          "styleType":"checkbox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":21,
+              "y":894},
+            "size":{
+              "width":23,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a22b0cc516c6434bb33d5c572a702e0b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":21,
+                  "y":894},
+                "size":{
+                  "width":23,
+                  "height":16}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"6de1f5ff1db34c75bd5024aa6c8f1022",
+          "label":"",
+          "type":"checkbox",
+          "styleType":"checkbox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":20,
+              "y":1063},
+            "size":{
+              "width":23,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"cb9bd9c1c1a341318f3be0fbbf806ec7",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":20,
+                  "y":1063},
+                "size":{
+                  "width":23,
+                  "height":16}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"47794bdec17a4bdabd5a2b5d24edb020",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":12,
+              "y":1268},
+            "size":{
+              "width":340,
+              "height":151}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d0e4f53188994e79b64e1c0e2f74d75b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":12,
+                  "y":1268},
+                "size":{
+                  "width":340,
+                  "height":151}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/offerhome_inline/u28.png"}},
+{
+          "id":"ff29b8228fc5409ca42645030039fe13",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":15,
+              "y":1429},
+            "size":{
+              "width":232,
+              "height":15}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"043a1ff72c4a4ce882e7d53530ea7673",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":15,
+                  "y":1429},
+                "size":{
+                  "width":232,
+                  "height":15}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/offerhome_inline/u30.png"}},
+{
+          "id":"572889b5317a419792113f01c2280884",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":322,
+              "y":22},
+            "size":{
+              "width":32,
+              "height":29}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkFrame",
+                      "description":"打开 orderlist 在父窗口",
+                      "linkType":"parentFrame",
+                      "target":{
+                        "targetType":"page",
+                        "url":"orderlist.html",
+                        "includeVariables":true}}]}]}},
+          "tabbable":true},
+{
+          "id":"5fa458d3d91b48c1a0b051259c07baee",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":330,
+              "y":217},
+            "size":{
+              "width":22,
+              "height":19}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkFrame",
+                      "description":"打开 selectdealer 在父窗口",
+                      "linkType":"parentFrame",
+                      "target":{
+                        "targetType":"page",
+                        "url":"selectdealer.html",
+                        "includeVariables":true}}]}]}},
+          "tabbable":true},
+{
+          "id":"70dff2b7e93d4b8a85f643521754e3ca",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Bold', 'Applied Font'",
+            "fontSize":"16px",
+            "fontWeight":"700",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "location":{
+              "x":63,
+              "y":1511},
+            "size":{
+              "width":97,
+              "height":19}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"dd87b0b983fb4293bf2cdcc20ee15665",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Bold', 'Applied Font'",
+                "fontSize":"16px",
+                "fontWeight":"700",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "location":{
+                  "x":63,
+                  "y":1511},
+                "size":{
+                  "width":97,
+                  "height":19}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"71227449a9bf463c98ef70dd87719ec2",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Bold', 'Applied Font'",
+            "fontSize":"16px",
+            "fontWeight":"700",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "location":{
+              "x":270,
+              "y":1510},
+            "size":{
+              "width":49,
+              "height":19}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e76efb572af641d1baa26496b5fc29b6",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Bold', 'Applied Font'",
+                "fontSize":"16px",
+                "fontWeight":"700",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "location":{
+                  "x":270,
+                  "y":1510},
+                "size":{
+                  "width":49,
+                  "height":19}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"633a3d1508444acbb0eed4ec9ca180d7",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"15px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "location":{
+              "x":14,
+              "y":86},
+            "size":{
+              "width":62,
+              "height":18}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"723a254ebb6548628b3d4e55c1e0733b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"15px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "location":{
+                  "x":14,
+                  "y":86},
+                "size":{
+                  "width":62,
+                  "height":18}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"29187010043940918ac759e93be0e69e",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"15px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "location":{
+              "x":14,
+              "y":217},
+            "size":{
+              "width":78,
+              "height":18}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e10725b5d4ce47edbb7fe92ec25b6959",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"15px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "location":{
+                  "x":14,
+                  "y":217},
+                "size":{
+                  "width":78,
+                  "height":18}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"630a407f599542c3abb21e8feba3d047",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"15px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "location":{
+              "x":37,
+              "y":318},
+            "size":{
+              "width":62,
+              "height":18}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"37c21dfe13d049178dca693e72cbc562",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"15px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "location":{
+                  "x":37,
+                  "y":318},
+                "size":{
+                  "width":62,
+                  "height":18}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"cc2b4eaa1a7b49e8891da1a7e3168e95",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"15px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "location":{
+              "x":36,
+              "y":858},
+            "size":{
+              "width":62,
+              "height":18}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"7ee3740530024398b01623fe3c661b74",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"15px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "location":{
+                  "x":36,
+                  "y":858},
+                "size":{
+                  "width":62,
+                  "height":18}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"1eb6470ff2fb41cf92a03f897788c355",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"15px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "location":{
+              "x":15,
+              "y":1242},
+            "size":{
+              "width":62,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e95d7dae6fc84ac492aeedf546692a29",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"15px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "location":{
+                  "x":15,
+                  "y":1242},
+                "size":{
+                  "width":62,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"f03135d8fbe5460ab707b8c9001cbd53",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":230,
+              "y":1494},
+            "size":{
+              "width":134,
+              "height":50}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkFrame",
+                      "description":"打开 generateorder 在父窗口",
+                      "linkType":"parentFrame",
+                      "target":{
+                        "targetType":"page",
+                        "url":"generateorder.html",
+                        "includeVariables":true}}]}]}},
+          "tabbable":true}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "3134f5e0752643a9abdca9611e695aa3":{
+      "scriptId":"u0"},
+    "be6ed84099484875ba480eea21c4b2cb":{
+      "scriptId":"u1"},
+    "6c8231f72428467d9a265bd68b65ec5e":{
+      "scriptId":"u2"},
+    "0a73f17e411949fb9a0ae87e806d8d67":{
+      "scriptId":"u3"},
+    "19de39e2d1314a90a84b7552988be3c0":{
+      "scriptId":"u4"},
+    "73932a98be9d4606aecb39788c6204e5":{
+      "scriptId":"u5"},
+    "2f379a99fcdd45529f9decc04265065e":{
+      "scriptId":"u6"},
+    "d1ca731e693d41cd9a1cc26e300c62db":{
+      "scriptId":"u7"},
+    "bc42e11c3bf74f6a9804f0eb4ff30910":{
+      "scriptId":"u8"},
+    "93f0985b496b4cf8ab83cf6017ff0897":{
+      "scriptId":"u9"},
+    "93cc2b0f7dff4e9db31b31fd675b8a13":{
+      "scriptId":"u10"},
+    "b680db7cdce94a269ea77b5ada892e48":{
+      "scriptId":"u11"},
+    "a2520fbb144f4f51812169261c37b793":{
+      "scriptId":"u12"},
+    "d73752b6598347be9dfa11df4f21a329":{
+      "scriptId":"u13"},
+    "3a8d53c1a21a45919a3117d86c3797fc":{
+      "scriptId":"u14"},
+    "c39d435e1aca41f2b5809902d01afc21":{
+      "scriptId":"u15"},
+    "185918915a464c78a19b058e221081a3":{
+      "scriptId":"u16"},
+    "6dd5d0a044884e85b6fa8ca7370a57da":{
+      "scriptId":"u17"},
+    "d5beb1de7d4e4223a073ee5f0018bfdf":{
+      "scriptId":"u18"},
+    "ca3af46951264c6db6fa2744c3e375f7":{
+      "scriptId":"u19"},
+    "48ff9c93c9eb49a492f8014a43caee55":{
+      "scriptId":"u20"},
+    "6bfc0d853f184ba19a9ef367b7f11d34":{
+      "scriptId":"u21"},
+    "1ca679fe680c4c2aa50cd15296c91a0a":{
+      "scriptId":"u22"},
+    "1ad1a2c1dc34439ca2924c017f91330e":{
+      "scriptId":"u23"},
+    "60c5ddbe365c4fe19c08a7d56edcd5cf":{
+      "scriptId":"u24"},
+    "a22b0cc516c6434bb33d5c572a702e0b":{
+      "scriptId":"u25"},
+    "6de1f5ff1db34c75bd5024aa6c8f1022":{
+      "scriptId":"u26"},
+    "cb9bd9c1c1a341318f3be0fbbf806ec7":{
+      "scriptId":"u27"},
+    "47794bdec17a4bdabd5a2b5d24edb020":{
+      "scriptId":"u28"},
+    "d0e4f53188994e79b64e1c0e2f74d75b":{
+      "scriptId":"u29"},
+    "ff29b8228fc5409ca42645030039fe13":{
+      "scriptId":"u30"},
+    "043a1ff72c4a4ce882e7d53530ea7673":{
+      "scriptId":"u31"},
+    "572889b5317a419792113f01c2280884":{
+      "scriptId":"u32"},
+    "5fa458d3d91b48c1a0b051259c07baee":{
+      "scriptId":"u33"},
+    "70dff2b7e93d4b8a85f643521754e3ca":{
+      "scriptId":"u34"},
+    "dd87b0b983fb4293bf2cdcc20ee15665":{
+      "scriptId":"u35"},
+    "71227449a9bf463c98ef70dd87719ec2":{
+      "scriptId":"u36"},
+    "e76efb572af641d1baa26496b5fc29b6":{
+      "scriptId":"u37"},
+    "633a3d1508444acbb0eed4ec9ca180d7":{
+      "scriptId":"u38"},
+    "723a254ebb6548628b3d4e55c1e0733b":{
+      "scriptId":"u39"},
+    "29187010043940918ac759e93be0e69e":{
+      "scriptId":"u40"},
+    "e10725b5d4ce47edbb7fe92ec25b6959":{
+      "scriptId":"u41"},
+    "630a407f599542c3abb21e8feba3d047":{
+      "scriptId":"u42"},
+    "37c21dfe13d049178dca693e72cbc562":{
+      "scriptId":"u43"},
+    "cc2b4eaa1a7b49e8891da1a7e3168e95":{
+      "scriptId":"u44"},
+    "7ee3740530024398b01623fe3c661b74":{
+      "scriptId":"u45"},
+    "1eb6470ff2fb41cf92a03f897788c355":{
+      "scriptId":"u46"},
+    "e95d7dae6fc84ac492aeedf546692a29":{
+      "scriptId":"u47"},
+    "f03135d8fbe5460ab707b8c9001cbd53":{
+      "scriptId":"u48"}}});

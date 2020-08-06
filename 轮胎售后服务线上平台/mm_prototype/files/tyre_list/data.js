@@ -1,0 +1,249 @@
+﻿$axure.loadCurrentPage({
+  "url":"tyre_list.html",
+  "generationDate":new Date(1594096788185.96),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "defaultBackgroundImageInfo":{
+    "path":"images/tyre_list/bg.jpg",
+    "width":414,
+    "height":736},
+  "viewIdToBackgroundImageInfo":{
+},
+  "page":{
+    "packageId":"cfbbe72ee8cc43e9b3b5001752777bf9",
+    "type":"Axure:Page",
+    "name":"tyre_list",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"1f233127f8854995a1473c2823c32326",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":290,
+              "y":77},
+            "size":{
+              "width":26,
+              "height":23}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"85b6a29746bd4667bd2772579a2be9cb",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":290,
+                  "y":77},
+                "size":{
+                  "width":26,
+                  "height":23}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 shopcart",
+                      "target":{
+                        "targetType":"page",
+                        "url":"shopcart.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/index/u2.png"}},
+{
+          "id":"4de1947748e6475f9ff89bdc5f5daf46",
+          "label":"tyre_dynamic_panel",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":115},
+            "size":{
+              "width":430,
+              "height":622}},
+          "adaptiveStyles":{
+},
+          "scrollbars":"verticalAsNeeded",
+          "fitToContent":false,
+          "propagate":false,
+          "diagrams":[{
+              "id":"3925efadb5144362a49bde72885a05d0",
+              "label":"State1",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"1aee06adb1d248539269781304277d9e",
+                  "label":"",
+                  "parentDynamicPanel":"4de1947748e6475f9ff89bdc5f5daf46",
+                  "type":"inlineFrame",
+                  "styleType":"inlineFrame",
+                  "visible":true,
+                  "style":{
+                    "size":{
+                      "width":435,
+                      "height":867}},
+                  "adaptiveStyles":{
+},
+                  "interactionMap":{
+                    "onShow":{
+                      "description":"OnShow",
+                      "cases":[{
+                          "description":"Case 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkFrame",
+                              "description":"打开 tyre_list_inframe 在父窗口",
+                              "linkType":"parentFrame",
+                              "target":{
+                                "targetType":"page",
+                                "url":"tyre_list_inframe.html",
+                                "includeVariables":true}}]}]}}}]}]},
+{
+          "id":"b090aeb1f24642a4a59741f27f0bdeef",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":414,
+              "y":115},
+            "size":{
+              "width":16,
+              "height":622}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c90fc9b8e5db47aaba620a90346add22",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":414,
+                  "y":115},
+                "size":{
+                  "width":16,
+                  "height":622}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/tyre_list/u4.png"}},
+{
+          "id":"cc6d0da3ebe04bbd9dc50c20e6293390",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":383,
+              "y":77},
+            "size":{
+              "width":22,
+              "height":23}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 order_list",
+                      "target":{
+                        "targetType":"page",
+                        "url":"order_list.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"e4bad4e548f04a38bc8b88d70d032b69",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":10,
+              "y":31},
+            "size":{
+              "width":50,
+              "height":19}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 返回",
+                      "target":{
+                        "targetType":"backUrl",
+                        "includeVariables":false},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "1f233127f8854995a1473c2823c32326":{
+      "scriptId":"u0"},
+    "85b6a29746bd4667bd2772579a2be9cb":{
+      "scriptId":"u1"},
+    "4de1947748e6475f9ff89bdc5f5daf46":{
+      "scriptId":"u2"},
+    "1aee06adb1d248539269781304277d9e":{
+      "scriptId":"u3"},
+    "b090aeb1f24642a4a59741f27f0bdeef":{
+      "scriptId":"u4"},
+    "c90fc9b8e5db47aaba620a90346add22":{
+      "scriptId":"u5"},
+    "cc6d0da3ebe04bbd9dc50c20e6293390":{
+      "scriptId":"u6"},
+    "e4bad4e548f04a38bc8b88d70d032b69":{
+      "scriptId":"u7"}}});

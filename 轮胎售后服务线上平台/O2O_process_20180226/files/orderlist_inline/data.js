@@ -1,0 +1,227 @@
+﻿$axure.loadCurrentPage({
+  "url":"orderlist_inline.html",
+  "generationDate":new Date(1594096576898.46),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"1206c7cb2a94482d805b09abc87200aa",
+    "type":"Axure:Page",
+    "name":"orderlist_inline",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"d5e4d9fb13514096a158e81bdd916016",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "size":{
+              "width":364,
+              "height":1182}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"0a42443d31c64282950f4007e93dc89a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "size":{
+                  "width":364,
+                  "height":1182}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/orderlist_inline/u0.jpg"}},
+{
+          "id":"64d11ef5ad284c3092d37064b66bd3a7",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":329,
+              "y":26},
+            "size":{
+              "width":21,
+              "height":24}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkFrame",
+                      "description":"打开 offerhome 在父窗口",
+                      "linkType":"parentFrame",
+                      "target":{
+                        "targetType":"page",
+                        "url":"offerhome.html",
+                        "includeVariables":true}}]}]}},
+          "tabbable":true},
+{
+          "id":"bb4a056c1ccf4df58cbebb0d4129e994",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":298,
+              "y":475},
+            "size":{
+              "width":54,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkFrame",
+                      "description":"打开 pay 在父窗口",
+                      "linkType":"parentFrame",
+                      "target":{
+                        "targetType":"page",
+                        "url":"pay.html",
+                        "includeVariables":true}}]}]}},
+          "tabbable":true},
+{
+          "id":"9e2d76bcccc449b497eee71ff2774b98",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":10,
+              "y":80},
+            "size":{
+              "width":340,
+              "height":380}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkFrame",
+                      "description":"打开 orderdetails 在父窗口",
+                      "linkType":"parentFrame",
+                      "target":{
+                        "targetType":"page",
+                        "url":"orderdetails.html",
+                        "includeVariables":true}}]}]}},
+          "tabbable":true},
+{
+          "id":"fe698a4a4ca94909978497ae2cc2c9ce",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":10,
+              "y":520},
+            "size":{
+              "width":342,
+              "height":330}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkFrame",
+                      "description":"打开 orderdetails 在父窗口",
+                      "linkType":"parentFrame",
+                      "target":{
+                        "targetType":"page",
+                        "url":"orderdetails.html",
+                        "includeVariables":true}}]}]}},
+          "tabbable":true},
+{
+          "id":"4dd51f4b41be4760a1d6ef5a988563c3",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":10,
+              "y":880},
+            "size":{
+              "width":340,
+              "height":260}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkFrame",
+                      "description":"打开 orderdetails 在父窗口",
+                      "linkType":"parentFrame",
+                      "target":{
+                        "targetType":"page",
+                        "url":"orderdetails.html",
+                        "includeVariables":true}}]}]}},
+          "tabbable":true}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "d5e4d9fb13514096a158e81bdd916016":{
+      "scriptId":"u0"},
+    "0a42443d31c64282950f4007e93dc89a":{
+      "scriptId":"u1"},
+    "64d11ef5ad284c3092d37064b66bd3a7":{
+      "scriptId":"u2"},
+    "bb4a056c1ccf4df58cbebb0d4129e994":{
+      "scriptId":"u3"},
+    "9e2d76bcccc449b497eee71ff2774b98":{
+      "scriptId":"u4"},
+    "fe698a4a4ca94909978497ae2cc2c9ce":{
+      "scriptId":"u5"},
+    "4dd51f4b41be4760a1d6ef5a988563c3":{
+      "scriptId":"u6"}}});

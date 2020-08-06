@@ -1,0 +1,131 @@
+﻿$axure.loadCurrentPage({
+  "url":"orderdetails_inline.html",
+  "generationDate":new Date(1594096576869.44),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"fac07d47790844c7a26097f8f698f2d0",
+    "type":"Axure:Page",
+    "name":"orderdetails_inline",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"bd06580b770e40d78015c426d65fc468",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "size":{
+              "width":364,
+              "height":1397}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"83d6a1f8fdce4967a5addb9939c5c7e0",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "size":{
+                  "width":364,
+                  "height":1397}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/orderdetails_inline/u0.jpg"}},
+{
+          "id":"e84c8fd793994426819f7d1c003573c7",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":230,
+              "y":1330},
+            "size":{
+              "width":130,
+              "height":50}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkFrame",
+                      "description":"打开 pay 在父窗口",
+                      "linkType":"parentFrame",
+                      "target":{
+                        "targetType":"page",
+                        "url":"pay.html",
+                        "includeVariables":true}}]}]}},
+          "tabbable":true},
+{
+          "id":"45bf7b013c94462c852d91f924a76500",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":320,
+              "y":20},
+            "size":{
+              "width":30,
+              "height":30}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkFrame",
+                      "description":"打开 orderlist 在父窗口",
+                      "linkType":"parentFrame",
+                      "target":{
+                        "targetType":"page",
+                        "url":"orderlist.html",
+                        "includeVariables":true}}]}]}},
+          "tabbable":true}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "bd06580b770e40d78015c426d65fc468":{
+      "scriptId":"u0"},
+    "83d6a1f8fdce4967a5addb9939c5c7e0":{
+      "scriptId":"u1"},
+    "e84c8fd793994426819f7d1c003573c7":{
+      "scriptId":"u2"},
+    "45bf7b013c94462c852d91f924a76500":{
+      "scriptId":"u3"}}});

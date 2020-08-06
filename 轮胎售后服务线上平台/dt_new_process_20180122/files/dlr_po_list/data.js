@@ -1,0 +1,99 @@
+﻿$axure.loadCurrentPage({
+  "url":"dlr_po_list.html",
+  "generationDate":new Date(1594096872441.4),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"08cbb9376fb34365a9a1bccd0d1179ed",
+    "type":"Axure:Page",
+    "name":"dlr_po_list",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"7b10b8d337a24ead93bd019e61d9a5c2",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "size":{
+              "width":1366,
+              "height":768}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6d2d2a1042354c428f24294b04cf001d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "size":{
+                  "width":1366,
+                  "height":768}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/dlr_po_list/u0.png"}},
+{
+          "id":"04d360e72d544c8dadbd1e3126a4eae0",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":34,
+              "y":520},
+            "size":{
+              "width":58,
+              "height":20}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 wechat_order_all",
+                      "target":{
+                        "targetType":"page",
+                        "url":"wechat_order_all.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "7b10b8d337a24ead93bd019e61d9a5c2":{
+      "scriptId":"u0"},
+    "6d2d2a1042354c428f24294b04cf001d":{
+      "scriptId":"u1"},
+    "04d360e72d544c8dadbd1e3126a4eae0":{
+      "scriptId":"u2"}}});

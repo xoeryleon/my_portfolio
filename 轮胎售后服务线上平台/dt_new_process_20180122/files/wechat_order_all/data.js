@@ -1,0 +1,404 @@
+﻿$axure.loadCurrentPage({
+  "url":"wechat_order_all.html",
+  "generationDate":new Date(1594096872599.51),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"d2193f94e15a43fe9a8c98798af4d00e",
+    "type":"Axure:Page",
+    "name":"wechat_order_all",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"5e08c89eb5a2475eaa85fb2c970b60c8",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "size":{
+              "width":1366,
+              "height":1038}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"83b14b22dd704773a2171feca726695d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "size":{
+                  "width":1366,
+                  "height":1038}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/wechat_order_all/u0.png"}},
+{
+          "id":"363a7d69a0044ef582d30317e8873ac9",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":231,
+              "y":307},
+            "size":{
+              "width":50,
+              "height":33}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 wechat_order_detail",
+                      "target":{
+                        "targetType":"page",
+                        "url":"wechat_order_detail.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"a96db07912624897b04a8ebea540aaef",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":231,
+              "y":363},
+            "size":{
+              "width":50,
+              "height":33}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 wechat_order_detail",
+                      "target":{
+                        "targetType":"page",
+                        "url":"wechat_order_detail.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"9452c52b95194de883424e52eef2733b",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":231,
+              "y":421},
+            "size":{
+              "width":50,
+              "height":33}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 wechat_order_detail",
+                      "target":{
+                        "targetType":"page",
+                        "url":"wechat_order_detail.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"5377a558a62e4b20984754ea750e2c81",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":230,
+              "y":477},
+            "size":{
+              "width":50,
+              "height":33}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 wechat_order_detail",
+                      "target":{
+                        "targetType":"page",
+                        "url":"wechat_order_detail.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"4bf667e60eec424a99e66895ca28ae8a",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":230,
+              "y":535},
+            "size":{
+              "width":50,
+              "height":33}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 wechat_order_detail",
+                      "target":{
+                        "targetType":"page",
+                        "url":"wechat_order_detail.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"4b12e5d0fbbc47d3890bde551ae3ad66",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"15px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "location":{
+              "x":38,
+              "y":277},
+            "size":{
+              "width":82,
+              "height":18}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"475312648155418c82dd301a679e78fb",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"15px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "location":{
+                  "x":38,
+                  "y":277},
+                "size":{
+                  "width":82,
+                  "height":18}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"1957cfd5de694906a8c2ff4c0845bf6a",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":38,
+              "y":277},
+            "size":{
+              "width":72,
+              "height":20}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 shopcart",
+                      "target":{
+                        "targetType":"page",
+                        "url":"shopcart.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"57bc60cb87254fea9f2cf454ad09130a",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":38,
+              "y":307},
+            "size":{
+              "width":62,
+              "height":20}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 index",
+                      "target":{
+                        "targetType":"page",
+                        "url":"index.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"330f19a43f684cfb92482f79f929c62a",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":38,
+              "y":401},
+            "size":{
+              "width":62,
+              "height":19}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 dlr_all_orders",
+                      "target":{
+                        "targetType":"page",
+                        "url":"dlr_all_orders.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"20a34d8ad1a74701b7b60f3c7cfff932",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":36,
+              "y":337},
+            "size":{
+              "width":64,
+              "height":20}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 dlr_order_inprocess",
+                      "target":{
+                        "targetType":"page",
+                        "url":"dlr_order_inprocess.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "5e08c89eb5a2475eaa85fb2c970b60c8":{
+      "scriptId":"u0"},
+    "83b14b22dd704773a2171feca726695d":{
+      "scriptId":"u1"},
+    "363a7d69a0044ef582d30317e8873ac9":{
+      "scriptId":"u2"},
+    "a96db07912624897b04a8ebea540aaef":{
+      "scriptId":"u3"},
+    "9452c52b95194de883424e52eef2733b":{
+      "scriptId":"u4"},
+    "5377a558a62e4b20984754ea750e2c81":{
+      "scriptId":"u5"},
+    "4bf667e60eec424a99e66895ca28ae8a":{
+      "scriptId":"u6"},
+    "4b12e5d0fbbc47d3890bde551ae3ad66":{
+      "scriptId":"u7"},
+    "475312648155418c82dd301a679e78fb":{
+      "scriptId":"u8"},
+    "1957cfd5de694906a8c2ff4c0845bf6a":{
+      "scriptId":"u9"},
+    "57bc60cb87254fea9f2cf454ad09130a":{
+      "scriptId":"u10"},
+    "330f19a43f684cfb92482f79f929c62a":{
+      "scriptId":"u11"},
+    "20a34d8ad1a74701b7b60f3c7cfff932":{
+      "scriptId":"u12"}}});

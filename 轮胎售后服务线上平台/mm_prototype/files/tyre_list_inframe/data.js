@@ -1,0 +1,548 @@
+﻿$axure.loadCurrentPage({
+  "url":"tyre_list_inframe.html",
+  "generationDate":new Date(1594096788680.26),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"35dcb017ca35427aa886eaa80e718b22",
+    "type":"Axure:Page",
+    "name":"tyre_list_inframe",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFF070616},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"7239739b7af84e91b1bca9f4952de614",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":11,
+              "y":2},
+            "size":{
+              "width":392,
+              "height":60}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9d9ac578a5e54f21a120c2e79cb1f45c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":11,
+                  "y":2},
+                "size":{
+                  "width":392,
+                  "height":60}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/tyre_list_inframe/u0.png"}},
+{
+          "id":"4dc2395e85f64697be1311ab9c610fcc",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":11,
+              "y":67},
+            "size":{
+              "width":390,
+              "height":124}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b0477733aa58420888b58732d43d884f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":11,
+                  "y":67},
+                "size":{
+                  "width":390,
+                  "height":124}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/tyre_list_inframe/u2.png"}},
+{
+          "id":"ee9957d6d52b4456b44ff6367b5af63e",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":11,
+              "y":196},
+            "size":{
+              "width":390,
+              "height":124}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"7b78ce04861b434abd9ce75c6bad9a98",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":11,
+                  "y":196},
+                "size":{
+                  "width":390,
+                  "height":124}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/tyre_list_inframe/u4.png"}},
+{
+          "id":"82ddbc3db41347afb321a8a01b39d606",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":11,
+              "y":326},
+            "size":{
+              "width":391,
+              "height":124}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"dc566caf1e61463cbb7903c053ba57ac",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":11,
+                  "y":326},
+                "size":{
+                  "width":391,
+                  "height":124}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/tyre_list_inframe/u6.png"}},
+{
+          "id":"fd234862672c49b0936b49bd71ddbffc",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":11,
+              "y":456},
+            "size":{
+              "width":391,
+              "height":124}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"632f8bf06cc5419193e06796d5143faf",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":11,
+                  "y":456},
+                "size":{
+                  "width":391,
+                  "height":124}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/tyre_list_inframe/u8.png"}},
+{
+          "id":"9108d1ba9e4d4bb1afbc25cc4134a216",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":11,
+              "y":586},
+            "size":{
+              "width":390,
+              "height":124}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"57c9b9e3094e403a9d25aa914c2ee388",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":11,
+                  "y":586},
+                "size":{
+                  "width":390,
+                  "height":124}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/tyre_list_inframe/u10.png"}},
+{
+          "id":"3135358b744a4f4199ea44526903ba7c",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":11,
+              "y":715},
+            "size":{
+              "width":391,
+              "height":125}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"70248b5cc65042f0b54efc221733c3b5",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":11,
+                  "y":715},
+                "size":{
+                  "width":391,
+                  "height":125}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/tyre_list_inframe/u12.png"}},
+{
+          "id":"64f4c707b59b445f98be96da100d2709",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"10px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF999999,
+              "opacity":1},
+            "location":{
+              "x":11,
+              "y":846},
+            "size":{
+              "width":391,
+              "height":11}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"0aff583770514894b151f193926c55e3",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"10px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF999999,
+                  "opacity":1},
+                "location":{
+                  "x":11,
+                  "y":846},
+                "size":{
+                  "width":391,
+                  "height":11}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"ce2a324cadbf460db6602bf5d023e50b",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":11,
+              "y":67},
+            "size":{
+              "width":390,
+              "height":119}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkFrame",
+                      "description":"打开 tyre_details 在父窗口",
+                      "linkType":"parentFrame",
+                      "target":{
+                        "targetType":"page",
+                        "url":"tyre_details.html",
+                        "includeVariables":true}}]}]}},
+          "tabbable":true},
+{
+          "id":"3dd13eb0a67c4b20905cc86fe34d9ca9",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":11,
+              "y":196},
+            "size":{
+              "width":390,
+              "height":120}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkFrame",
+                      "description":"打开 tyre_details 在父窗口",
+                      "linkType":"parentFrame",
+                      "target":{
+                        "targetType":"page",
+                        "url":"tyre_details.html",
+                        "includeVariables":true}}]}]}},
+          "tabbable":true},
+{
+          "id":"9b38d9409ac64851b58375e0a14f0d97",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":11,
+              "y":326},
+            "size":{
+              "width":390,
+              "height":120}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkFrame",
+                      "description":"打开 tyre_details 在父窗口",
+                      "linkType":"parentFrame",
+                      "target":{
+                        "targetType":"page",
+                        "url":"tyre_details.html",
+                        "includeVariables":true}}]}]}},
+          "tabbable":true},
+{
+          "id":"098a8bccdc4b4fa5837f8bbe3d1d29bd",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":11,
+              "y":456},
+            "size":{
+              "width":390,
+              "height":120}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkFrame",
+                      "description":"打开 tyre_details 在父窗口",
+                      "linkType":"parentFrame",
+                      "target":{
+                        "targetType":"page",
+                        "url":"tyre_details.html",
+                        "includeVariables":true}}]}]}},
+          "tabbable":true},
+{
+          "id":"e51cb8fbaf5d4bc7b49cec8eb0f9ea4a",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":11,
+              "y":586},
+            "size":{
+              "width":390,
+              "height":119}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkFrame",
+                      "description":"打开 tyre_details 在父窗口",
+                      "linkType":"parentFrame",
+                      "target":{
+                        "targetType":"page",
+                        "url":"tyre_details.html",
+                        "includeVariables":true}}]}]}},
+          "tabbable":true},
+{
+          "id":"c70c0750599649e6bc1e588fce8149a5",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":11,
+              "y":715},
+            "size":{
+              "width":390,
+              "height":121}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkFrame",
+                      "description":"打开 tyre_details 在父窗口",
+                      "linkType":"parentFrame",
+                      "target":{
+                        "targetType":"page",
+                        "url":"tyre_details.html",
+                        "includeVariables":true}}]}]}},
+          "tabbable":true}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "7239739b7af84e91b1bca9f4952de614":{
+      "scriptId":"u0"},
+    "9d9ac578a5e54f21a120c2e79cb1f45c":{
+      "scriptId":"u1"},
+    "4dc2395e85f64697be1311ab9c610fcc":{
+      "scriptId":"u2"},
+    "b0477733aa58420888b58732d43d884f":{
+      "scriptId":"u3"},
+    "ee9957d6d52b4456b44ff6367b5af63e":{
+      "scriptId":"u4"},
+    "7b78ce04861b434abd9ce75c6bad9a98":{
+      "scriptId":"u5"},
+    "82ddbc3db41347afb321a8a01b39d606":{
+      "scriptId":"u6"},
+    "dc566caf1e61463cbb7903c053ba57ac":{
+      "scriptId":"u7"},
+    "fd234862672c49b0936b49bd71ddbffc":{
+      "scriptId":"u8"},
+    "632f8bf06cc5419193e06796d5143faf":{
+      "scriptId":"u9"},
+    "9108d1ba9e4d4bb1afbc25cc4134a216":{
+      "scriptId":"u10"},
+    "57c9b9e3094e403a9d25aa914c2ee388":{
+      "scriptId":"u11"},
+    "3135358b744a4f4199ea44526903ba7c":{
+      "scriptId":"u12"},
+    "70248b5cc65042f0b54efc221733c3b5":{
+      "scriptId":"u13"},
+    "64f4c707b59b445f98be96da100d2709":{
+      "scriptId":"u14"},
+    "0aff583770514894b151f193926c55e3":{
+      "scriptId":"u15"},
+    "ce2a324cadbf460db6602bf5d023e50b":{
+      "scriptId":"u16"},
+    "3dd13eb0a67c4b20905cc86fe34d9ca9":{
+      "scriptId":"u17"},
+    "9b38d9409ac64851b58375e0a14f0d97":{
+      "scriptId":"u18"},
+    "098a8bccdc4b4fa5837f8bbe3d1d29bd":{
+      "scriptId":"u19"},
+    "e51cb8fbaf5d4bc7b49cec8eb0f9ea4a":{
+      "scriptId":"u20"},
+    "c70c0750599649e6bc1e588fce8149a5":{
+      "scriptId":"u21"}}});

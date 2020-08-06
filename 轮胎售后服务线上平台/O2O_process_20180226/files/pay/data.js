@@ -1,0 +1,195 @@
+﻿$axure.loadCurrentPage({
+  "url":"pay.html",
+  "generationDate":new Date(1594096576745.35),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"051ec6207be7413ba045c85cc70e04a5",
+    "type":"Axure:Page",
+    "name":"pay",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"e69e005abca14365bfb80cd7f9d2aada",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "size":{
+              "width":413,
+              "height":829}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c2ec88947e9248c6a8dd3107af07c3c2",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "size":{
+                  "width":413,
+                  "height":829}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/pay/u0.jpg"}},
+{
+          "id":"71bf296893f44abf9958c86bd29e057a",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":344,
+              "y":127},
+            "size":{
+              "width":36,
+              "height":33}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 orderlist",
+                      "target":{
+                        "targetType":"page",
+                        "url":"orderlist.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"91086b37076b4e6a817ef0ed46fcd6e3",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":30,
+              "y":740},
+            "size":{
+              "width":350,
+              "height":50}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 pay_successful",
+                      "target":{
+                        "targetType":"page",
+                        "url":"pay_successful.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"c309fb17601647c08f6df596b560ddf2",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":50,
+              "y":70},
+            "size":{
+              "width":40,
+              "height":20}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 orderdetails",
+                      "target":{
+                        "targetType":"page",
+                        "url":"orderdetails.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"638c6ef1df3a4fb7a44f0641ec8b0c7b",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":100,
+              "y":70},
+            "size":{
+              "width":30,
+              "height":20}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 index",
+                      "target":{
+                        "targetType":"page",
+                        "url":"index.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "e69e005abca14365bfb80cd7f9d2aada":{
+      "scriptId":"u0"},
+    "c2ec88947e9248c6a8dd3107af07c3c2":{
+      "scriptId":"u1"},
+    "71bf296893f44abf9958c86bd29e057a":{
+      "scriptId":"u2"},
+    "91086b37076b4e6a817ef0ed46fcd6e3":{
+      "scriptId":"u3"},
+    "c309fb17601647c08f6df596b560ddf2":{
+      "scriptId":"u4"},
+    "638c6ef1df3a4fb7a44f0641ec8b0c7b":{
+      "scriptId":"u5"}}});

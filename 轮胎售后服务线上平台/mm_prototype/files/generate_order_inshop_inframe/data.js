@@ -1,0 +1,67 @@
+﻿$axure.loadCurrentPage({
+  "url":"generate_order_inshop_inframe.html",
+  "generationDate":new Date(1594096788960.47),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"59909fb6169c457fb7694bc8ca820f48",
+    "type":"Axure:Page",
+    "name":"generate_order_inshop_inframe",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFF070616},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"d8f4b61fdfaf46228f8c79fe902961bb",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "size":{
+              "width":414,
+              "height":653}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d2cb3f12ff47442491384325dd707455",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "size":{
+                  "width":414,
+                  "height":653}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/generate_order_inshop_inframe/u0.jpg"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "d8f4b61fdfaf46228f8c79fe902961bb":{
+      "scriptId":"u0"},
+    "d2cb3f12ff47442491384325dd707455":{
+      "scriptId":"u1"}}});

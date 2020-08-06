@@ -1,0 +1,112 @@
+﻿$axure.loadCurrentPage({
+  "url":"picture_instruction.html",
+  "generationDate":new Date(1594096788636.67),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "defaultBackgroundImageInfo":{
+    "path":"images/picture_instruction/bg.jpg",
+    "width":414,
+    "height":736},
+  "viewIdToBackgroundImageInfo":{
+},
+  "page":{
+    "packageId":"a2fee26afbd24141be96766bcaf9da36",
+    "type":"Axure:Page",
+    "name":"picture_instruction",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"1a1ff81ec368431b90b1d22cd40e6d23",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Bold', 'Applied Font'",
+            "fontWeight":"700",
+            "location":{
+              "x":21,
+              "y":9},
+            "size":{
+              "width":209,
+              "height":21}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"857e2bc4e41f4b2e9a8e29baee4e9859",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Bold', 'Applied Font'",
+                "fontWeight":"700",
+                "location":{
+                  "x":21,
+                  "y":9},
+                "size":{
+                  "width":209,
+                  "height":21}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"1897c1d327f64da090371fb453a866fc",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":10,
+              "y":30},
+            "size":{
+              "width":50,
+              "height":20}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 返回",
+                      "target":{
+                        "targetType":"backUrl",
+                        "includeVariables":false},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "1a1ff81ec368431b90b1d22cd40e6d23":{
+      "scriptId":"u0"},
+    "857e2bc4e41f4b2e9a8e29baee4e9859":{
+      "scriptId":"u1"},
+    "1897c1d327f64da090371fb453a866fc":{
+      "scriptId":"u2"}}});

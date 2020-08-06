@@ -1,0 +1,267 @@
+﻿$axure.loadCurrentPage({
+  "url":"order_details.html",
+  "generationDate":new Date(1594096788890.42),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "defaultBackgroundImageInfo":{
+    "path":"images/order_details/bg.jpg",
+    "width":414,
+    "height":736},
+  "viewIdToBackgroundImageInfo":{
+},
+  "page":{
+    "packageId":"daec230794c8473da0362c2b9f8a639a",
+    "type":"Axure:Page",
+    "name":"order_details",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"c8b49fd8c8cb4e219fe6d83ec70c51bd",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":687},
+            "size":{
+              "width":414,
+              "height":50}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 order_list",
+                      "target":{
+                        "targetType":"page",
+                        "url":"order_list.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"150caebcfa9d43e7bf941c8ae3f2dbc1",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":286,
+              "y":78},
+            "size":{
+              "width":26,
+              "height":23}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a96913087d064ee3ac0f864c18b051a4",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":286,
+                  "y":78},
+                "size":{
+                  "width":26,
+                  "height":23}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 shopcart",
+                      "target":{
+                        "targetType":"page",
+                        "url":"shopcart.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/index/u2.png"}},
+{
+          "id":"63eb3ab0f60c408ea48e4ef278801cfc",
+          "label":"",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":115},
+            "size":{
+              "width":430,
+              "height":572}},
+          "adaptiveStyles":{
+},
+          "scrollbars":"verticalAsNeeded",
+          "fitToContent":false,
+          "propagate":false,
+          "diagrams":[{
+              "id":"6042c2d15fd84a989c06751683ca6134",
+              "label":"State1",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"1d5dc57413dd4a0e997ab28574c13331",
+                  "label":"",
+                  "parentDynamicPanel":"63eb3ab0f60c408ea48e4ef278801cfc",
+                  "type":"inlineFrame",
+                  "styleType":"inlineFrame",
+                  "visible":true,
+                  "style":{
+                    "size":{
+                      "width":440,
+                      "height":980}},
+                  "adaptiveStyles":{
+}}]}]},
+{
+          "id":"da03d820a62f40eb80260ffd60b8ae74",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":414,
+              "y":115},
+            "size":{
+              "width":16,
+              "height":572}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"48417451e03b4e109acb387cd000fe9c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":414,
+                  "y":115},
+                "size":{
+                  "width":16,
+                  "height":572}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/tyre_list/u4.png"}},
+{
+          "id":"e3cb42f5673c467a87daaaf3192ad8a0",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":382,
+              "y":78},
+            "size":{
+              "width":22,
+              "height":23}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 index",
+                      "target":{
+                        "targetType":"page",
+                        "url":"index.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"470fe971c1c546b9bd6d088bcccd5530",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":10,
+              "y":30},
+            "size":{
+              "width":50,
+              "height":20}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 返回",
+                      "target":{
+                        "targetType":"backUrl",
+                        "includeVariables":false},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "c8b49fd8c8cb4e219fe6d83ec70c51bd":{
+      "scriptId":"u0"},
+    "150caebcfa9d43e7bf941c8ae3f2dbc1":{
+      "scriptId":"u1"},
+    "a96913087d064ee3ac0f864c18b051a4":{
+      "scriptId":"u2"},
+    "63eb3ab0f60c408ea48e4ef278801cfc":{
+      "scriptId":"u3"},
+    "1d5dc57413dd4a0e997ab28574c13331":{
+      "scriptId":"u4"},
+    "da03d820a62f40eb80260ffd60b8ae74":{
+      "scriptId":"u5"},
+    "48417451e03b4e109acb387cd000fe9c":{
+      "scriptId":"u6"},
+    "e3cb42f5673c467a87daaaf3192ad8a0":{
+      "scriptId":"u7"},
+    "470fe971c1c546b9bd6d088bcccd5530":{
+      "scriptId":"u8"}}});

@@ -1,0 +1,14 @@
+1. 系统说明:
+戴姆勒内部员工使用该系统来申请：硬件设备、软件license、内部网站访问授权等等。该系统分为移动App以及网站2部分。
+
+员工可以在移动App上申请，或者在网站上申请，通过公司的审批流程后，可以得到所申请资源。
+
+2. 网站设计原型：见Axure原型"portal_prototype.rp"，生成的页面见目录"portal_prototype"(可以从employee_new_server_demand.html开始，看到员工申请资源的整个流程)。
+
+3. Mobile App 设计原型：见Daimler.sketch
+
+4. 产品设计截图：
+
+portal_app_item_details.png: 在mobile app上员工查看某具体申请，或审批者操作某具体申请；
+portal_app_list.png: 在mobile app上查看由自己发起的所有申请的列表；
+portal_pc_e3_view_style2.png: 在网站上查看某级别审批者名下所有应处理申请的列表

@@ -1,0 +1,346 @@
+﻿$axure.loadCurrentPage({
+  "url":"generate_order_inshop.html",
+  "generationDate":new Date(1594096788467.55),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "defaultBackgroundImageInfo":{
+    "path":"images/generate_order_inshop/bg.jpg",
+    "width":414,
+    "height":736},
+  "viewIdToBackgroundImageInfo":{
+},
+  "page":{
+    "packageId":"47813996abe049368c101e40b5487ada",
+    "type":"Axure:Page",
+    "name":"generate_order_inshop",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"589425c635704445866902c2602a8d97",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":687},
+            "size":{
+              "width":414,
+              "height":50}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 index",
+                      "target":{
+                        "targetType":"page",
+                        "url":"index.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]},
+            "onMouseOver":{
+              "description":"OnMouseOver",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"fadeWidget",
+                      "description":"显示 generate_order_tip",
+                      "objectsToFades":[{
+                          "objectPath":["dc917e7a88414c94913c587b77407edb"],
+                          "fadeInfo":{
+                            "fadeType":"show",
+                            "options":{
+                              "showType":"none"}}}]}]}]},
+            "onMouseOut":{
+              "description":"OnMouseOut",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"fadeWidget",
+                      "description":"隐藏 generate_order_tip",
+                      "objectsToFades":[{
+                          "objectPath":["dc917e7a88414c94913c587b77407edb"],
+                          "fadeInfo":{
+                            "fadeType":"hide",
+                            "options":{
+                              "showType":"none"}}}]}]}]}},
+          "tabbable":true},
+{
+          "id":"044d9196e8ad4747be1252ccae7c4203",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":383,
+              "y":78},
+            "size":{
+              "width":17,
+              "height":22}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 order_list",
+                      "target":{
+                        "targetType":"page",
+                        "url":"order_list.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"779a5c7032954778a633e5e622f95acc",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":284,
+              "y":77},
+            "size":{
+              "width":26,
+              "height":23}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ec03665e586d46b7b6bb97c3ba4a8f3d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":284,
+                  "y":77},
+                "size":{
+                  "width":26,
+                  "height":23}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 shopcart",
+                      "target":{
+                        "targetType":"page",
+                        "url":"shopcart.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/index/u2.png"}},
+{
+          "id":"dc917e7a88414c94913c587b77407edb",
+          "label":"generate_order_tip",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":false,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"10px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC,
+              "opacity":1},
+            "location":{
+              "x":0,
+              "y":688},
+            "size":{
+              "width":319,
+              "height":11},
+            "visible":false},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c850b6d702fb482da3984ce47d17471a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":false,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"10px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC,
+                  "opacity":1},
+                "location":{
+                  "x":0,
+                  "y":688},
+                "size":{
+                  "width":319,
+                  "height":11},
+                "visible":false},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"5f6104532cbc4f6b9b96af8d875a2028",
+          "label":"",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":114},
+            "size":{
+              "width":430,
+              "height":573}},
+          "adaptiveStyles":{
+},
+          "scrollbars":"verticalAsNeeded",
+          "fitToContent":false,
+          "propagate":false,
+          "diagrams":[{
+              "id":"31efc11eea3348be87534869c77edd3e",
+              "label":"State1",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"a0783e087aa74e6fb9eb3eaff6043e47",
+                  "label":"",
+                  "parentDynamicPanel":"5f6104532cbc4f6b9b96af8d875a2028",
+                  "type":"inlineFrame",
+                  "styleType":"inlineFrame",
+                  "visible":true,
+                  "style":{
+                    "size":{
+                      "width":440,
+                      "height":653}},
+                  "adaptiveStyles":{
+}}]}]},
+{
+          "id":"84420990e73a4a86bfdf1e367c0ac4c4",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":414,
+              "y":114},
+            "size":{
+              "width":16,
+              "height":573}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b00f2d558a144d3ca335e64d6a90a5a4",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":414,
+                  "y":114},
+                "size":{
+                  "width":16,
+                  "height":573}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/tyre_list/u4.png"}},
+{
+          "id":"8d4215a3fd2846c38a4da099c81998cf",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":10,
+              "y":30},
+            "size":{
+              "width":50,
+              "height":20}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 返回",
+                      "target":{
+                        "targetType":"backUrl",
+                        "includeVariables":false},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "589425c635704445866902c2602a8d97":{
+      "scriptId":"u0"},
+    "044d9196e8ad4747be1252ccae7c4203":{
+      "scriptId":"u1"},
+    "779a5c7032954778a633e5e622f95acc":{
+      "scriptId":"u2"},
+    "ec03665e586d46b7b6bb97c3ba4a8f3d":{
+      "scriptId":"u3"},
+    "dc917e7a88414c94913c587b77407edb":{
+      "scriptId":"u4"},
+    "c850b6d702fb482da3984ce47d17471a":{
+      "scriptId":"u5"},
+    "5f6104532cbc4f6b9b96af8d875a2028":{
+      "scriptId":"u6"},
+    "a0783e087aa74e6fb9eb3eaff6043e47":{
+      "scriptId":"u7"},
+    "84420990e73a4a86bfdf1e367c0ac4c4":{
+      "scriptId":"u8"},
+    "b00f2d558a144d3ca335e64d6a90a5a4":{
+      "scriptId":"u9"},
+    "8d4215a3fd2846c38a4da099c81998cf":{
+      "scriptId":"u10"}}});

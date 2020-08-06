@@ -1,0 +1,400 @@
+﻿$axure.loadCurrentPage({
+  "url":"generate_order_offshop.html",
+  "generationDate":new Date(1594096788429.53),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "defaultBackgroundImageInfo":{
+    "path":"images/generate_order_offshop/bg.jpg",
+    "width":414,
+    "height":736},
+  "viewIdToBackgroundImageInfo":{
+},
+  "page":{
+    "packageId":"b3257d0c97294859bd347ccd508369b1",
+    "type":"Axure:Page",
+    "name":"generate_order_offshop",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"bf799fa5b7b24bf9828a937fae06f2ec",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":687},
+            "size":{
+              "width":414,
+              "height":50}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 pay",
+                      "target":{
+                        "targetType":"page",
+                        "url":"pay.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"253499d3c44447718fad9a4b185ceed4",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":383,
+              "y":80},
+            "size":{
+              "width":17,
+              "height":20}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 order_list",
+                      "target":{
+                        "targetType":"page",
+                        "url":"order_list.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"ee2ac508e65148768113dd55c883c838",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":225,
+              "y":77},
+            "size":{
+              "width":26,
+              "height":23}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"496b0ae211c84db8980c0bd2bb79a8d9",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":225,
+                  "y":77},
+                "size":{
+                  "width":26,
+                  "height":23}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 shopcart",
+                      "target":{
+                        "targetType":"page",
+                        "url":"shopcart.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/index/u2.png"}},
+{
+          "id":"c9aeeaef1cbb4dcc9aafb24a749d00a0",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":271,
+              "y":80},
+            "size":{
+              "width":40,
+              "height":19}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"80115571f1a7406da4dd5706ee33b55a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":271,
+                  "y":80},
+                "size":{
+                  "width":40,
+                  "height":19}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 upload_picture",
+                      "target":{
+                        "targetType":"page",
+                        "url":"upload_picture.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]},
+            "onMouseOver":{
+              "description":"OnMouseOver",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"fadeWidget",
+                      "description":"显示 upload_picture_tip",
+                      "objectsToFades":[{
+                          "objectPath":["b3750251f48a4ff1a96a688ec88d2777"],
+                          "fadeInfo":{
+                            "fadeType":"show",
+                            "options":{
+                              "showType":"none"}}}]}]}]},
+            "onMouseOut":{
+              "description":"OnMouseOut",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"fadeWidget",
+                      "description":"隐藏 upload_picture_tip",
+                      "objectsToFades":[{
+                          "objectPath":["b3750251f48a4ff1a96a688ec88d2777"],
+                          "fadeInfo":{
+                            "fadeType":"hide",
+                            "options":{
+                              "showType":"none"}}}]}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/generate_order_offshop/u4.jpg"}},
+{
+          "id":"b3750251f48a4ff1a96a688ec88d2777",
+          "label":"upload_picture_tip",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":false,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"10px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC,
+              "opacity":1},
+            "location":{
+              "x":274,
+              "y":66},
+            "size":{
+              "width":81,
+              "height":11},
+            "visible":false},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"883e45c7088b4e5dae18c0cc7acb8dea",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":false,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"10px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC,
+                  "opacity":1},
+                "location":{
+                  "x":274,
+                  "y":66},
+                "size":{
+                  "width":81,
+                  "height":11},
+                "visible":false},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"91033e9e02954cbea66efe5d2a2e2c31",
+          "label":"",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":0,
+              "y":114},
+            "size":{
+              "width":430,
+              "height":573}},
+          "adaptiveStyles":{
+},
+          "scrollbars":"verticalAsNeeded",
+          "fitToContent":false,
+          "propagate":false,
+          "diagrams":[{
+              "id":"74b62e61735e4dcf8e24376fb6f80a18",
+              "label":"State1",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"53e0f2ce4d2b49548bdad094aa059bb7",
+                  "label":"",
+                  "parentDynamicPanel":"91033e9e02954cbea66efe5d2a2e2c31",
+                  "type":"inlineFrame",
+                  "styleType":"inlineFrame",
+                  "visible":true,
+                  "style":{
+                    "size":{
+                      "width":440,
+                      "height":2061}},
+                  "adaptiveStyles":{
+}}]}]},
+{
+          "id":"1468795c3add478eab06cd854489a024",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":414,
+              "y":114},
+            "size":{
+              "width":16,
+              "height":573}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"19095168e12144129317882ebcad5f3a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":414,
+                  "y":114},
+                "size":{
+                  "width":16,
+                  "height":573}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/tyre_list/u4.png"}},
+{
+          "id":"aff2d7b8e9534e258ba7dd4b070445a8",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":10,
+              "y":29},
+            "size":{
+              "width":50,
+              "height":21}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 返回",
+                      "target":{
+                        "targetType":"backUrl",
+                        "includeVariables":false},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "bf799fa5b7b24bf9828a937fae06f2ec":{
+      "scriptId":"u0"},
+    "253499d3c44447718fad9a4b185ceed4":{
+      "scriptId":"u1"},
+    "ee2ac508e65148768113dd55c883c838":{
+      "scriptId":"u2"},
+    "496b0ae211c84db8980c0bd2bb79a8d9":{
+      "scriptId":"u3"},
+    "c9aeeaef1cbb4dcc9aafb24a749d00a0":{
+      "scriptId":"u4"},
+    "80115571f1a7406da4dd5706ee33b55a":{
+      "scriptId":"u5"},
+    "b3750251f48a4ff1a96a688ec88d2777":{
+      "scriptId":"u6"},
+    "883e45c7088b4e5dae18c0cc7acb8dea":{
+      "scriptId":"u7"},
+    "91033e9e02954cbea66efe5d2a2e2c31":{
+      "scriptId":"u8"},
+    "53e0f2ce4d2b49548bdad094aa059bb7":{
+      "scriptId":"u9"},
+    "1468795c3add478eab06cd854489a024":{
+      "scriptId":"u10"},
+    "19095168e12144129317882ebcad5f3a":{
+      "scriptId":"u11"},
+    "aff2d7b8e9534e258ba7dd4b070445a8":{
+      "scriptId":"u12"}}});

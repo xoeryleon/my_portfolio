@@ -1,0 +1,540 @@
+<!DOCTYPE html>
+<html lang="en-us" class="smart-style-2">
+	<head>
+		<meta charset="utf-8">
+		<!--<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">-->
+
+		<title>Daimler | ITI/OC Demand Portal 2.0</title>
+		<meta name="description" content="">
+		<meta name="author" content="">
+			
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<!-- Basic Styles -->
+		<link rel="stylesheet" type="text/css" media="screen" href="css/bootstrap.min.css">
+		<link rel="stylesheet" type="text/css" media="screen" href="css/font-awesome.min.css">
+		<link rel="stylesheet" type="text/css" href="fonts/materialIcons/MaterialIcons.css">
+
+		<!-- SmartAdmin Styles : Caution! DO NOT change the order -->
+		<link rel="stylesheet" type="text/css" media="screen" href="css/smartadmin-production-plugins.min.css">
+		<link rel="stylesheet" type="text/css" media="screen" href="css/smartadmin-production.min.css">
+		<link rel="stylesheet" type="text/css" media="screen" href="css/smartadmin-skins.min.css">
+
+		<!-- SmartAdmin RTL Support  -->
+		<link rel="stylesheet" type="text/css" media="screen" href="css/smartadmin-rtl.min.css">
+
+		<!-- We recommend you use "your_style.css" to override SmartAdmin
+		     specific styles this will also ensure you retrain your customization with each SmartAdmin update.
+		<link rel="stylesheet" type="text/css" media="screen" href="css/your_style.css"> -->
+
+		<!-- Demo purpose only: goes with demo.js, you can delete this css when designing your own WebApp -->
+		<link rel="stylesheet" type="text/css" media="screen" href="css/demo.min.css">
+		<link rel="stylesheet" type="text/css" media="screen" href="css/your_style.css">
+		<!-- FAVICONS -->
+		<link rel="shortcut icon" href="img/favicon/favicon.ico" type="image/x-icon">
+		<link rel="icon" href="img/favicon/favicon.ico" type="image/x-icon">
+
+		
+		<!-- iOS web-app metas : hides Safari UI Components and Changes Status Bar Appearance -->
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-status-bar-style" content="black">
+		
+
+
+	</head>
+	<body>
+
+		<!-- HEADER -->
+		<header id="header">
+			<div id="logo-group">
+
+				<!-- PLACE YOUR LOGO HERE -->
+				<span id="logo"> <img src="img/logo.png" alt="Daimler"></span>
+				<!-- END LOGO PLACEHOLDER -->
+
+			</div>
+
+			<!-- pulled right: nav area -->
+			<div class="pull-right">
+				
+				
+				
+				<!-- #MOBILE -->
+				<!-- Top menu profile link : this shows only when top menu is active -->
+				<ul id="mobile-profile-img" class="header-dropdown-list hidden-xs padding-5">
+					<li class="">
+						<a href="#" class="dropdown-toggle no-margin userdropdown" data-toggle="dropdown"> 
+							<img src="img/avatars/sunny-big.png" alt="John Doe" class="online" />  
+						</a>
+						<ul class="dropdown-menu pull-right">
+							<li>
+								<a href="javascript:void(0);" class="padding-10 padding-top-0 padding-bottom-0"><i class="fa fa-cog"></i> Setting</a>
+							</li>
+							<li class="divider"></li>
+							<li>
+								<a href="profile.html" class="padding-10 padding-top-0 padding-bottom-0"> <i class="fa fa-user"></i> <u>P</u>rofile</a>
+							</li>
+							<li class="divider"></li>
+							<li>
+								<a href="javascript:void(0);" class="padding-10 padding-top-0 padding-bottom-0" data-action="toggleShortcut"><i class="fa fa-arrow-down"></i> <u>S</u>hortcut</a>
+							</li>
+							<li class="divider"></li>
+							<li>
+								<a href="javascript:void(0);" class="padding-10 padding-top-0 padding-bottom-0" data-action="launchFullscreen"><i class="fa fa-arrows-alt"></i> Full <u>S</u>creen</a>
+							</li>
+							<li class="divider"></li>
+							<li>
+								<a href="login.html" class="padding-10 padding-top-5 padding-bottom-5" data-action="userLogout"><i class="fa fa-sign-out fa-lg"></i> <strong><u>L</u>ogout</strong></a>
+							</li>
+						</ul>
+					</li>
+				</ul>
+
+				<!-- logout button -->
+				<div id="logout" class="btn-header transparent pull-right">
+					<span> <a href="login.html" title="Sign Out" data-action="userLogout" data-logout-msg="You can improve your security further after logging out by closing this opened browser"><img src="img/header-icon-logout.png" width="34"></a> </span>
+				</div>
+				<!-- end logout button -->
+				<!-- fullscreen button -->
+				<div id="fullscreen" class="btn-header transparent pull-right">
+					<span> <a href="javascript:void(0);" data-action="launchFullscreen" title="Full Screen"><img src="img/header-icon-zoom.png" width="34"></a> </span>
+				</div>
+				<!-- end fullscreen button -->
+
+				<!-- collapse menu button -->
+				<div id="hide-menu" class="btn-header pull-right">
+					<span><a href="javascript:void(0);" data-action="toggleMenu" title="Collapse Menu"><img src="img/header-icon-menu.png" width="34"></a> </span>
+				</div>
+				<!-- end collapse menu -->
+				
+				<!-- #Voice Command: Start Speech -->
+				<div id="speech-btn" class="btn-header transparent pull-right hidden-sm hidden-xs">
+					<div> 
+						<a href="javascript:void(0)" title="Voice Command" data-action="voiceCommand"><i class="fa fa-microphone"></i></a> 
+						<div class="popover bottom"><div class="arrow"></div>
+							<div class="popover-content">
+								<h4 class="vc-title">Voice command activated <br><small>Please speak clearly into the mic</small></h4>
+								<h4 class="vc-title-error text-center">
+									<i class="fa fa-microphone-slash"></i> Voice command failed
+									<br><small class="txt-color-red">Must <strong>"Allow"</strong> Microphone</small>
+									<br><small class="txt-color-red">Must have <strong>Internet Connection</strong></small>
+								</h4>
+								<a href="javascript:void(0);" class="btn btn-success" onclick="commands.help()">See Commands</a> 
+								<a href="javascript:void(0);" class="btn bg-color-purple txt-color-white" onclick="$('#speech-btn .popover').fadeOut(50);">Close Popup</a> 
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- end voice command -->	
+
+			</div>
+			<!-- end pulled right: nav area -->
+
+		</header>
+		<!-- END HEADER -->
+
+		<!-- Left panel : Navigation area -->
+		<!-- Note: This width of the aside area can be adjusted through LESS variables -->
+		<aside id="left-panel">
+
+			<!-- User info -->
+			<div class="login-info">
+				<span> <!-- User image size is adjusted inside CSS, it should stay as it --> 
+					
+					<a href="javascript:void(0);" id="show-shortcut" data-action="toggleShortcut">
+						<img src="img/avatars/sunny-big.png" alt="me" class="online" /> 
+						<span>
+							john.doe 
+						</span>
+						<i class="fa fa-angle-down"></i>
+					</a> 
+					
+				</span>
+			</div>
+			<!-- end user info -->
+			<!--system name -->
+			<div class="D-system-name">ITI/OC Demand Portal 2.0</div>
+			<!--system name -->
+			<!-- NAVIGATION : This navigation is also responsive-->
+			<nav>
+				<!-- 
+				NOTE: Notice the gaps after each icon usage <i></i>..
+				Please note that these links work a bit different than
+				traditional href="" links. See documentation for details.
+				-->
+
+				<ul>
+					<li class="active">
+						<a href="#" title="Dashboard"><i class="material-icons">home</i><span class="menu-item-parent">Home</span></a>
+					</li>
+					<li class="top-menu-invisible">
+						<a href="#"><i class="material-icons">add_circle_outline</i><span class="menu-item-parent">Add Demand</span></a>
+						<ul>
+							<li>
+								<a href="#"><i class="fa fa-circle"></i>New Server Demand</a>
+							</li>
+							<li>
+								<a href="#"><i class="fa fa-circle"></i>Resource & Backup</a>
+							</li>
+							<li>
+								<a href="#"><i class="fa fa-circle"></i>SSL Certification</a>
+							</li>
+							<li>
+								<a href="#"><i class="fa fa-circle"></i>License</a>
+							</li>
+							<li>
+								<a href="#"><i class="fa fa-circle"></i>Connection</a>
+							</li>
+							<li>
+								<a href="#"><i class="fa fa-circle"></i>Sundown</a>
+							</li>
+							<li>
+								<a href="#"><i class="fa fa-circle"></i>SGP Service</a>
+							</li>
+							<li>
+								<a href="#"><i class="fa fa-circle"></i>Office Construction</a>
+							</li>
+							<li>
+								<a href="#"><i class="fa fa-circle"></i>Others</a>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<a href="#"><i class="material-icons">perm_identity</i><span class="menu-item-parent">My Demands</span></a>
+					</li>
+					<li>
+						<a href="#"><i class="material-icons">list</i><span class="menu-item-parent">All Demands</span></a>
+					</li>
+					<li>
+						<a href="#"><i class="material-icons">event_note</i><span class="menu-item-parent">My Task</span></a>
+					</li>
+					<li>
+						<a href="#"><i class="material-icons">open_in_new</i><span class="menu-item-parent">Reporting</span></a>
+						<ul>
+							<li>
+								<a href="#"><i class="fa fa-circle"></i>Quotation</a>
+							</li>
+							<li>
+								<a href="#"><i class="fa fa-circle"></i>Satification</a>
+							</li>
+							<li>
+								<a href="#"><i class="fa fa-circle"></i>Sizing</a>
+							</li>
+							<li>
+								<a href="#"><i class="fa fa-circle"></i>Accurate Phase Time</a>
+							</li>
+							<li>
+								<a href="#"><i class="fa fa-circle"></i>Multi Condition Phase Time</a>
+							</li>
+							<li>
+								<a href="#"><i class="fa fa-circle"></i>Demand Summary</a>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<a href="#"><i class="material-icons">local_atm</i><span class="menu-item-parent">Quotation</span></a>
+					</li>
+					<li>
+						<a href="#"><i class="material-icons">content_paste</i><span class="menu-item-parent">Catalog & Price</span></a>
+					</li>
+					<li>
+						<a href="#"><i class="material-icons">developer_board</i><span class="menu-item-parent">E3 View</span></a>
+					</li>
+					<li>
+						<a href="#"><i class="material-icons">done_all</i><span class="menu-item-parent">Pipeline Survey</span></a>
+					</li>
+					<li>
+						<a href="#"><i class="material-icons">group</i><span class="menu-item-parent">Delegation</span></a>
+					</li>
+					<li>
+						<a href="#"><i class="material-icons">settings</i><span class="menu-item-parent">System Setting</span></a>
+						<ul>
+							<li>
+								<a href="#"><i class="fa fa-circle"></i>User Management</a>
+							</li>
+							<li>
+								<a href="#"><i class="fa fa-circle"></i>Privililege Management</a>
+							</li>
+							<li>
+								<a href="#"><i class="fa fa-circle"></i>Workflow Deployment</a>
+							</li>
+							<li>
+								<a href="#"><i class="fa fa-circle"></i>Dictionary</a>
+							</li>
+							<li>
+								<a href="#"><i class="fa fa-circle"></i>Menu Management</a>
+							</li>
+							<li>
+								<a href="#"><i class="fa fa-circle"></i>Mail Box</a>
+							</li>
+							<li>
+								<a href="#"><i class="fa fa-circle"></i>Refer All Deployments</a>
+							</li>
+							<li>
+								<a href="#"><i class="fa fa-circle"></i>Mail Log</a>
+							</li>
+							<li>
+								<a href="#"><i class="fa fa-circle"></i>Timed Service Task</a>
+							</li>
+						</ul>
+					</li>
+				</ul>
+			</nav>
+			
+
+			<span class="minifyme" data-action="minifyMenu"> 
+				<i class="fa fa-arrow-circle-left hit"></i> 
+			</span>
+
+		</aside>
+		<!-- END NAVIGATION -->
+
+		<!-- MAIN PANEL -->
+		<div id="main" role="main">
+			<!-- MAIN CONTENT -->
+			<div id="content">
+				<div class="D-quick-nav D-slide-box D-box">
+					<div class="fullSlide">
+						<div class="D-arrow D-left-arrow prev">
+							<i class="fa fa-angle-left"></i>
+							<strong>Previous</strong>
+						</div>
+						<div class="D-arrow D-right-arrow next">
+							<strong>Next</strong>
+							<i class="fa fa-angle-right"></i>
+						</div>
+						<div class="bd">
+							<ul>
+								<li>
+									<div class="D-slide-box-content">
+										<div class="row">
+											<div class="col-md-3 col-sm-3 col-xs-6"><a href="#"><i class="D-quick-icon-1"></i><strong>New Server Demand</strong><span>New build server</span></a></div>
+											<div class="col-md-3 col-sm-3 col-xs-6"><a href="#"><i class="D-quick-icon-2"></i><strong>Resource & Backup</strong><span>Add CPU, RAM, Storage, Backup to existing server</span></a></div>
+											<div class="col-md-3 col-sm-3 col-xs-6"><a href="#"><i class="D-quick-icon-3"></i><strong>License</strong><span>New license application, e.g., Middleware and DB</span></a></div>
+											<div class="col-md-3 col-sm-3 col-xs-6"><a href="#"><i class="D-quick-icon-4"></i><strong>SSL Certification</strong><span>Add SSL Cert for new URL</span></a></div>
+											<!--<li class="col-md-3 col-sm-4 col-xs-6"><a href="#"><i class="D-quick-icon-9"></i><strong>Office Construction</strong><span>New office set up or renovation</span></a></li>-->
+										</div>
+										<div class="row">
+											<div class="col-md-3 col-sm-3 col-xs-6"><a href="#"><i class="D-quick-icon-5"></i><strong>Cloud</strong><span>Strategic Public Cloud: Azure, AWS</span></a></div>
+											<div class="col-md-3 col-sm-3 col-xs-6"><a href="#"><i class="D-quick-icon-6"></i><strong>Connection</strong><span>Axway CFT, Axway ST, IP/Sec, VPN, API Gateway</span></a></div>
+											<div class="col-md-3 col-sm-3 col-xs-6"><a href="#"><i class="D-quick-icon-7"></i><strong>SGP Service</strong><span>SGP operation support and quotation only</span></a></div>
+											<div class="col-md-3 col-sm-3 col-xs-6"><a href="#"><i class="D-quick-icon-8"></i><strong>Sundown</strong><span>Cancel service in order</span></a></div>
+											<!--<li class="col-md-3 col-sm-4 col-xs-6"><a href="#"><i class="D-quick-icon-10"></i><strong>Others</strong><span>Other requirements</span></a></li>-->
+										</div>
+									</div>
+								</li>
+								<li>
+									<div class="D-slide-box-content">
+										<div class="row">
+											<div class="col-md-3 col-sm-3 col-xs-6"><a href="#"><i class="D-quick-icon-9"></i><strong>Office Construction</strong><span>New office set up or renovation</span></a></div>
+										</div>
+										<div class="row">
+											<div class="col-md-3 col-sm-3 col-xs-6"><a href="#"><i class="D-quick-icon-10"></i><strong>Others</strong><span>Other requirements</span></a></div>
+										</div>
+									</div>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="clearfix" style="height: 1px;"></div>
+				<div class="D-process D-box">
+					<img src="img/process-img.png" width="100%">
+				</div>
+				<div class="row">
+					<div class="col-md-6 col-sm-6 col-xs-12">
+						<div class="D-document-list D-slide-box D-box">
+							<div class="fullSlide">
+								<div class="D-arrow D-left-arrow prev">
+									<i class="fa fa-angle-left"></i>
+									<strong>Previous</strong>
+								</div>
+								<div class="D-arrow D-right-arrow next">
+									<strong>Next</strong>
+									<i class="fa fa-angle-right"></i>
+								</div>
+								<div class="bd">
+									<ul>
+										<li>
+												<div class="D-slide-box-content">
+													<div class="row">
+														<div class="col-md-4 col-sm-4 col-xs-4"><a href="#"><i class="D-document-icon-1"></i><strong>User Guide</strong><span>Download 1.2MB</span></a></div>
+														<div class="col-md-4 col-sm-4 col-xs-4"><a href="#"><i class="D-document-icon-2"></i><strong>IC Sample</strong><span>Download 5.1MB</span></a></div>
+														<div class="col-md-4 col-sm-4 col-xs-4"><a href="#"><i class="D-document-icon-3"></i><strong>IRD Template</strong><span>Download 2.5MB</span></a></div>
+													</div>
+													<div class="row">
+														<div class="col-md-4 col-sm-4 col-xs-4"><a href="#"><i class="D-document-icon-4"></i><strong>Additional Requirement</strong><span>Download 1.2MB</span></a></div>
+														<div class="col-md-4 col-sm-4 col-xs-4"><a href="#"><i class="D-document-icon-4"></i><strong>Axway ST Request</strong><span>Download 5.1MB</span></a></div>
+														<div class="col-md-4 col-sm-4 col-xs-4"><a href="#"><i class="D-document-icon-4"></i><strong>Axway CFT Request</strong><span>Download 2.5MB</span></a></div>
+													</div>
+												</div>
+										</li>
+										<li>
+											<div class="D-slide-box-content">
+												<div class="row">
+													<div class="col-md-4 col-sm-4 col-xs-4"><a href="#"><i class="D-document-icon-1"></i><strong>User Guide</strong><span>Download 1.2MB</span></a></div>
+													<div class="col-md-4 col-sm-4 col-xs-4"><a href="#"><i class="D-document-icon-2"></i><strong>IC Sample</strong><span>Download 5.1MB</span></a></div>
+													<div class="col-md-4 col-sm-4 col-xs-4"><a href="#"><i class="D-document-icon-3"></i><strong>IRD Template</strong><span>Download 2.5MB</span></a></div>
+												</div>
+												<div class="row">
+													<div class="col-md-4 col-sm-4 col-xs-4"><a href="#"><i class="D-document-icon-4"></i><strong>Additional Requirement</strong><span>Download 1.2MB</span></a></div>
+
+												</div>
+											</div>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-6 col-sm-6 col-xs-12">
+						<div class="D-feedback D-box smart-form">
+							<h5>Feedback & Suggestion</h5>
+							<p>Please describe your demand and the issue you are encountering, or your suggestions for improvements.</p>
+							<label class="textarea"> 										
+								<textarea rows="10" class="custom-scroll" placeholder="Please enter your question..."></textarea> 
+							</label>
+							<button class="btn btn-primary"><i class="material-icons">check</i> SUBMIT</button>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- END MAIN CONTENT -->
+
+		</div>
+		<!-- END MAIN PANEL -->
+
+		<!-- PAGE FOOTER -->
+		<div class="page-footer">
+			<div class="row">
+				<div class="col-xs-12 col-sm-12">
+					<span>Copyright © 2017 Daimler</span>
+					<span class="pull-right"><i class="fa fa-envelope-o"></i>China Demand Team Email:&nbsp;&nbsp;<a href="#">china_infrastructure_demand@daimler.com</a></span>
+				</div>
+			</div>
+		</div>
+		<!-- END PAGE FOOTER -->
+
+		<!-- SHORTCUT AREA : With large tiles (activated via clicking user name tag)
+		Note: These tiles are completely responsive,
+		you can add as many as you like
+		-->
+		<div id="shortcut">
+			<ul>
+				<li>
+					<a href="#" class="jarvismetro-tile big-cubes"> <span class="iconbox"> <i class="material-icons">person_outline</i> <span>Personal</span> </span> </a>
+				</li>
+				<li>
+					<a href="#" class="jarvismetro-tile big-cubes"> <span class="iconbox"> <i class="material-icons">mail_outline</i> <span>Message</span> </span> </a>
+				</li>
+				<li>
+					<a href="#" class="jarvismetro-tile big-cubes"> <span class="iconbox"> <i class="material-icons">settings</i> <span>Setting</span> </span> </a>
+				</li>
+				
+			</ul>
+		</div>
+		<!-- END SHORTCUT AREA -->
+
+		<!--================================================== -->
+
+		<!-- PACE LOADER - turn this on if you want ajax loading to show (caution: uses lots of memory on iDevices)-->
+		<script data-pace-options='{ "restartOnRequestAfter": true }' src="js/plugin/pace/pace.min.js"></script>
+
+		<!-- Link to Google CDN's jQuery + jQueryUI; fall back to local -->
+		<script>
+			if (!window.jQuery) {
+				document.write('<script src="js/libs/jquery-2.1.1.min.js"><\/script>');
+			}
+		</script>
+
+		<script>
+			if (!window.jQuery.ui) {
+				document.write('<script src="js/libs/jquery-ui-1.10.3.min.js"><\/script>');
+			}
+		</script>
+
+		<!-- IMPORTANT: APP CONFIG -->
+		<script src="js/app.config.js"></script>
+
+		<!-- JS TOUCH : include this plugin for mobile drag / drop touch events-->
+		<script src="js/plugin/jquery-touch/jquery.ui.touch-punch.min.js"></script> 
+
+		<!-- BOOTSTRAP JS -->
+		<script src="js/bootstrap/bootstrap.min.js"></script>
+
+		<!-- CUSTOM NOTIFICATION -->
+		<script src="js/notification/SmartNotification.min.js"></script>
+
+		<!-- JARVIS WIDGETS -->
+		<script src="js/smartwidgets/jarvis.widget.min.js"></script>
+
+		<!-- EASY PIE CHARTS -->
+		<script src="js/plugin/easy-pie-chart/jquery.easy-pie-chart.min.js"></script>
+
+		<!-- SPARKLINES -->
+		<script src="js/plugin/sparkline/jquery.sparkline.min.js"></script>
+
+		<!-- JQUERY VALIDATE -->
+		<script src="js/plugin/jquery-validate/jquery.validate.min.js"></script>
+
+		<!-- JQUERY MASKED INPUT -->
+		<script src="js/plugin/masked-input/jquery.maskedinput.min.js"></script>
+
+		<!-- JQUERY SELECT2 INPUT -->
+		<script src="js/plugin/select2/select2.min.js"></script>
+
+		<!-- JQUERY UI + Bootstrap Slider -->
+		<script src="js/plugin/bootstrap-slider/bootstrap-slider.min.js"></script>
+
+		<!-- browser msie issue fix -->
+		<script src="js/plugin/msie-fix/jquery.mb.browser.min.js"></script>
+
+		<!-- FastClick: For mobile devices -->
+		<script src="js/plugin/fastclick/fastclick.min.js"></script>
+
+		<!--[if IE 8]>
+
+		<h1>Your browser is out of date, please update your browser by going to www.microsoft.com/download</h1>
+
+		<![endif]-->
+
+		<!-- Demo purpose only -->
+		<script src="js/demo.min.js"></script>
+
+		<!-- MAIN APP JS FILE -->
+		<script src="js/app.min.js"></script>
+
+		<!-- ENHANCEMENT PLUGINS : NOT A REQUIREMENT -->
+		<!-- Voice command : plugin -->
+		<script src="js/speech/voicecommand.min.js"></script>
+
+		<!-- SmartChat UI : plugin -->
+		<script src="js/smart-chat-ui/smart.chat.ui.min.js"></script>
+		<script src="js/smart-chat-ui/smart.chat.manager.min.js"></script>
+		
+		<!-- PAGE RELATED PLUGIN(S) -->
+		
+		<!-- Flot Chart Plugin: Flot Engine, Flot Resizer, Flot Tooltip -->
+		<script src="js/plugin/flot/jquery.flot.cust.min.js"></script>
+		<script src="js/plugin/flot/jquery.flot.resize.min.js"></script>
+		<script src="js/plugin/flot/jquery.flot.time.min.js"></script>
+		<script src="js/plugin/flot/jquery.flot.tooltip.min.js"></script>
+		
+		<!-- Vector Maps Plugin: Vectormap engine, Vectormap language -->
+		<script src="js/plugin/vectormap/jquery-jvectormap-1.2.2.min.js"></script>
+		<script src="js/plugin/vectormap/jquery-jvectormap-world-mill-en.js"></script>
+		
+		<!-- Full Calendar -->
+		<script src="js/plugin/moment/moment.min.js"></script>
+		<script src="js/plugin/fullcalendar/jquery.fullcalendar.min.js"></script>
+
+		<script src="js/plugin/superSlide/jquery.SuperSlide.2.1.2.js"></script>
+		
+
+
+		<script type="text/javascript">
+			jQuery(".fullSlide").slide({ mainCell:".bd ul", autoPage:true, autoPlay:false, prevCell:".prev",nextCell:".next",trigger:"click" });
+		</script>
+	</body>
+
+</html>

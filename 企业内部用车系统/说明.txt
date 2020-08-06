@@ -1,0 +1,14 @@
+1. 系统说明
+
+沈阳华晨宝马内部员工用车系统，员工申请用车后，审批者可以批准、拒绝，如果没有合适的车去分配，也可以延期处理，被批准的订单可以为其分配车辆。
+
+2. 产品设计原型
+
+1）员工申请用车的Axure原型见"employee.rp",生成的页面见目录“bba_employee”(index.html是员工申请用车的页面，需要填写申请者信息、使用者信息、申请的车型车系、计划用车时间等等)
+2）审批者查看订单列表\处理订单的Axure原型见"key_user.rp"，生成的页面见目录"bba_keyuser"(index.html是审批者查看订单的页面；allocate_vehicle.html是给某订单分配车辆的页面，在该页面可以按条件搜索车辆去分配)
+
+3. 产品设计截图
+
+1）user_vehicle_request.png: 用户申请车辆
+2）key_user_orders.png: 审批者查看其应该处理的订单
+3）key_user_allocate_vehicle.png: 给已批准的某订单分配车辆

@@ -1,0 +1,959 @@
+﻿$axure.loadCurrentPage({
+  "url":"wechat_order_detail.html",
+  "generationDate":new Date(1594096872695.6),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"92660dc00aa44f2cacf666d51d837820",
+    "type":"Axure:Page",
+    "name":"wechat_order_detail",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"2858ffbfb3f44ac4bf73c0b6e36ba3b1",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "size":{
+              "width":1349,
+              "height":1249}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"3a6784fd900f437e8d7792e111d22005",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "size":{
+                  "width":1349,
+                  "height":1249}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/wechat_order_detail/u0.png"}},
+{
+          "id":"6ca725f5c8574ce4a955f626ba3ff620",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"16px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF5E5E5E,
+              "opacity":1},
+            "location":{
+              "x":223,
+              "y":898},
+            "size":{
+              "width":97,
+              "height":19}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"5efa1958fc794a2a937857e8d2c0558a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"16px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF5E5E5E,
+                  "opacity":1},
+                "location":{
+                  "x":223,
+                  "y":898},
+                "size":{
+                  "width":97,
+                  "height":19}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"d22eae2a49a84a55a7e76307cd1df416",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":225,
+              "y":931},
+            "size":{
+              "width":41,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"8b0cacc512da4a36862fbf7a9011fe16",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":225,
+                  "y":931},
+                "size":{
+                  "width":41,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"91669908ad9e4cfeb407dd45a8cd95cd",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":475,
+              "y":931},
+            "size":{
+              "width":41,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c363f8d8933e47b48d25cf1af837303e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":475,
+                  "y":931},
+                "size":{
+                  "width":41,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"506b9973cc2745baab409a8c611d3891",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":723,
+              "y":931},
+            "size":{
+              "width":41,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"046b01a51efd4043ac8135ef988020c9",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":723,
+                  "y":931},
+                "size":{
+                  "width":41,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"e2888dd4661a4586a9e22565021a580f",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":974,
+              "y":931},
+            "size":{
+              "width":41,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"69dc29f518b44927988d1db3d3543aea",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":974,
+                  "y":931},
+                "size":{
+                  "width":41,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"aa75e7df52ef465790d5dd0a56c5621d",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":225,
+              "y":957},
+            "size":{
+              "width":100,
+              "height":100},
+            "borderWidth":"1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"22d64be7399f42839e15a3afa01cbcf8",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":225,
+                  "y":957},
+                "size":{
+                  "width":100,
+                  "height":100},
+                "borderWidth":"1"},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 wechat_order_picture_detail",
+                      "target":{
+                        "targetType":"page",
+                        "url":"wechat_order_picture_detail.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/wechat_order_detail/u12.png"}},
+{
+          "id":"332db90be515482bbf7edd631f28b733",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":332,
+              "y":957},
+            "size":{
+              "width":100,
+              "height":100},
+            "borderWidth":"1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"7c1066ec00bc49448115b01913f0b31c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":332,
+                  "y":957},
+                "size":{
+                  "width":100,
+                  "height":100},
+                "borderWidth":"1"},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 wechat_order_picture_detail",
+                      "target":{
+                        "targetType":"page",
+                        "url":"wechat_order_picture_detail.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/wechat_order_detail/u14.png"}},
+{
+          "id":"2fe96ba2b79144b8b9a0d8f60b381fdc",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":474,
+              "y":955},
+            "size":{
+              "width":100,
+              "height":100},
+            "borderWidth":"1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"3f8b6d84859d418dbcce0b79abb8d3d1",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":474,
+                  "y":955},
+                "size":{
+                  "width":100,
+                  "height":100},
+                "borderWidth":"1"},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 wechat_order_picture_detail",
+                      "target":{
+                        "targetType":"page",
+                        "url":"wechat_order_picture_detail.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/wechat_order_detail/u16.png"}},
+{
+          "id":"84b26c685b614210baec51776f8fac48",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":580,
+              "y":956},
+            "size":{
+              "width":100,
+              "height":100},
+            "borderWidth":"1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"7729d157cf8249e693d7cda30d9d91f1",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":580,
+                  "y":956},
+                "size":{
+                  "width":100,
+                  "height":100},
+                "borderWidth":"1"},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 wechat_order_picture_detail",
+                      "target":{
+                        "targetType":"page",
+                        "url":"wechat_order_picture_detail.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/wechat_order_detail/u18.png"}},
+{
+          "id":"8c42fdbd1430424dbafa2a9702c6bc87",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":724,
+              "y":955},
+            "size":{
+              "width":100,
+              "height":100},
+            "borderWidth":"1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"0fc512cd68b741afbfb54a9a657ab5d3",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":724,
+                  "y":955},
+                "size":{
+                  "width":100,
+                  "height":100},
+                "borderWidth":"1"},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 wechat_order_picture_detail",
+                      "target":{
+                        "targetType":"page",
+                        "url":"wechat_order_picture_detail.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/wechat_order_detail/u20.png"}},
+{
+          "id":"58063f81095c42799ec3656bb5597193",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":830,
+              "y":955},
+            "size":{
+              "width":100,
+              "height":100},
+            "borderWidth":"1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"dce74b44d341417dabc1a23256a3cb88",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":830,
+                  "y":955},
+                "size":{
+                  "width":100,
+                  "height":100},
+                "borderWidth":"1"},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 wechat_order_picture_detail",
+                      "target":{
+                        "targetType":"page",
+                        "url":"wechat_order_picture_detail.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/wechat_order_detail/u22.png"}},
+{
+          "id":"ec7b3871907e4d82a0dc7749932ed21e",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":974,
+              "y":954},
+            "size":{
+              "width":100,
+              "height":100},
+            "borderWidth":"1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"bf6b7a952b1b40fca84eb20d039522e2",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":974,
+                  "y":954},
+                "size":{
+                  "width":100,
+                  "height":100},
+                "borderWidth":"1"},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 wechat_order_picture_detail",
+                      "target":{
+                        "targetType":"page",
+                        "url":"wechat_order_picture_detail.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/wechat_order_detail/u12.png"}},
+{
+          "id":"597eeb13497a4bc590d5bd2074db7024",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":1079,
+              "y":954},
+            "size":{
+              "width":100,
+              "height":100}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a1fc19ca295047068b25c460c3ef4d5e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":1079,
+                  "y":954},
+                "size":{
+                  "width":100,
+                  "height":100}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 wechat_order_picture_detail",
+                      "target":{
+                        "targetType":"page",
+                        "url":"wechat_order_picture_detail.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/wechat_order_detail/u26.jpg"}},
+{
+          "id":"a1b0657c4e064820b0b485b13337e7ca",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":221,
+              "y":100},
+            "size":{
+              "width":50,
+              "height":32}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 wechat_order_all",
+                      "target":{
+                        "targetType":"page",
+                        "url":"wechat_order_all.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"a5fe99483c914a2d9725bd0779d8f175",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":37,
+              "y":590},
+            "size":{
+              "width":63,
+              "height":20}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 wechat_order_all",
+                      "target":{
+                        "targetType":"page",
+                        "url":"wechat_order_all.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"30410722feaa4b27a1da18cf75fead27",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"15px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "location":{
+              "x":38,
+              "y":280},
+            "size":{
+              "width":81,
+              "height":18}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"fbb68013811a43cfbc63ed7a07296ceb",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"15px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "location":{
+                  "x":38,
+                  "y":280},
+                "size":{
+                  "width":81,
+                  "height":18}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"f1eaf29730a84bc3af54b805f2a9101e",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":38,
+              "y":280},
+            "size":{
+              "width":72,
+              "height":20}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 shopcart",
+                      "target":{
+                        "targetType":"page",
+                        "url":"shopcart.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"d11ece5b62474ce088e5e204fd9a2a91",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":38,
+              "y":310},
+            "size":{
+              "width":62,
+              "height":20}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 index",
+                      "target":{
+                        "targetType":"page",
+                        "url":"index.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"fd13fdb6f9984466ba4b785609d871de",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":35,
+              "y":404},
+            "size":{
+              "width":63,
+              "height":20}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 dlr_all_orders",
+                      "target":{
+                        "targetType":"page",
+                        "url":"dlr_all_orders.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"93b34da9ca30479298f7badd699ef873",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":35,
+              "y":343},
+            "size":{
+              "width":65,
+              "height":20}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 dlr_order_inprocess",
+                      "target":{
+                        "targetType":"page",
+                        "url":"dlr_order_inprocess.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "2858ffbfb3f44ac4bf73c0b6e36ba3b1":{
+      "scriptId":"u0"},
+    "3a6784fd900f437e8d7792e111d22005":{
+      "scriptId":"u1"},
+    "6ca725f5c8574ce4a955f626ba3ff620":{
+      "scriptId":"u2"},
+    "5efa1958fc794a2a937857e8d2c0558a":{
+      "scriptId":"u3"},
+    "d22eae2a49a84a55a7e76307cd1df416":{
+      "scriptId":"u4"},
+    "8b0cacc512da4a36862fbf7a9011fe16":{
+      "scriptId":"u5"},
+    "91669908ad9e4cfeb407dd45a8cd95cd":{
+      "scriptId":"u6"},
+    "c363f8d8933e47b48d25cf1af837303e":{
+      "scriptId":"u7"},
+    "506b9973cc2745baab409a8c611d3891":{
+      "scriptId":"u8"},
+    "046b01a51efd4043ac8135ef988020c9":{
+      "scriptId":"u9"},
+    "e2888dd4661a4586a9e22565021a580f":{
+      "scriptId":"u10"},
+    "69dc29f518b44927988d1db3d3543aea":{
+      "scriptId":"u11"},
+    "aa75e7df52ef465790d5dd0a56c5621d":{
+      "scriptId":"u12"},
+    "22d64be7399f42839e15a3afa01cbcf8":{
+      "scriptId":"u13"},
+    "332db90be515482bbf7edd631f28b733":{
+      "scriptId":"u14"},
+    "7c1066ec00bc49448115b01913f0b31c":{
+      "scriptId":"u15"},
+    "2fe96ba2b79144b8b9a0d8f60b381fdc":{
+      "scriptId":"u16"},
+    "3f8b6d84859d418dbcce0b79abb8d3d1":{
+      "scriptId":"u17"},
+    "84b26c685b614210baec51776f8fac48":{
+      "scriptId":"u18"},
+    "7729d157cf8249e693d7cda30d9d91f1":{
+      "scriptId":"u19"},
+    "8c42fdbd1430424dbafa2a9702c6bc87":{
+      "scriptId":"u20"},
+    "0fc512cd68b741afbfb54a9a657ab5d3":{
+      "scriptId":"u21"},
+    "58063f81095c42799ec3656bb5597193":{
+      "scriptId":"u22"},
+    "dce74b44d341417dabc1a23256a3cb88":{
+      "scriptId":"u23"},
+    "ec7b3871907e4d82a0dc7749932ed21e":{
+      "scriptId":"u24"},
+    "bf6b7a952b1b40fca84eb20d039522e2":{
+      "scriptId":"u25"},
+    "597eeb13497a4bc590d5bd2074db7024":{
+      "scriptId":"u26"},
+    "a1fc19ca295047068b25c460c3ef4d5e":{
+      "scriptId":"u27"},
+    "a1b0657c4e064820b0b485b13337e7ca":{
+      "scriptId":"u28"},
+    "a5fe99483c914a2d9725bd0779d8f175":{
+      "scriptId":"u29"},
+    "30410722feaa4b27a1da18cf75fead27":{
+      "scriptId":"u30"},
+    "fbb68013811a43cfbc63ed7a07296ceb":{
+      "scriptId":"u31"},
+    "f1eaf29730a84bc3af54b805f2a9101e":{
+      "scriptId":"u32"},
+    "d11ece5b62474ce088e5e204fd9a2a91":{
+      "scriptId":"u33"},
+    "fd13fdb6f9984466ba4b785609d871de":{
+      "scriptId":"u34"},
+    "93b34da9ca30479298f7badd699ef873":{
+      "scriptId":"u35"}}});

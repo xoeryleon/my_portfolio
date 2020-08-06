@@ -1,0 +1,71 @@
+﻿$axure.loadCurrentPage({
+  "url":"color_picker4_internal.html",
+  "generationDate":new Date(1594040141893.98),
+  "isCanvasEnabled":false,
+  "variables":["uploadResumePopup",
+"companyCombination",
+"resumeCandidate",
+"companyCandidate",
+"uploadCompanyPopup"],
+  "page":{
+    "packageId":"fbc3c1061e8b476290905584f41e6608",
+    "type":"Axure:Page",
+    "name":"color_picker4_internal",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"0b56876f246a4a2c911a30eecc399c6f",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "size":{
+              "width":218,
+              "height":134}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"0297720404104acfb01874afcf476c06",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "size":{
+                  "width":218,
+                  "height":134}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/color_picker4_internal/u0.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "0b56876f246a4a2c911a30eecc399c6f":{
+      "scriptId":"u0"},
+    "0297720404104acfb01874afcf476c06":{
+      "scriptId":"u1"}}});

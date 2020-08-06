@@ -1,0 +1,3473 @@
+﻿$axure.loadCurrentPage({
+  "url":"index.html",
+  "generationDate":new Date(1594096932652.58),
+  "isCanvasEnabled":false,
+  "variables":["show_data_updated_tip"],
+  "page":{
+    "packageId":"e8cf9efac96c42bfbffa6566444f56bb",
+    "type":"Axure:Page",
+    "name":"index",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"ab79f6619d0a462c923d0acb425a139b",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "size":{
+              "width":1348,
+              "height":60}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f37da00edb9045dfa78563394690cbaa",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "size":{
+                  "width":1348,
+                  "height":60}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/index/u0.png"}},
+{
+          "id":"9b7b8be2090c4857a7891a084cbacb6e",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":0,
+              "y":60},
+            "size":{
+              "width":163,
+              "height":819}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ee0752381f88425badab8c1a556aa699",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":0,
+                  "y":60},
+                "size":{
+                  "width":163,
+                  "height":819}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/index/u2.png"}},
+{
+          "id":"67b5a94206c04757b5c81a30ed68a463",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":163,
+              "y":60},
+            "size":{
+              "width":18,
+              "height":819}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"5fd9f516dc694195bfd048ff5f1ce8f9",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":163,
+                  "y":60},
+                "size":{
+                  "width":18,
+                  "height":819}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/index/u4.png"}},
+{
+          "id":"ffd028a978cd4c3884d848d553b94b26",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":180,
+              "y":60},
+            "size":{
+              "width":1168,
+              "height":819}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"fa43e68c1c704f579b7102c1651fd088",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":180,
+                  "y":60},
+                "size":{
+                  "width":1168,
+                  "height":819}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/index/u6.png"}},
+{
+          "id":"c2edea02548c439fb63f736e909c433a",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":24,
+              "y":173},
+            "size":{
+              "width":126,
+              "height":31}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"7e3b1e257d864a3b893a7a6068647c20",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":24,
+                  "y":173},
+                "size":{
+                  "width":126,
+                  "height":31}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/index/u8.png"}},
+{
+          "id":"56f284a4341f4b13b3aaf5b08f77c07e",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"15px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF1DAFED,
+              "opacity":1},
+            "location":{
+              "x":37,
+              "y":180},
+            "size":{
+              "width":108,
+              "height":18}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c8e142748e0f429b8cc34e344aa06bf9",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"15px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF1DAFED,
+                  "opacity":1},
+                "location":{
+                  "x":37,
+                  "y":180},
+                "size":{
+                  "width":108,
+                  "height":18}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"6a1bb9f6e8774b5cb663456059642360",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"15px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "location":{
+              "x":37,
+              "y":212},
+            "size":{
+              "width":78,
+              "height":18}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"73861d05cbc94535ba01d82ea381da03",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"15px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "location":{
+                  "x":37,
+                  "y":212},
+                "size":{
+                  "width":78,
+                  "height":18}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"b2b73d5235ef4c0c93ad51ed082288d5",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"24px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF666666,
+              "opacity":1},
+            "location":{
+              "x":247,
+              "y":116},
+            "size":{
+              "width":169,
+              "height":28}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"8797d7b009234aa5a264b07dd770add3",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"24px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF666666,
+                  "opacity":1},
+                "location":{
+                  "x":247,
+                  "y":116},
+                "size":{
+                  "width":169,
+                  "height":28}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"c4adb4a13e0946aaabe7ae70375fa380",
+          "label":"frequency_label1",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"15px",
+            "location":{
+              "x":275,
+              "y":192},
+            "size":{
+              "width":108,
+              "height":18}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d62543a3d28d47979d1bb2aba864b615",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"15px",
+                "location":{
+                  "x":275,
+                  "y":192},
+                "size":{
+                  "width":108,
+                  "height":18}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"a7a6fe8340f44577889b373e06f7c5b6",
+          "label":"frequency_selection",
+          "type":"comboBox",
+          "styleType":"comboBox",
+          "disabled":true,
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"15px",
+            "location":{
+              "x":390,
+              "y":188},
+            "size":{
+              "width":200,
+              "height":22}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onSelectionChange":{
+              "description":"OnSelectionChange",
+              "cases":[{
+                  "description":"Case 1<br> (If 选中项于 frequency_selection 等于 &quot;自定义&quot;)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":"==",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetSelectedOption",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["a7a6fe8340f44577889b373e06f7c5b6"]}]},
+                    "rightExpr":{
+                      "exprType":"stringLiteral",
+                      "value":"自定义",
+                      "stos":[]}},
+                  "actions":[{
+                      "action":"enableDisableWidgets",
+                      "description":"启用 day_frequence,<br>day_label,<br>hour_frequency,<br>hour_label,<br>minute_frequency,<br>minute_label,<br>second_frequency,<br>second_label,<br>frequency_label",
+                      "pathToInfo":[{
+                          "objectPath":["b613abbe64f44d699aefbb1feebe19bc"],
+                          "enableDisableInfo":{
+                            "enable":true}},
+{
+                          "objectPath":["837e5b2d058b418e9b48e8a1613d4eab"],
+                          "enableDisableInfo":{
+                            "enable":true}},
+{
+                          "objectPath":["f3dc966a844b4f7b9e6a90a02221e74f"],
+                          "enableDisableInfo":{
+                            "enable":true}},
+{
+                          "objectPath":["5ba5c7a1c0f14c5d90444bcb80acb91b"],
+                          "enableDisableInfo":{
+                            "enable":true}},
+{
+                          "objectPath":["f314ca461fb44e8496ff00d15fcd93d8"],
+                          "enableDisableInfo":{
+                            "enable":true}},
+{
+                          "objectPath":["6026b02457f640dbab27fd255277953a"],
+                          "enableDisableInfo":{
+                            "enable":true}},
+{
+                          "objectPath":["e512d26dc08d46208e688975a7596b09"],
+                          "enableDisableInfo":{
+                            "enable":true}},
+{
+                          "objectPath":["6ec18c9c09d94ad8abfca5f5e63e70cd"],
+                          "enableDisableInfo":{
+                            "enable":true}},
+{
+                          "objectPath":["721ae2e3fe7c4fecbecf51f61d6b91ff"],
+                          "enableDisableInfo":{
+                            "enable":true}}]}]},
+{
+                  "description":"Case 2<br> (Else If 选中项于 frequency_selection ≠ &quot;自定义&quot;)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":"!=",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetSelectedOption",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["a7a6fe8340f44577889b373e06f7c5b6"]}]},
+                    "rightExpr":{
+                      "exprType":"stringLiteral",
+                      "value":"自定义",
+                      "stos":[]}},
+                  "actions":[{
+                      "action":"enableDisableWidgets",
+                      "description":"禁用 day_frequence,<br>day_label,<br>hour_frequency,<br>hour_label,<br>minute_frequency,<br>minute_label,<br>second_frequency,<br>second_label,<br>frequency_label",
+                      "pathToInfo":[{
+                          "objectPath":["b613abbe64f44d699aefbb1feebe19bc"],
+                          "enableDisableInfo":{
+                            "enable":false}},
+{
+                          "objectPath":["837e5b2d058b418e9b48e8a1613d4eab"],
+                          "enableDisableInfo":{
+                            "enable":false}},
+{
+                          "objectPath":["f3dc966a844b4f7b9e6a90a02221e74f"],
+                          "enableDisableInfo":{
+                            "enable":false}},
+{
+                          "objectPath":["5ba5c7a1c0f14c5d90444bcb80acb91b"],
+                          "enableDisableInfo":{
+                            "enable":false}},
+{
+                          "objectPath":["f314ca461fb44e8496ff00d15fcd93d8"],
+                          "enableDisableInfo":{
+                            "enable":false}},
+{
+                          "objectPath":["6026b02457f640dbab27fd255277953a"],
+                          "enableDisableInfo":{
+                            "enable":false}},
+{
+                          "objectPath":["e512d26dc08d46208e688975a7596b09"],
+                          "enableDisableInfo":{
+                            "enable":false}},
+{
+                          "objectPath":["6ec18c9c09d94ad8abfca5f5e63e70cd"],
+                          "enableDisableInfo":{
+                            "enable":false}},
+{
+                          "objectPath":["721ae2e3fe7c4fecbecf51f61d6b91ff"],
+                          "enableDisableInfo":{
+                            "enable":false}}]}]}]}}},
+{
+          "id":"b613abbe64f44d699aefbb1feebe19bc",
+          "label":"day_frequence",
+          "type":"textBox",
+          "styleType":"textBox",
+          "disabled":true,
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":390,
+              "y":227},
+            "size":{
+              "width":50,
+              "height":25}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"837e5b2d058b418e9b48e8a1613d4eab",
+          "label":"day_label",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":447,
+              "y":236},
+            "size":{
+              "width":14,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f28acea1860849d9bde4d6fef5462363",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":447,
+                  "y":236},
+                "size":{
+                  "width":14,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"f3dc966a844b4f7b9e6a90a02221e74f",
+          "label":"hour_frequency",
+          "type":"textBox",
+          "styleType":"textBox",
+          "disabled":true,
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":474,
+              "y":227},
+            "size":{
+              "width":50,
+              "height":25}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"5ba5c7a1c0f14c5d90444bcb80acb91b",
+          "label":"hour_label",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":531,
+              "y":236},
+            "size":{
+              "width":28,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e85ab0380cd64135aabcfd13224fa53a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":531,
+                  "y":236},
+                "size":{
+                  "width":28,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"f314ca461fb44e8496ff00d15fcd93d8",
+          "label":"minute_frequency",
+          "type":"textBox",
+          "styleType":"textBox",
+          "disabled":true,
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":566,
+              "y":227},
+            "size":{
+              "width":50,
+              "height":25}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"6026b02457f640dbab27fd255277953a",
+          "label":"minute_label",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":624,
+              "y":236},
+            "size":{
+              "width":28,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e8179328006545ee871efefd3a1831ca",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":624,
+                  "y":236},
+                "size":{
+                  "width":28,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"e512d26dc08d46208e688975a7596b09",
+          "label":"second_frequency",
+          "type":"textBox",
+          "styleType":"textBox",
+          "disabled":true,
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":660,
+              "y":227},
+            "size":{
+              "width":50,
+              "height":25}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"6ec18c9c09d94ad8abfca5f5e63e70cd",
+          "label":"second_label",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":719,
+              "y":236},
+            "size":{
+              "width":14,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c47994f3d4be4d3691a17e4faa4938a0",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":719,
+                  "y":236},
+                "size":{
+                  "width":14,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"721ae2e3fe7c4fecbecf51f61d6b91ff",
+          "label":"frequency_label",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"15px",
+            "location":{
+              "x":333,
+              "y":236},
+            "size":{
+              "width":47,
+              "height":18}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d36ff4232c474792bf5e1eebd704232e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"15px",
+                "location":{
+                  "x":333,
+                  "y":236},
+                "size":{
+                  "width":47,
+                  "height":18}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"d36233dada3d4875a1fb4a77432c6a32",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"15px",
+            "location":{
+              "x":392,
+              "y":269},
+            "size":{
+              "width":93,
+              "height":18}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d73d3a8036874afaab7f6f544169db49",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"15px",
+                "location":{
+                  "x":392,
+                  "y":269},
+                "size":{
+                  "width":93,
+                  "height":18}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"76c10490e3d949e085a21ea5a253aff4",
+          "label":"switch_automatic_fetch",
+          "type":"checkbox",
+          "styleType":"checkbox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":360,
+              "y":270},
+            "size":{
+              "width":25,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6f31154066514815862e243d6cf5dcbc",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":360,
+                  "y":270},
+                "size":{
+                  "width":25,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onCheckedChange":{
+              "description":"OnCheckedChange",
+              "cases":[{
+                  "description":"Case 1<br> (If 被选中的 switch_automatic_fetch 等于 真)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":"==",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetCheckState",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["76c10490e3d949e085a21ea5a253aff4"]}]},
+                    "rightExpr":{
+                      "exprType":"booleanLiteral",
+                      "value":true}},
+                  "actions":[{
+                      "action":"enableDisableWidgets",
+                      "description":"禁用 frequency_label1,<br>frequency_selection,<br>day_frequence,<br>day_label,<br>hour_frequency,<br>hour_label,<br>minute_frequency,<br>minute_label,<br>second_frequency,<br>second_label,<br>frequency_label",
+                      "pathToInfo":[{
+                          "objectPath":["c4adb4a13e0946aaabe7ae70375fa380"],
+                          "enableDisableInfo":{
+                            "enable":false}},
+{
+                          "objectPath":["a7a6fe8340f44577889b373e06f7c5b6"],
+                          "enableDisableInfo":{
+                            "enable":false}},
+{
+                          "objectPath":["b613abbe64f44d699aefbb1feebe19bc"],
+                          "enableDisableInfo":{
+                            "enable":false}},
+{
+                          "objectPath":["837e5b2d058b418e9b48e8a1613d4eab"],
+                          "enableDisableInfo":{
+                            "enable":false}},
+{
+                          "objectPath":["f3dc966a844b4f7b9e6a90a02221e74f"],
+                          "enableDisableInfo":{
+                            "enable":false}},
+{
+                          "objectPath":["5ba5c7a1c0f14c5d90444bcb80acb91b"],
+                          "enableDisableInfo":{
+                            "enable":false}},
+{
+                          "objectPath":["f314ca461fb44e8496ff00d15fcd93d8"],
+                          "enableDisableInfo":{
+                            "enable":false}},
+{
+                          "objectPath":["6026b02457f640dbab27fd255277953a"],
+                          "enableDisableInfo":{
+                            "enable":false}},
+{
+                          "objectPath":["e512d26dc08d46208e688975a7596b09"],
+                          "enableDisableInfo":{
+                            "enable":false}},
+{
+                          "objectPath":["6ec18c9c09d94ad8abfca5f5e63e70cd"],
+                          "enableDisableInfo":{
+                            "enable":false}},
+{
+                          "objectPath":["721ae2e3fe7c4fecbecf51f61d6b91ff"],
+                          "enableDisableInfo":{
+                            "enable":false}}]}]},
+{
+                  "description":"Case 3<br> (Else If 被选中的 switch_automatic_fetch 等于 假 和 选中项于 frequency_selection 等于 &quot;自定义&quot;)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":"&&",
+                    "leftExpr":{
+                      "exprType":"binaryOp",
+                      "op":"==",
+                      "leftExpr":{
+                        "exprType":"fcall",
+                        "functionName":"GetCheckState",
+                        "arguments":[{
+                            "exprType":"pathLiteral",
+                            "isThis":false,
+                            "isFocused":false,
+                            "isTarget":false,
+                            "value":["76c10490e3d949e085a21ea5a253aff4"]}]},
+                      "rightExpr":{
+                        "exprType":"booleanLiteral",
+                        "value":false}},
+                    "rightExpr":{
+                      "exprType":"binaryOp",
+                      "op":"==",
+                      "leftExpr":{
+                        "exprType":"fcall",
+                        "functionName":"GetSelectedOption",
+                        "arguments":[{
+                            "exprType":"pathLiteral",
+                            "isThis":false,
+                            "isFocused":false,
+                            "isTarget":false,
+                            "value":["a7a6fe8340f44577889b373e06f7c5b6"]}]},
+                      "rightExpr":{
+                        "exprType":"stringLiteral",
+                        "value":"自定义",
+                        "stos":[]}}},
+                  "actions":[{
+                      "action":"enableDisableWidgets",
+                      "description":"启用 day_frequence,<br>day_label,<br>hour_frequency,<br>hour_label,<br>minute_frequency,<br>minute_label,<br>second_frequency,<br>second_label",
+                      "pathToInfo":[{
+                          "objectPath":["b613abbe64f44d699aefbb1feebe19bc"],
+                          "enableDisableInfo":{
+                            "enable":true}},
+{
+                          "objectPath":["837e5b2d058b418e9b48e8a1613d4eab"],
+                          "enableDisableInfo":{
+                            "enable":true}},
+{
+                          "objectPath":["f3dc966a844b4f7b9e6a90a02221e74f"],
+                          "enableDisableInfo":{
+                            "enable":true}},
+{
+                          "objectPath":["5ba5c7a1c0f14c5d90444bcb80acb91b"],
+                          "enableDisableInfo":{
+                            "enable":true}},
+{
+                          "objectPath":["f314ca461fb44e8496ff00d15fcd93d8"],
+                          "enableDisableInfo":{
+                            "enable":true}},
+{
+                          "objectPath":["6026b02457f640dbab27fd255277953a"],
+                          "enableDisableInfo":{
+                            "enable":true}},
+{
+                          "objectPath":["e512d26dc08d46208e688975a7596b09"],
+                          "enableDisableInfo":{
+                            "enable":true}},
+{
+                          "objectPath":["6ec18c9c09d94ad8abfca5f5e63e70cd"],
+                          "enableDisableInfo":{
+                            "enable":true}}]},
+{
+                      "action":"enableDisableWidgets",
+                      "description":"启用 frequency_label1,<br>frequency_label,<br>frequency_selection",
+                      "pathToInfo":[{
+                          "objectPath":["24bebf60ee6342dfb56832678a70b1c3"],
+                          "enableDisableInfo":{
+                            "enable":true}},
+{
+                          "objectPath":["721ae2e3fe7c4fecbecf51f61d6b91ff"],
+                          "enableDisableInfo":{
+                            "enable":true}},
+{
+                          "objectPath":["a7a6fe8340f44577889b373e06f7c5b6"],
+                          "enableDisableInfo":{
+                            "enable":true}}]}]},
+{
+                  "description":"Case 2<br> (Else If 被选中的 switch_automatic_fetch 等于 假)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":"==",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetCheckState",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["76c10490e3d949e085a21ea5a253aff4"]}]},
+                    "rightExpr":{
+                      "exprType":"booleanLiteral",
+                      "value":false}},
+                  "actions":[{
+                      "action":"enableDisableWidgets",
+                      "description":"启用 frequency_label1,<br>frequency_selection,<br>frequency_label",
+                      "pathToInfo":[{
+                          "objectPath":["c4adb4a13e0946aaabe7ae70375fa380"],
+                          "enableDisableInfo":{
+                            "enable":true}},
+{
+                          "objectPath":["a7a6fe8340f44577889b373e06f7c5b6"],
+                          "enableDisableInfo":{
+                            "enable":true}},
+{
+                          "objectPath":["721ae2e3fe7c4fecbecf51f61d6b91ff"],
+                          "enableDisableInfo":{
+                            "enable":true}}]}]}]}}},
+{
+          "id":"1aa339c88f074348a8dd74a07559ee41",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"18px",
+            "location":{
+              "x":690,
+              "y":290},
+            "size":{
+              "width":9,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"8319dbc798304d4aa6f8dfae0c831799",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"18px",
+                "location":{
+                  "x":690,
+                  "y":290},
+                "size":{
+                  "width":9,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"24bebf60ee6342dfb56832678a70b1c3",
+          "label":"frequency_label1",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"15px",
+            "location":{
+              "x":306,
+              "y":340},
+            "size":{
+              "width":78,
+              "height":18}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"fae7917a4b23486db0e12fa486c8c969",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"15px",
+                "location":{
+                  "x":306,
+                  "y":340},
+                "size":{
+                  "width":78,
+                  "height":18}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"9bc99e95a3d74a47a8644ab7b7bfb020",
+          "label":"cartype_selection1",
+          "type":"comboBox",
+          "styleType":"comboBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":390,
+              "y":337},
+            "size":{
+              "width":200,
+              "height":22}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onSelectionChange":{
+              "description":"OnSelectionChange",
+              "cases":[{
+                  "description":"Case 1<br> (If 选中项于 cartype_selection1 等于 &quot;全部&quot;)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":"==",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetSelectedOption",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["9bc99e95a3d74a47a8644ab7b7bfb020"]}]},
+                    "rightExpr":{
+                      "exprType":"stringLiteral",
+                      "value":"全部",
+                      "stos":[]}},
+                  "actions":[{
+                      "action":"enableDisableWidgets",
+                      "description":"禁用 MQ_label,<br>MQ_radio1,<br>MQ_selection,<br>MQ_radio2,<br>MQ_text_input,<br>MQ_text_tip",
+                      "pathToInfo":[{
+                          "objectPath":["ef3ee4a8610940efa8d31fd754c0b937"],
+                          "enableDisableInfo":{
+                            "enable":false}},
+{
+                          "objectPath":["58c4e60b154b4275aeab6a1955db9c77"],
+                          "enableDisableInfo":{
+                            "enable":false}},
+{
+                          "objectPath":["585b6ea1fc324b12b897b166e0b0dfff"],
+                          "enableDisableInfo":{
+                            "enable":false}},
+{
+                          "objectPath":["1e046bb261de483485862c4690d5bd30"],
+                          "enableDisableInfo":{
+                            "enable":false}},
+{
+                          "objectPath":["9c08e1a3da244c26a11460584113dc14"],
+                          "enableDisableInfo":{
+                            "enable":false}},
+{
+                          "objectPath":["d3ad2ab44a354058b17a469e95ddfedf"],
+                          "enableDisableInfo":{
+                            "enable":false}}]}]},
+{
+                  "description":"Case 2<br> (Else If 选中项于 cartype_selection1 等于 &quot;轮胎零件号&quot;)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":"==",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetSelectedOption",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["9bc99e95a3d74a47a8644ab7b7bfb020"]}]},
+                    "rightExpr":{
+                      "exprType":"stringLiteral",
+                      "value":"轮胎零件号",
+                      "stos":[]}},
+                  "actions":[{
+                      "action":"enableDisableWidgets",
+                      "description":"启用 MQ_label,<br>MQ_radio1,<br>MQ_selection,<br>MQ_radio2,<br>MQ_text_input,<br>MQ_text_tip",
+                      "pathToInfo":[{
+                          "objectPath":["ef3ee4a8610940efa8d31fd754c0b937"],
+                          "enableDisableInfo":{
+                            "enable":true}},
+{
+                          "objectPath":["58c4e60b154b4275aeab6a1955db9c77"],
+                          "enableDisableInfo":{
+                            "enable":true}},
+{
+                          "objectPath":["585b6ea1fc324b12b897b166e0b0dfff"],
+                          "enableDisableInfo":{
+                            "enable":true}},
+{
+                          "objectPath":["1e046bb261de483485862c4690d5bd30"],
+                          "enableDisableInfo":{
+                            "enable":true}},
+{
+                          "objectPath":["9c08e1a3da244c26a11460584113dc14"],
+                          "enableDisableInfo":{
+                            "enable":true}},
+{
+                          "objectPath":["d3ad2ab44a354058b17a469e95ddfedf"],
+                          "enableDisableInfo":{
+                            "enable":true}}]}]}]}}},
+{
+          "id":"e7d9e75966374b01ba0412eeecb2f62a",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":246,
+              "y":157},
+            "size":{
+              "width":1030,
+              "height":10},
+            "borderWidth":"2",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/index/u42_line.png"}},
+{
+          "id":"51218d462d8946f29bb9b289ae5bd75d",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":245,
+              "y":304},
+            "size":{
+              "width":1030,
+              "height":10},
+            "borderWidth":"2",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/index/u42_line.png"}},
+{
+          "id":"ef3ee4a8610940efa8d31fd754c0b937",
+          "label":"MQ_label",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"15px",
+            "location":{
+              "x":320,
+              "y":382},
+            "size":{
+              "width":62,
+              "height":18}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"87dc5f37f28e4d0ab679cb30011fb529",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"15px",
+                "location":{
+                  "x":320,
+                  "y":382},
+                "size":{
+                  "width":62,
+                  "height":18}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"58c4e60b154b4275aeab6a1955db9c77",
+          "label":"MQ_radio1",
+          "type":"radioButton",
+          "styleType":"radioButton",
+          "disabled":true,
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":388,
+              "y":383},
+            "size":{
+              "width":22,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f73987a7124349b892485efddf3ad81c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "disabled":true,
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":388,
+                  "y":383},
+                "size":{
+                  "width":22,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onFocus":{
+              "description":"OnFocus",
+              "cases":[{
+                  "description":"Case 1<br> (If 被选中的 MQ_radio1 等于 真)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":"==",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetCheckState",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["58c4e60b154b4275aeab6a1955db9c77"]}]},
+                    "rightExpr":{
+                      "exprType":"booleanLiteral",
+                      "value":true}},
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"设置 被选中的 MQ_radio2 = &quot;false&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["1e046bb261de483485862c4690d5bd30"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"false",
+                                "stos":[]}]}]}}]},
+{
+                  "description":"Case 2<br> (Else If 被选中的 MQ_radio1 等于 假)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":"==",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetCheckState",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["58c4e60b154b4275aeab6a1955db9c77"]}]},
+                    "rightExpr":{
+                      "exprType":"booleanLiteral",
+                      "value":false}},
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"设置 被选中的 MQ_radio2 = &quot;true&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["1e046bb261de483485862c4690d5bd30"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"true",
+                                "stos":[]}]}]}}]}]}}},
+{
+          "id":"585b6ea1fc324b12b897b166e0b0dfff",
+          "label":"MQ_selection",
+          "type":"comboBox",
+          "styleType":"comboBox",
+          "disabled":true,
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":422,
+              "y":377},
+            "size":{
+              "width":200,
+              "height":22}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"1e046bb261de483485862c4690d5bd30",
+          "label":"MQ_radio2",
+          "type":"radioButton",
+          "styleType":"radioButton",
+          "disabled":true,
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":650,
+              "y":383},
+            "size":{
+              "width":25,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"734c22c93a9c4f3b81bf3fc35eea333f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "disabled":true,
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":650,
+                  "y":383},
+                "size":{
+                  "width":25,
+                  "height":16}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onFocus":{
+              "description":"OnFocus",
+              "cases":[{
+                  "description":"Case 1<br> (If 被选中的 MQ_radio2 等于 真)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":"==",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetCheckState",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["1e046bb261de483485862c4690d5bd30"]}]},
+                    "rightExpr":{
+                      "exprType":"booleanLiteral",
+                      "value":true}},
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"设置 被选中的 MQ_radio1 = &quot;false&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["58c4e60b154b4275aeab6a1955db9c77"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"false",
+                                "stos":[]}]}]}}]},
+{
+                  "description":"Case 2<br> (Else If 被选中的 MQ_radio2 等于 假)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":"==",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetCheckState",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["1e046bb261de483485862c4690d5bd30"]}]},
+                    "rightExpr":{
+                      "exprType":"booleanLiteral",
+                      "value":false}},
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"设置 被选中的 MQ_radio1 = &quot;true&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["58c4e60b154b4275aeab6a1955db9c77"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"true",
+                                "stos":[]}]}]}}]}]}}},
+{
+          "id":"9c08e1a3da244c26a11460584113dc14",
+          "label":"MQ_text_input",
+          "type":"textBox",
+          "styleType":"textBox",
+          "disabled":true,
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":685,
+              "y":374},
+            "size":{
+              "width":565,
+              "height":25}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"d3ad2ab44a354058b17a469e95ddfedf",
+          "label":"MQ_text_tip",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF999999,
+              "opacity":1},
+            "location":{
+              "x":686,
+              "y":411},
+            "size":{
+              "width":572,
+              "height":32}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"0c918fd2920e466ba5013563bf6fc39b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF999999,
+                  "opacity":1},
+                "location":{
+                  "x":686,
+                  "y":411},
+                "size":{
+                  "width":572,
+                  "height":32}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"6f01711028384084a7ac9f80560a6c2b",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":245,
+              "y":449},
+            "size":{
+              "width":1030,
+              "height":10},
+            "borderWidth":"2",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/index/u42_line.png"}},
+{
+          "id":"2686fefb1def4d21bde47cf14abd3e0c",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"15px",
+            "location":{
+              "x":261,
+              "y":485},
+            "size":{
+              "width":124,
+              "height":18}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"627de65ae0bc406aae41dff7f14d58d6",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"15px",
+                "location":{
+                  "x":261,
+                  "y":485},
+                "size":{
+                  "width":124,
+                  "height":18}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"1989511134444dfa988b9eb95f91fd1d",
+          "label":"column_shown_selection",
+          "type":"comboBox",
+          "styleType":"comboBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":390,
+              "y":480},
+            "size":{
+              "width":200,
+              "height":22}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onSelectionChange":{
+              "description":"OnSelectionChange",
+              "cases":[{
+                  "description":"Case 1<br> (If 选中项于 column_shown_selection 等于 &quot;自定义&quot;)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":"==",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetSelectedOption",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["1989511134444dfa988b9eb95f91fd1d"]}]},
+                    "rightExpr":{
+                      "exprType":"stringLiteral",
+                      "value":"自定义",
+                      "stos":[]}},
+                  "actions":[{
+                      "action":"enableDisableWidgets",
+                      "description":"启用 column5,<br>column6,<br>column7,<br>column8,<br>column9,<br>column10,<br>column11,<br>column13,<br>column12,<br>column14,<br>column15,<br>column19,<br>column17,<br>column19,<br>column18,<br>禁用 column1,<br>column2,<br>column3,<br>column4",
+                      "pathToInfo":[{
+                          "objectPath":["fa2806be7dae48d8843887c2829fc7e9"],
+                          "enableDisableInfo":{
+                            "enable":false}},
+{
+                          "objectPath":["715e6b1a9aa64774b5c79e6b26c670f7"],
+                          "enableDisableInfo":{
+                            "enable":false}},
+{
+                          "objectPath":["1206cfb5b39b4a6cbb8c52402070e802"],
+                          "enableDisableInfo":{
+                            "enable":false}},
+{
+                          "objectPath":["8fa6d5cc990d473893532dcd78cf10cd"],
+                          "enableDisableInfo":{
+                            "enable":false}},
+{
+                          "objectPath":["a503d4c67de3442f8626be62b54a42b6"],
+                          "enableDisableInfo":{
+                            "enable":true}},
+{
+                          "objectPath":["99d1c1907620445688efecc29cb31755"],
+                          "enableDisableInfo":{
+                            "enable":true}},
+{
+                          "objectPath":["f022dd74a3d1487bbcca2c1b9fee4182"],
+                          "enableDisableInfo":{
+                            "enable":true}},
+{
+                          "objectPath":["011b0bb62acf49b6bba30e41dee848fd"],
+                          "enableDisableInfo":{
+                            "enable":true}},
+{
+                          "objectPath":["c751d9e21291425fb6cf0b609ab08ebc"],
+                          "enableDisableInfo":{
+                            "enable":true}},
+{
+                          "objectPath":["623af0b244ec486bbe3ceaf0d81b2173"],
+                          "enableDisableInfo":{
+                            "enable":true}},
+{
+                          "objectPath":["ba270d00cd684746bc8e0aef4b393d15"],
+                          "enableDisableInfo":{
+                            "enable":true}},
+{
+                          "objectPath":["b44271ab4bba4640aa242c229c3c9013"],
+                          "enableDisableInfo":{
+                            "enable":true}},
+{
+                          "objectPath":["59d5e28f40a641c2b98fdb2df9b077c1"],
+                          "enableDisableInfo":{
+                            "enable":true}},
+{
+                          "objectPath":["8818e08916a84c559b59f64a7ab21278"],
+                          "enableDisableInfo":{
+                            "enable":true}},
+{
+                          "objectPath":["f931a98b021e4a2cb5fdeec4088b56b4"],
+                          "enableDisableInfo":{
+                            "enable":true}},
+{
+                          "objectPath":["f975ee557d624c4091d16e9f2c3da079"],
+                          "enableDisableInfo":{
+                            "enable":true}},
+{
+                          "objectPath":["89a36eed6ab04c2b82b136fe79497452"],
+                          "enableDisableInfo":{
+                            "enable":true}},
+{
+                          "objectPath":["61c23f4c3b904f64aa5536757a68f5ad"],
+                          "enableDisableInfo":{
+                            "enable":true}},
+{
+                          "objectPath":["5e551dfe26dd4f68ad9d207f93c891f9"],
+                          "enableDisableInfo":{
+                            "enable":true}}]},
+{
+                      "action":"setFunction",
+                      "description":"设置 被选中的 column1 = &quot;true&quot;, 与<br> 被选中的 column2 = &quot;true&quot;, 与<br> 被选中的 column3 = &quot;true&quot;, 与<br> 被选中的 column4 = &quot;true&quot;, 与<br> 被选中的 column5 = &quot;true&quot;, 与<br> 被选中的 column6 = &quot;true&quot;, 与<br> 被选中的 column7 = &quot;true&quot;, 与<br> 被选中的 column8 = &quot;true&quot;, 与<br> 被选中的 column9 = &quot;true&quot;, 与<br> 被选中的 column10 = &quot;true&quot;, 与<br> 被选中的 column11 = &quot;true&quot;, 与<br> 被选中的 column12 = &quot;true&quot;, 与<br> 被选中的 column13 = &quot;false&quot;, 与<br> 被选中的 column14 = &quot;false&quot;, 与<br> 被选中的 column15 = &quot;false&quot;, 与<br> 被选中的 column17 = &quot;false&quot;, 与<br> 被选中的 column19 = &quot;false&quot;, 与<br> 被选中的 column18 = &quot;false&quot;, 与<br> 被选中的 column19 = &quot;false&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["fa2806be7dae48d8843887c2829fc7e9"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"true",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["715e6b1a9aa64774b5c79e6b26c670f7"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"true",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["1206cfb5b39b4a6cbb8c52402070e802"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"true",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["8fa6d5cc990d473893532dcd78cf10cd"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"true",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["a503d4c67de3442f8626be62b54a42b6"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"true",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["99d1c1907620445688efecc29cb31755"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"true",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["f022dd74a3d1487bbcca2c1b9fee4182"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"true",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["011b0bb62acf49b6bba30e41dee848fd"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"true",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["c751d9e21291425fb6cf0b609ab08ebc"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"true",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["623af0b244ec486bbe3ceaf0d81b2173"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"true",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["ba270d00cd684746bc8e0aef4b393d15"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"true",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["59d5e28f40a641c2b98fdb2df9b077c1"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"true",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["b44271ab4bba4640aa242c229c3c9013"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"false",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["8818e08916a84c559b59f64a7ab21278"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"false",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["f931a98b021e4a2cb5fdeec4088b56b4"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"false",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["89a36eed6ab04c2b82b136fe79497452"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"false",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["61c23f4c3b904f64aa5536757a68f5ad"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"false",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["5e551dfe26dd4f68ad9d207f93c891f9"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"false",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["f975ee557d624c4091d16e9f2c3da079"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"false",
+                                "stos":[]}]}]}}]},
+{
+                  "description":"Case 2<br> (Else If 选中项于 column_shown_selection ≠ &quot;自定义&quot;)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":"!=",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetSelectedOption",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["1989511134444dfa988b9eb95f91fd1d"]}]},
+                    "rightExpr":{
+                      "exprType":"stringLiteral",
+                      "value":"自定义",
+                      "stos":[]}},
+                  "actions":[{
+                      "action":"enableDisableWidgets",
+                      "description":"禁用 column1,<br>column2,<br>column3,<br>column4,<br>column5,<br>column6,<br>column7,<br>column8,<br>column9,<br>column10,<br>column11,<br>column12,<br>column13,<br>column14,<br>column15,<br>column19,<br>column17,<br>column19,<br>column18",
+                      "pathToInfo":[{
+                          "objectPath":["fa2806be7dae48d8843887c2829fc7e9"],
+                          "enableDisableInfo":{
+                            "enable":false}},
+{
+                          "objectPath":["715e6b1a9aa64774b5c79e6b26c670f7"],
+                          "enableDisableInfo":{
+                            "enable":false}},
+{
+                          "objectPath":["1206cfb5b39b4a6cbb8c52402070e802"],
+                          "enableDisableInfo":{
+                            "enable":false}},
+{
+                          "objectPath":["8fa6d5cc990d473893532dcd78cf10cd"],
+                          "enableDisableInfo":{
+                            "enable":false}},
+{
+                          "objectPath":["a503d4c67de3442f8626be62b54a42b6"],
+                          "enableDisableInfo":{
+                            "enable":false}},
+{
+                          "objectPath":["99d1c1907620445688efecc29cb31755"],
+                          "enableDisableInfo":{
+                            "enable":false}},
+{
+                          "objectPath":["f022dd74a3d1487bbcca2c1b9fee4182"],
+                          "enableDisableInfo":{
+                            "enable":false}},
+{
+                          "objectPath":["011b0bb62acf49b6bba30e41dee848fd"],
+                          "enableDisableInfo":{
+                            "enable":false}},
+{
+                          "objectPath":["c751d9e21291425fb6cf0b609ab08ebc"],
+                          "enableDisableInfo":{
+                            "enable":false}},
+{
+                          "objectPath":["623af0b244ec486bbe3ceaf0d81b2173"],
+                          "enableDisableInfo":{
+                            "enable":false}},
+{
+                          "objectPath":["ba270d00cd684746bc8e0aef4b393d15"],
+                          "enableDisableInfo":{
+                            "enable":false}},
+{
+                          "objectPath":["59d5e28f40a641c2b98fdb2df9b077c1"],
+                          "enableDisableInfo":{
+                            "enable":false}},
+{
+                          "objectPath":["b44271ab4bba4640aa242c229c3c9013"],
+                          "enableDisableInfo":{
+                            "enable":false}},
+{
+                          "objectPath":["8818e08916a84c559b59f64a7ab21278"],
+                          "enableDisableInfo":{
+                            "enable":false}},
+{
+                          "objectPath":["f931a98b021e4a2cb5fdeec4088b56b4"],
+                          "enableDisableInfo":{
+                            "enable":false}},
+{
+                          "objectPath":["f975ee557d624c4091d16e9f2c3da079"],
+                          "enableDisableInfo":{
+                            "enable":false}},
+{
+                          "objectPath":["89a36eed6ab04c2b82b136fe79497452"],
+                          "enableDisableInfo":{
+                            "enable":false}},
+{
+                          "objectPath":["61c23f4c3b904f64aa5536757a68f5ad"],
+                          "enableDisableInfo":{
+                            "enable":false}},
+{
+                          "objectPath":["5e551dfe26dd4f68ad9d207f93c891f9"],
+                          "enableDisableInfo":{
+                            "enable":false}}]},
+{
+                      "action":"setFunction",
+                      "description":"设置 被选中的 column1 = &quot;true&quot;, 与<br> 被选中的 column2 = &quot;true&quot;, 与<br> 被选中的 column3 = &quot;true&quot;, 与<br> 被选中的 column4 = &quot;true&quot;, 与<br> 被选中的 column5 = &quot;true&quot;, 与<br> 被选中的 column6 = &quot;true&quot;, 与<br> 被选中的 column7 = &quot;true&quot;, 与<br> 被选中的 column8 = &quot;true&quot;, 与<br> 被选中的 column9 = &quot;true&quot;, 与<br> 被选中的 column10 = &quot;true&quot;, 与<br> 被选中的 column11 = &quot;true&quot;, 与<br> 被选中的 column12 = &quot;true&quot;, 与<br> 被选中的 column13 = &quot;true&quot;, 与<br> 被选中的 column14 = &quot;true&quot;, 与<br> 被选中的 column15 = &quot;true&quot;, 与<br> 被选中的 column17 = &quot;true&quot;, 与<br> 被选中的 column19 = &quot;true&quot;, 与<br> 被选中的 column18 = &quot;true&quot;, 与<br> 被选中的 column19 = &quot;true&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["fa2806be7dae48d8843887c2829fc7e9"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"true",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["715e6b1a9aa64774b5c79e6b26c670f7"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"true",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["1206cfb5b39b4a6cbb8c52402070e802"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"true",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["8fa6d5cc990d473893532dcd78cf10cd"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"true",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["a503d4c67de3442f8626be62b54a42b6"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"true",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["99d1c1907620445688efecc29cb31755"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"true",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["f022dd74a3d1487bbcca2c1b9fee4182"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"true",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["011b0bb62acf49b6bba30e41dee848fd"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"true",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["c751d9e21291425fb6cf0b609ab08ebc"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"true",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["623af0b244ec486bbe3ceaf0d81b2173"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"true",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["ba270d00cd684746bc8e0aef4b393d15"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"true",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["59d5e28f40a641c2b98fdb2df9b077c1"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"true",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["b44271ab4bba4640aa242c229c3c9013"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"true",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["8818e08916a84c559b59f64a7ab21278"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"true",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["f931a98b021e4a2cb5fdeec4088b56b4"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"true",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["89a36eed6ab04c2b82b136fe79497452"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"true",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["61c23f4c3b904f64aa5536757a68f5ad"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"true",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["5e551dfe26dd4f68ad9d207f93c891f9"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"true",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetCheckState",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["f975ee557d624c4091d16e9f2c3da079"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"true",
+                                "stos":[]}]}]}}]}]}}},
+{
+          "id":"fa2806be7dae48d8843887c2829fc7e9",
+          "label":"column1",
+          "type":"checkbox",
+          "styleType":"checkbox",
+          "disabled":true,
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"15px",
+            "location":{
+              "x":261,
+              "y":530},
+            "size":{
+              "width":100,
+              "height":18}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ca84794b0a3b44ccb5a46cb66759e1a0",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "disabled":true,
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"15px",
+                "location":{
+                  "x":261,
+                  "y":530},
+                "size":{
+                  "width":100,
+                  "height":18}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"715e6b1a9aa64774b5c79e6b26c670f7",
+          "label":"column2",
+          "type":"checkbox",
+          "styleType":"checkbox",
+          "disabled":true,
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"15px",
+            "location":{
+              "x":401,
+              "y":530},
+            "size":{
+              "width":100,
+              "height":18}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9cae80a2e8b846f4a12b1a81f9aee65e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "disabled":true,
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"15px",
+                "location":{
+                  "x":401,
+                  "y":530},
+                "size":{
+                  "width":100,
+                  "height":18}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"1206cfb5b39b4a6cbb8c52402070e802",
+          "label":"column3",
+          "type":"checkbox",
+          "styleType":"checkbox",
+          "disabled":true,
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"15px",
+            "location":{
+              "x":541,
+              "y":530},
+            "size":{
+              "width":100,
+              "height":18}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"4f74385fd63b4e99960ecbc4170cb2e8",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "disabled":true,
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"15px",
+                "location":{
+                  "x":541,
+                  "y":530},
+                "size":{
+                  "width":100,
+                  "height":18}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"8fa6d5cc990d473893532dcd78cf10cd",
+          "label":"column4",
+          "type":"checkbox",
+          "styleType":"checkbox",
+          "disabled":true,
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"15px",
+            "location":{
+              "x":681,
+              "y":530},
+            "size":{
+              "width":100,
+              "height":18}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ddd783d7aff54c34b7704b1db3040eb7",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "disabled":true,
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"15px",
+                "location":{
+                  "x":681,
+                  "y":530},
+                "size":{
+                  "width":100,
+                  "height":18}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"a503d4c67de3442f8626be62b54a42b6",
+          "label":"column5",
+          "type":"checkbox",
+          "styleType":"checkbox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"15px",
+            "location":{
+              "x":821,
+              "y":530},
+            "size":{
+              "width":100,
+              "height":18}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f90b8666b5a34847af6294f4e2303902",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"15px",
+                "location":{
+                  "x":821,
+                  "y":530},
+                "size":{
+                  "width":100,
+                  "height":18}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"99d1c1907620445688efecc29cb31755",
+          "label":"column6",
+          "type":"checkbox",
+          "styleType":"checkbox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"15px",
+            "location":{
+              "x":961,
+              "y":531},
+            "size":{
+              "width":132,
+              "height":18}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"fdaa8937f01048179dd104723ef9cb22",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"15px",
+                "location":{
+                  "x":961,
+                  "y":531},
+                "size":{
+                  "width":132,
+                  "height":18}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"f022dd74a3d1487bbcca2c1b9fee4182",
+          "label":"column7",
+          "type":"checkbox",
+          "styleType":"checkbox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"15px",
+            "location":{
+              "x":1131,
+              "y":531},
+            "size":{
+              "width":100,
+              "height":18}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6bf38fb1b59347e0be6740aaaad8226e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"15px",
+                "location":{
+                  "x":1131,
+                  "y":531},
+                "size":{
+                  "width":100,
+                  "height":18}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"011b0bb62acf49b6bba30e41dee848fd",
+          "label":"column8",
+          "type":"checkbox",
+          "styleType":"checkbox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"15px",
+            "location":{
+              "x":261,
+              "y":566},
+            "size":{
+              "width":100,
+              "height":18}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a3579a2b99a340839793624b9cc0947d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"15px",
+                "location":{
+                  "x":261,
+                  "y":566},
+                "size":{
+                  "width":100,
+                  "height":18}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"c751d9e21291425fb6cf0b609ab08ebc",
+          "label":"column9",
+          "type":"checkbox",
+          "styleType":"checkbox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"15px",
+            "location":{
+              "x":401,
+              "y":566},
+            "size":{
+              "width":100,
+              "height":18}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"45467d9faa6f497480d7ba25348f7abf",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"15px",
+                "location":{
+                  "x":401,
+                  "y":566},
+                "size":{
+                  "width":100,
+                  "height":18}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"623af0b244ec486bbe3ceaf0d81b2173",
+          "label":"column10",
+          "type":"checkbox",
+          "styleType":"checkbox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"15px",
+            "location":{
+              "x":541,
+              "y":566},
+            "size":{
+              "width":100,
+              "height":18}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"62c4f8c8183c46299ea67dbd29055071",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"15px",
+                "location":{
+                  "x":541,
+                  "y":566},
+                "size":{
+                  "width":100,
+                  "height":18}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"ba270d00cd684746bc8e0aef4b393d15",
+          "label":"column11",
+          "type":"checkbox",
+          "styleType":"checkbox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"15px",
+            "location":{
+              "x":681,
+              "y":566},
+            "size":{
+              "width":100,
+              "height":18}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"fc7484cbd60d4b52a4363cb556cf3dad",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"15px",
+                "location":{
+                  "x":681,
+                  "y":566},
+                "size":{
+                  "width":100,
+                  "height":18}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"59d5e28f40a641c2b98fdb2df9b077c1",
+          "label":"column12",
+          "type":"checkbox",
+          "styleType":"checkbox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"15px",
+            "location":{
+              "x":821,
+              "y":566},
+            "size":{
+              "width":100,
+              "height":18}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"0c55ab9c3a30411486061a7c2f259511",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"15px",
+                "location":{
+                  "x":821,
+                  "y":566},
+                "size":{
+                  "width":100,
+                  "height":18}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"b44271ab4bba4640aa242c229c3c9013",
+          "label":"column13",
+          "type":"checkbox",
+          "styleType":"checkbox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"15px",
+            "location":{
+              "x":961,
+              "y":566},
+            "size":{
+              "width":100,
+              "height":18}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"482ebb9a26c64536853a0f20f85732fb",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"15px",
+                "location":{
+                  "x":961,
+                  "y":566},
+                "size":{
+                  "width":100,
+                  "height":18}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"8818e08916a84c559b59f64a7ab21278",
+          "label":"column14",
+          "type":"checkbox",
+          "styleType":"checkbox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"15px",
+            "location":{
+              "x":1131,
+              "y":566},
+            "size":{
+              "width":100,
+              "height":18}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"065d0244d7164fbf9f591180336f754b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"15px",
+                "location":{
+                  "x":1131,
+                  "y":566},
+                "size":{
+                  "width":100,
+                  "height":18}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"f931a98b021e4a2cb5fdeec4088b56b4",
+          "label":"column15",
+          "type":"checkbox",
+          "styleType":"checkbox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"15px",
+            "location":{
+              "x":261,
+              "y":602},
+            "size":{
+              "width":130,
+              "height":18}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"75395ae4a4bb4a13a3a623c9b71ac56b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"15px",
+                "location":{
+                  "x":261,
+                  "y":602},
+                "size":{
+                  "width":130,
+                  "height":18}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"89a36eed6ab04c2b82b136fe79497452",
+          "label":"column17",
+          "type":"checkbox",
+          "styleType":"checkbox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"15px",
+            "location":{
+              "x":681,
+              "y":602},
+            "size":{
+              "width":100,
+              "height":18}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"22d05d6ced2d4b208abefe4a3d9187e2",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"15px",
+                "location":{
+                  "x":681,
+                  "y":602},
+                "size":{
+                  "width":100,
+                  "height":18}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"61c23f4c3b904f64aa5536757a68f5ad",
+          "label":"column19",
+          "type":"checkbox",
+          "styleType":"checkbox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"15px",
+            "location":{
+              "x":401,
+              "y":602},
+            "size":{
+              "width":100,
+              "height":18}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"fc1549d59ce54b8d9cc272e98b2d8f6d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"15px",
+                "location":{
+                  "x":401,
+                  "y":602},
+                "size":{
+                  "width":100,
+                  "height":18}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"5e551dfe26dd4f68ad9d207f93c891f9",
+          "label":"column18",
+          "type":"checkbox",
+          "styleType":"checkbox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"15px",
+            "location":{
+              "x":821,
+              "y":602},
+            "size":{
+              "width":122,
+              "height":18}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"bb063e67074b4a4d89daed7e93be84e5",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"15px",
+                "location":{
+                  "x":821,
+                  "y":602},
+                "size":{
+                  "width":122,
+                  "height":18}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"7638bce98d174a0aa913cc31d663d31e",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":245,
+              "y":640},
+            "size":{
+              "width":1030,
+              "height":10},
+            "borderWidth":"2",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/index/u42_line.png"}},
+{
+          "id":"eae0edde5f824a1d8d78f9ee5e883835",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"15px",
+            "location":{
+              "x":246,
+              "y":672},
+            "size":{
+              "width":139,
+              "height":17}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e1a66343d3054c19a4bef50a9c8d7851",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"15px",
+                "location":{
+                  "x":246,
+                  "y":672},
+                "size":{
+                  "width":139,
+                  "height":17}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"f9b256d6ab624702b0c65dadede223ee",
+          "label":"",
+          "type":"comboBox",
+          "styleType":"comboBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":390,
+              "y":668},
+            "size":{
+              "width":200,
+              "height":22}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"a5b481b529264156abde703f294c18b0",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":245,
+              "y":712},
+            "size":{
+              "width":1030,
+              "height":10},
+            "borderWidth":"2",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/index/u42_line.png"}},
+{
+          "id":"cb972f39b4604844933400765f3dae56",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":696,
+              "y":760},
+            "size":{
+              "width":60,
+              "height":32}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"4e976fae25ed44cfbe099c3ed42229a2",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":696,
+                  "y":760},
+                "size":{
+                  "width":60,
+                  "height":32}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 fundamental_data",
+                      "target":{
+                        "targetType":"page",
+                        "url":"fundamental_data.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/index/u99.png"}},
+{
+          "id":"af86440175494def9532bd5c06c62e85",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":776,
+              "y":760},
+            "size":{
+              "width":60,
+              "height":32}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"8848da63c58a48ffb3138dd4b17158be",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":776,
+                  "y":760},
+                "size":{
+                  "width":60,
+                  "height":32}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 fundamental_data",
+                      "target":{
+                        "targetType":"page",
+                        "url":"fundamental_data.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/index/u101.png"}},
+{
+          "id":"f975ee557d624c4091d16e9f2c3da079",
+          "label":"column19",
+          "type":"checkbox",
+          "styleType":"checkbox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"15px",
+            "location":{
+              "x":541,
+              "y":602},
+            "size":{
+              "width":100,
+              "height":18}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"3f1769ccc34e4a6e96111f80b80c9963",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"15px",
+                "location":{
+                  "x":541,
+                  "y":602},
+                "size":{
+                  "width":100,
+                  "height":18}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"b7b9f50c0faf408bb5c4bb70f0e7a13b",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":24,
+              "y":207},
+            "size":{
+              "width":126,
+              "height":26}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 fundamental_data",
+                      "target":{
+                        "targetType":"page",
+                        "url":"fundamental_data.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "ab79f6619d0a462c923d0acb425a139b":{
+      "scriptId":"u0"},
+    "f37da00edb9045dfa78563394690cbaa":{
+      "scriptId":"u1"},
+    "9b7b8be2090c4857a7891a084cbacb6e":{
+      "scriptId":"u2"},
+    "ee0752381f88425badab8c1a556aa699":{
+      "scriptId":"u3"},
+    "67b5a94206c04757b5c81a30ed68a463":{
+      "scriptId":"u4"},
+    "5fd9f516dc694195bfd048ff5f1ce8f9":{
+      "scriptId":"u5"},
+    "ffd028a978cd4c3884d848d553b94b26":{
+      "scriptId":"u6"},
+    "fa43e68c1c704f579b7102c1651fd088":{
+      "scriptId":"u7"},
+    "c2edea02548c439fb63f736e909c433a":{
+      "scriptId":"u8"},
+    "7e3b1e257d864a3b893a7a6068647c20":{
+      "scriptId":"u9"},
+    "56f284a4341f4b13b3aaf5b08f77c07e":{
+      "scriptId":"u10"},
+    "c8e142748e0f429b8cc34e344aa06bf9":{
+      "scriptId":"u11"},
+    "6a1bb9f6e8774b5cb663456059642360":{
+      "scriptId":"u12"},
+    "73861d05cbc94535ba01d82ea381da03":{
+      "scriptId":"u13"},
+    "b2b73d5235ef4c0c93ad51ed082288d5":{
+      "scriptId":"u14"},
+    "8797d7b009234aa5a264b07dd770add3":{
+      "scriptId":"u15"},
+    "c4adb4a13e0946aaabe7ae70375fa380":{
+      "scriptId":"u16"},
+    "d62543a3d28d47979d1bb2aba864b615":{
+      "scriptId":"u17"},
+    "a7a6fe8340f44577889b373e06f7c5b6":{
+      "scriptId":"u18"},
+    "b613abbe64f44d699aefbb1feebe19bc":{
+      "scriptId":"u19"},
+    "837e5b2d058b418e9b48e8a1613d4eab":{
+      "scriptId":"u20"},
+    "f28acea1860849d9bde4d6fef5462363":{
+      "scriptId":"u21"},
+    "f3dc966a844b4f7b9e6a90a02221e74f":{
+      "scriptId":"u22"},
+    "5ba5c7a1c0f14c5d90444bcb80acb91b":{
+      "scriptId":"u23"},
+    "e85ab0380cd64135aabcfd13224fa53a":{
+      "scriptId":"u24"},
+    "f314ca461fb44e8496ff00d15fcd93d8":{
+      "scriptId":"u25"},
+    "6026b02457f640dbab27fd255277953a":{
+      "scriptId":"u26"},
+    "e8179328006545ee871efefd3a1831ca":{
+      "scriptId":"u27"},
+    "e512d26dc08d46208e688975a7596b09":{
+      "scriptId":"u28"},
+    "6ec18c9c09d94ad8abfca5f5e63e70cd":{
+      "scriptId":"u29"},
+    "c47994f3d4be4d3691a17e4faa4938a0":{
+      "scriptId":"u30"},
+    "721ae2e3fe7c4fecbecf51f61d6b91ff":{
+      "scriptId":"u31"},
+    "d36ff4232c474792bf5e1eebd704232e":{
+      "scriptId":"u32"},
+    "d36233dada3d4875a1fb4a77432c6a32":{
+      "scriptId":"u33"},
+    "d73d3a8036874afaab7f6f544169db49":{
+      "scriptId":"u34"},
+    "76c10490e3d949e085a21ea5a253aff4":{
+      "scriptId":"u35"},
+    "6f31154066514815862e243d6cf5dcbc":{
+      "scriptId":"u36"},
+    "1aa339c88f074348a8dd74a07559ee41":{
+      "scriptId":"u37"},
+    "8319dbc798304d4aa6f8dfae0c831799":{
+      "scriptId":"u38"},
+    "24bebf60ee6342dfb56832678a70b1c3":{
+      "scriptId":"u39"},
+    "fae7917a4b23486db0e12fa486c8c969":{
+      "scriptId":"u40"},
+    "9bc99e95a3d74a47a8644ab7b7bfb020":{
+      "scriptId":"u41"},
+    "e7d9e75966374b01ba0412eeecb2f62a":{
+      "scriptId":"u42"},
+    "51218d462d8946f29bb9b289ae5bd75d":{
+      "scriptId":"u43"},
+    "ef3ee4a8610940efa8d31fd754c0b937":{
+      "scriptId":"u44"},
+    "87dc5f37f28e4d0ab679cb30011fb529":{
+      "scriptId":"u45"},
+    "58c4e60b154b4275aeab6a1955db9c77":{
+      "scriptId":"u46"},
+    "f73987a7124349b892485efddf3ad81c":{
+      "scriptId":"u47"},
+    "585b6ea1fc324b12b897b166e0b0dfff":{
+      "scriptId":"u48"},
+    "1e046bb261de483485862c4690d5bd30":{
+      "scriptId":"u49"},
+    "734c22c93a9c4f3b81bf3fc35eea333f":{
+      "scriptId":"u50"},
+    "9c08e1a3da244c26a11460584113dc14":{
+      "scriptId":"u51"},
+    "d3ad2ab44a354058b17a469e95ddfedf":{
+      "scriptId":"u52"},
+    "0c918fd2920e466ba5013563bf6fc39b":{
+      "scriptId":"u53"},
+    "6f01711028384084a7ac9f80560a6c2b":{
+      "scriptId":"u54"},
+    "2686fefb1def4d21bde47cf14abd3e0c":{
+      "scriptId":"u55"},
+    "627de65ae0bc406aae41dff7f14d58d6":{
+      "scriptId":"u56"},
+    "1989511134444dfa988b9eb95f91fd1d":{
+      "scriptId":"u57"},
+    "fa2806be7dae48d8843887c2829fc7e9":{
+      "scriptId":"u58"},
+    "ca84794b0a3b44ccb5a46cb66759e1a0":{
+      "scriptId":"u59"},
+    "715e6b1a9aa64774b5c79e6b26c670f7":{
+      "scriptId":"u60"},
+    "9cae80a2e8b846f4a12b1a81f9aee65e":{
+      "scriptId":"u61"},
+    "1206cfb5b39b4a6cbb8c52402070e802":{
+      "scriptId":"u62"},
+    "4f74385fd63b4e99960ecbc4170cb2e8":{
+      "scriptId":"u63"},
+    "8fa6d5cc990d473893532dcd78cf10cd":{
+      "scriptId":"u64"},
+    "ddd783d7aff54c34b7704b1db3040eb7":{
+      "scriptId":"u65"},
+    "a503d4c67de3442f8626be62b54a42b6":{
+      "scriptId":"u66"},
+    "f90b8666b5a34847af6294f4e2303902":{
+      "scriptId":"u67"},
+    "99d1c1907620445688efecc29cb31755":{
+      "scriptId":"u68"},
+    "fdaa8937f01048179dd104723ef9cb22":{
+      "scriptId":"u69"},
+    "f022dd74a3d1487bbcca2c1b9fee4182":{
+      "scriptId":"u70"},
+    "6bf38fb1b59347e0be6740aaaad8226e":{
+      "scriptId":"u71"},
+    "011b0bb62acf49b6bba30e41dee848fd":{
+      "scriptId":"u72"},
+    "a3579a2b99a340839793624b9cc0947d":{
+      "scriptId":"u73"},
+    "c751d9e21291425fb6cf0b609ab08ebc":{
+      "scriptId":"u74"},
+    "45467d9faa6f497480d7ba25348f7abf":{
+      "scriptId":"u75"},
+    "623af0b244ec486bbe3ceaf0d81b2173":{
+      "scriptId":"u76"},
+    "62c4f8c8183c46299ea67dbd29055071":{
+      "scriptId":"u77"},
+    "ba270d00cd684746bc8e0aef4b393d15":{
+      "scriptId":"u78"},
+    "fc7484cbd60d4b52a4363cb556cf3dad":{
+      "scriptId":"u79"},
+    "59d5e28f40a641c2b98fdb2df9b077c1":{
+      "scriptId":"u80"},
+    "0c55ab9c3a30411486061a7c2f259511":{
+      "scriptId":"u81"},
+    "b44271ab4bba4640aa242c229c3c9013":{
+      "scriptId":"u82"},
+    "482ebb9a26c64536853a0f20f85732fb":{
+      "scriptId":"u83"},
+    "8818e08916a84c559b59f64a7ab21278":{
+      "scriptId":"u84"},
+    "065d0244d7164fbf9f591180336f754b":{
+      "scriptId":"u85"},
+    "f931a98b021e4a2cb5fdeec4088b56b4":{
+      "scriptId":"u86"},
+    "75395ae4a4bb4a13a3a623c9b71ac56b":{
+      "scriptId":"u87"},
+    "89a36eed6ab04c2b82b136fe79497452":{
+      "scriptId":"u88"},
+    "22d05d6ced2d4b208abefe4a3d9187e2":{
+      "scriptId":"u89"},
+    "61c23f4c3b904f64aa5536757a68f5ad":{
+      "scriptId":"u90"},
+    "fc1549d59ce54b8d9cc272e98b2d8f6d":{
+      "scriptId":"u91"},
+    "5e551dfe26dd4f68ad9d207f93c891f9":{
+      "scriptId":"u92"},
+    "bb063e67074b4a4d89daed7e93be84e5":{
+      "scriptId":"u93"},
+    "7638bce98d174a0aa913cc31d663d31e":{
+      "scriptId":"u94"},
+    "eae0edde5f824a1d8d78f9ee5e883835":{
+      "scriptId":"u95"},
+    "e1a66343d3054c19a4bef50a9c8d7851":{
+      "scriptId":"u96"},
+    "f9b256d6ab624702b0c65dadede223ee":{
+      "scriptId":"u97"},
+    "a5b481b529264156abde703f294c18b0":{
+      "scriptId":"u98"},
+    "cb972f39b4604844933400765f3dae56":{
+      "scriptId":"u99"},
+    "4e976fae25ed44cfbe099c3ed42229a2":{
+      "scriptId":"u100"},
+    "af86440175494def9532bd5c06c62e85":{
+      "scriptId":"u101"},
+    "8848da63c58a48ffb3138dd4b17158be":{
+      "scriptId":"u102"},
+    "f975ee557d624c4091d16e9f2c3da079":{
+      "scriptId":"u103"},
+    "3f1769ccc34e4a6e96111f80b80c9963":{
+      "scriptId":"u104"},
+    "b7b9f50c0faf408bb5c4bb70f0e7a13b":{
+      "scriptId":"u105"}}});

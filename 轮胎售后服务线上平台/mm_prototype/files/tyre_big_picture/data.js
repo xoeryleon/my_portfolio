@@ -1,0 +1,241 @@
+﻿$axure.loadCurrentPage({
+  "url":"tyre_big_picture.html",
+  "generationDate":new Date(1594096788731.31),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "defaultBackgroundImageInfo":{
+    "path":"images/tyre_big_picture/bg.jpg",
+    "width":414,
+    "height":736},
+  "viewIdToBackgroundImageInfo":{
+},
+  "page":{
+    "packageId":"55b7f9e1db58410fbf4df17a9d0940f6",
+    "type":"Axure:Page",
+    "name":"tyre_big_picture",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"24adbf75e2344d63a18541f95b9c81cf",
+          "label":"",
+          "type":"imageMapRegion",
+          "styleType":"imageMapRegion",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":10,
+              "y":30},
+            "size":{
+              "width":50,
+              "height":20}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 返回",
+                      "target":{
+                        "targetType":"backUrl",
+                        "includeVariables":false},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"1f2f17f47fe84c1c8d6c1a059dfee968",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Bold', 'Applied Font'",
+            "fontSize":"14px",
+            "fontWeight":"700",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC,
+              "opacity":1},
+            "location":{
+              "x":199,
+              "y":140},
+            "size":{
+              "width":21,
+              "height":17}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9d449380131344cbb7172539c0ebcf11",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Bold', 'Applied Font'",
+                "fontSize":"14px",
+                "fontWeight":"700",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC,
+                  "opacity":1},
+                "location":{
+                  "x":199,
+                  "y":140},
+                "size":{
+                  "width":21,
+                  "height":17}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onMouseOver":{
+              "description":"OnMouseOver",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"fadeWidget",
+                      "description":"显示 picture_order_tip",
+                      "objectsToFades":[{
+                          "objectPath":["b38a3ecba19e484aa95a86886d9d5df4"],
+                          "fadeInfo":{
+                            "fadeType":"show",
+                            "options":{
+                              "showType":"none"}}}]}]}]},
+            "onMouseOut":{
+              "description":"OnMouseOut",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"fadeWidget",
+                      "description":"隐藏 picture_order_tip",
+                      "objectsToFades":[{
+                          "objectPath":["b38a3ecba19e484aa95a86886d9d5df4"],
+                          "fadeInfo":{
+                            "fadeType":"hide",
+                            "options":{
+                              "showType":"none"}}}]}]}]}},
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"5922a9e9eff44b0ead3d81b93b39caef",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":0,
+              "y":183},
+            "size":{
+              "width":414,
+              "height":432}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"52c0f18eda9141b8b81c0046fb8e31ce",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":0,
+                  "y":183},
+                "size":{
+                  "width":414,
+                  "height":432}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/tyre_big_picture/u3.jpg"}},
+{
+          "id":"b38a3ecba19e484aa95a86886d9d5df4",
+          "label":"picture_order_tip",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":false,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"10px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC,
+              "opacity":1},
+            "location":{
+              "x":199,
+              "y":121},
+            "size":{
+              "width":61,
+              "height":16},
+            "visible":false},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"4db9ee7ee39a4a3ba8ec2807ec6ffdd3",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":false,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"10px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC,
+                  "opacity":1},
+                "location":{
+                  "x":199,
+                  "y":121},
+                "size":{
+                  "width":61,
+                  "height":16},
+                "visible":false},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "24adbf75e2344d63a18541f95b9c81cf":{
+      "scriptId":"u0"},
+    "1f2f17f47fe84c1c8d6c1a059dfee968":{
+      "scriptId":"u1"},
+    "9d449380131344cbb7172539c0ebcf11":{
+      "scriptId":"u2"},
+    "5922a9e9eff44b0ead3d81b93b39caef":{
+      "scriptId":"u3"},
+    "52c0f18eda9141b8b81c0046fb8e31ce":{
+      "scriptId":"u4"},
+    "b38a3ecba19e484aa95a86886d9d5df4":{
+      "scriptId":"u5"},
+    "4db9ee7ee39a4a3ba8ec2807ec6ffdd3":{
+      "scriptId":"u6"}}});

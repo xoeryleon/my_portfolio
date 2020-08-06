@@ -1,0 +1,32 @@
+1. 系统说明：
+
+面向戴姆勒中国客户，提供轮胎售后线上服务，系统分为微信平台和经销商管理网站，客户在微信平台下单订购轮胎，经销商在管理网站上备货，管理订单，监控物流，查看客户信息，从供应商处增加库存，给客户发送优惠卷等，系统覆盖戴姆勒在中国所有经销商。
+
+2. 业务流程：
+
+见"business_workflow.png"，包括以下4个流程：
+1）微信平台客户下单流程
+2）客户完成支付后进入服务流程
+3）客户发起退款进入退款流程
+4）经销商订购轮胎流程
+
+3. 产品设计原型：
+
+1）微信平台设计见Axure原型“mm_axure_prototype_20180115.rp”,生成的页面见目录“mm_prototype”(可以从index.html开始，体验订购轮胎的流程)
+2）经销商管理网站设计见Axure原型“dt_new_process_20180122.rp”，生成的页面见目录"dt_new_process_20180122"（可以从index.html开始，查看不同状态的订单，页面左边有导航链接）
+3）从戴姆勒其他网站抓取轮胎主数据的设计见Axure原型“fetch_data_20180301.rp”，生成的页面见目录"fetch_data_20180301"(index.html是设置页面，设置数据抓取频率，抓取哪些数据，数据冲突时的设置；fundamental_data.html是轮胎主数据显示页面)
+4）微信汽车零件及售后服务平台（从轮胎扩展而来）见Axure原型“O2O_process_20180226.rp”,生成的页面见目录“O2O_process_20180226”(从offerhome.html开始体验在微信平台订购零件、售后服务的流程)
+
+4. 产品设计截图：
+
+1) wx_start.png: 在微信平台开始订购轮胎，需要确定车型车系，轮胎规格及品牌
+2）wx_tire_list.png: 微信平台轮胎列表
+3) wx_tire_details.png: 微信平台某款轮胎详情
+4）wx_shopcart.png: 微信平台购物车
+5) wx_orders.png: 微信平台订单列表
+6) fundamental_data.png: 轮胎主数据展示页面，是经销商管理网站的一部分
+
+
+5. 项目上线前给试点经销商的培训文档：
+
+见“20171219_DaimlerTireO2ODealerTrainingPackageUpdated1219.pdf”
