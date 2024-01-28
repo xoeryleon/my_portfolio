@@ -1,0 +1,5 @@
+1. Directory of "PPT":  Include PPTs introduced in my personal website.
+
+2. Directory of "Excels": Include excels introduced in my personal website.
+
+3. Other directories: My product design and prototype design (Axure\Sketch), process chart, screen shot of product design, html that generated from product prototypes.
