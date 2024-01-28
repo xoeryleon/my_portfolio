@@ -1,0 +1,13 @@
+1. System description:
+Daimler's staff use this system to apply for hardware devices, software licenses, internal website access authorization etc. The system inclues mobile app and website, there are approve process when request resources.
+
+2. Product prototype for website (Axure): 
+The Axure source file is "portal_prototype.rp", for generated html pages, please check directory "portal_prototype"(The whole process that staff request for resources, start from employee_new_server_demand.html.)
+
+3. Product prototype for mobile app (Sketch):
+Please check Daimler.sketch
+
+4. Screenshots of product design:
+portal_app_item_details.png: in mobile app, staff check details of a request, or approver handle a request;
+portal_app_list.png: in mobile app, view all request list that initiated by that user;
+portal_pc_e3_view_style2.png: view all request that allocated to an approver that has sepcified level.

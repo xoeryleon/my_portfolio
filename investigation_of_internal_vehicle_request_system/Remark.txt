@@ -1,0 +1,14 @@
+1. System description
+
+The system designed for staff of Shenyang BBA, they can use it to apply for vehicle, the relative apporver can approve or reject it. If there is no suitable vehicle to allocate, the approve process can also be postponed.
+
+2. Product prototype (Axure)
+
+1) "employee.rp" is axure prototype source file for employee that request for vehicles,  for generated html pages, please check directory "bba_employee" (index.html is page for employee request vehicles, information of applicant, vehicle user, model and series of vehicles, planned usage time etc.)
+2) "key_user.rp" is axure prototpye source file for apporver to check order list and handle orders, for generated html pages, please check directory "bba_keyuser"(index.html is order list used by approver; allocate_vehicle.html is the page used to allocate vehicles for an order, in this page, the vehicles can be filtered by conditions.)
+
+3. Screenshots of product design: 
+
+1) user_vehicle_request.png:  user request for vehicles
+2) key_user_orders.png: approvers check orders that s/he should handle
+3) key_user_allocate_vehicle.png: allocate vehicles for an approved order

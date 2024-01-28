@@ -1,32 +1,31 @@
-1. 系统说明：
+1. System description:
 
-面向戴姆勒中国客户，提供轮胎售后线上服务，系统分为微信平台和经销商管理网站，客户在微信平台下单订购轮胎，经销商在管理网站上备货，管理订单，监控物流，查看客户信息，从供应商处增加库存，给客户发送优惠卷等，系统覆盖戴姆勒在中国所有经销商。
+Provide online aftersales services of tires to customers of Mercedes-Benz China, the system include WeChat platform and dealer management website. After customers order tires from WeChat platform, dealers can prepare goods, manage orders, monitor logistic, check customer information, increase stock from supplier and send coupons to customers etc., all dealers in Daimler China are covered by system.
 
-2. 业务流程：
+2. Business process:
 
-见"business_workflow.png"，包括以下4个流程：
-1）微信平台客户下单流程
-2）客户完成支付后进入服务流程
-3）客户发起退款进入退款流程
-4）经销商订购轮胎流程
+Please check "business_workflow.png", there are 4 sequences:
+1) Customer create order in WeChat platform
+2) Start service after customer finish payment
+3) Start refund sequence after customer initiates a refund
+4) Dealer order tires
 
-3. 产品设计原型：
+3. Prodcut prototype:
 
-1）微信平台设计见Axure原型“mm_axure_prototype_20180115.rp”,生成的页面见目录“mm_prototype”(可以从index.html开始，体验订购轮胎的流程)
-2）经销商管理网站设计见Axure原型“dt_new_process_20180122.rp”，生成的页面见目录"dt_new_process_20180122"（可以从index.html开始，查看不同状态的订单，页面左边有导航链接）
-3）从戴姆勒其他网站抓取轮胎主数据的设计见Axure原型“fetch_data_20180301.rp”，生成的页面见目录"fetch_data_20180301"(index.html是设置页面，设置数据抓取频率，抓取哪些数据，数据冲突时的设置；fundamental_data.html是轮胎主数据显示页面)
-4）微信汽车零件及售后服务平台（从轮胎扩展而来）见Axure原型“O2O_process_20180226.rp”,生成的页面见目录“O2O_process_20180226”(从offerhome.html开始体验在微信平台订购零件、售后服务的流程)
+1) "mm_axure_prototype_20180115.rp" is Axure source file for WeChat prototype (The sequence to order tires start from index.html)
+2) "dt_new_process_20180122.rp" is Axure source file for dealer management website, for generated html pages, please check directory "dt_new_process_20180122" (The orders which have different status can be checked, there is navigation links in left side of page)
+3) "dt_new_process_20180122" is Axure source file to fetch master data of tires from other website, for generated html palges, please check directory "fetch_data_20180301"(index.html is setting page, set frequency of fetching data, fetch what kind of data, the policy when there is conflict between 2 websites; fundamental_data.html is used to display master data of tires.)
+4) "O2O_process_20180226.rp" is Axure source file for WeChat platform of vehicle parts and aftersales service, for generated html pages, please check "O2O_process_20180226: (The sequence of order vehicle parts or aftersales service start from offerhome.html)
 
-4. 产品设计截图：
+4. Screenshots of product design:
 
-1) wx_start.png: 在微信平台开始订购轮胎，需要确定车型车系，轮胎规格及品牌
-2）wx_tire_list.png: 微信平台轮胎列表
-3) wx_tire_details.png: 微信平台某款轮胎详情
-4）wx_shopcart.png: 微信平台购物车
-5) wx_orders.png: 微信平台订单列表
-6) fundamental_data.png: 轮胎主数据展示页面，是经销商管理网站的一部分
+1) wx_start.png: order tires in WeChat platform, series and model, tire size and brand should be input
+2) wx_tire_list.png: tire lists in WeChat platform
+3) wx_tire_details.png: tire details in WeChat platform
+4) wx_shopcart.png: shopping cart in WeChat platform
+5) wx_orders.png: order list in WeChat platform
+6) fundamental_data.png: display master data of tires, it is one part of dealer management website
 
+5. Training document for dealers before system launch:
 
-5. 项目上线前给试点经销商的培训文档：
-
-见“20171219_DaimlerTireO2ODealerTrainingPackageUpdated1219.pdf”
+Please check "20171219_DaimlerTireO2ODealerTrainingPackageUpdated1219.pdf"

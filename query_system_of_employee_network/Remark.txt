@@ -1,0 +1,21 @@
+1. System description:
+
+The system designed for enterprises to manage employee's network relationships based on their work experience from resumes: For example, the relationship between employees includes colleagues, superiors and subordinates, cooperation, etc., the relationship between employees and companies includes employment, cooperation, etc., and the relationship between the companys includes group subsidiary, supplier customer, etc. Searching for relevant relationships between individuals, between indivicual and enterprise, and between enterprises can help enterprises expand their business.
+
+2. Functionalities of system:
+
+- Create system roles
+- Authorization management for system roles
+- User management
+- Management for employee resumes: upload/input/edit resumes
+- Management of enterprise information: upload/input/edit
+- Manage relationship of human & human/human & enterprise/enterprise & enterprise: upload/input
+- Setup: industry of enterprises (2 levels), relationship types of human & human/human & enterprise/enterprise & enterprise
+
+3. Product prototype (Axure):
+"HR_system_20181227.rp" is the Axure source file, for generated html pages, please check directory "HR_system_20181227" (All pages can be enterred by navigation bar in top part. E.g. input_resume_step1.html.html is the start page for input resumes of employee)
+
+4. Screenshots of product design:
+industry_setting.png: page used to set industry of an enterprise
+search.png: result page that when search relationship between human and enterprise
+input_resume_step1.png - input_resume_step4.png: steps when input resumes of employee
