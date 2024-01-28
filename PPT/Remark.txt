@@ -1,0 +1,5 @@
+1. EVMS_Proposal_NTTDATA_20190326_V7.pptx:  Bidding for auction system of used car
+
+2. Fleet_management_system_introduction_20200224.pptx:  Investigation of internal vehicle request system
+
+3. Digital_archive_introduction.pptx: Introduction of common functionalities in digital archive system
